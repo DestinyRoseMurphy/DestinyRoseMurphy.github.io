@@ -7,6 +7,6 @@ tags: posts
 
 <ul>
 {% for post in site.posts %}
-	<li><<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> {{ post.date | date: site.date_format }} </li>
+	<li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> {{ post.date | date: site.date_format }} </li>
 {% endfor %}
 </ul>
