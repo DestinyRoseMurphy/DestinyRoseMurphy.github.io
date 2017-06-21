@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       "Destiny Rose Murphy's Adventures and Blitherings"
+email:       destiny.rose.murphy@gmail.com
+author:      Destiny Rose Murphy
+description: "I'm Destiny Rose, and sometimes I do and think things. This is where I put the parts of my brain that I don't want to keep in my brain."
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://destinyrosemurphy.github.io"
 date_format: "%b %-d, %Y"
 
 # Google services
