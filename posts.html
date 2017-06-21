@@ -5,10 +5,8 @@ permalink: /posts/
 tags: posts
 ---
 
-<h1>All Posts</h1>
-
 <ul>
-{% for post in paginator.posts %}
+{% for post in site.posts %}
 	<li><<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> {{ post.date | date: site.date_format }} </li>
 {% endfor %}
 </ul>
