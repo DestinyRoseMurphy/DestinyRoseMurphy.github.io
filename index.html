@@ -11,7 +11,18 @@ layout: default
 <img src="http://i.imgur.com/4aVImCk.jpg" style="width: 170px; float: right" />
 
 <p>Hello world! Hello beyond as well, I suppose. That would be flattering.
-My name is Destiny Rose Murphy. I'm Christian can you input that live update age tracker right here? old, female, and currently living in Dallas, Texas while I attend SMU. For my undergraduate degree I'm majoring in English, Political Science, and Philosophy, and minoring in Public Policy and International Affairs, and Human Rights. My main goals in life are: to make the United States a better place (which I plan to do via the Supreme Court), to own a narwhal horn (still working out the legal kinks on this one), and to live a life with as much good stuff in it as possible. More on all that later.</p>
+My name is Destiny Rose Murphy. I'm <span id="age">19</span> years old, female, and currently living in Dallas, Texas while I attend SMU. For my undergraduate degree I'm majoring in English, Political Science, and Philosophy, and minoring in Public Policy and International Affairs, and Human Rights. My main goals in life are: to make the United States a better place (which I plan to do via the Supreme Court), to own a narwhal horn (still working out the legal kinks on this one), and to live a life with as much good stuff in it as possible. More on all that later.</p>
+
+<script>
+  const ageSpan = document.getElementById("age");
+  const birthday = new Date("July 23, 1997 15:11:00 GMT-500");
+
+  const update = () => {
+    let ageInYears = (new Date() - birthday) / 1000 / 60 / 60 / 24 / 365;
+    ageSpan.innerText = Math.round(ageInYears * 100000000) / 100000000;
+  }
+  setInterval(update, 100);
+</script>
 
 <p>This blog began because I got my tonsils taken out. During recovery I realized there wasn't a lot of good advice to be found online for people who wanted to recover quickly and strongly. I found lots on how to avoid pain, but not much at all about how to actually be healthy; so, I decided to write a little diddy intended to help others out. Then, partially because sometimes when I can't sleep I write about things, and usually when people read that writing they like it, I decided to expand the blog to everything else.</p>
 
