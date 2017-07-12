@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Off to Oxford"
-date:       2017-07-12
+date:       2017-07-01
 summary:    "I spent all of July and a little bit of August studying abroad in Oxford during the summer between my sophomore and junior year of college. This is the first post about my time there."
 ---
 
