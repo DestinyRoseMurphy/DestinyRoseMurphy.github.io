@@ -2,7 +2,7 @@
 layout:     post
 title:      "My English Adventures"
 date:       2017-08-06
-summary:    "I spent my 2017 romping around the English countryside. From here you can see all of my adventures, and, if you're lazy, you can read the shorter version."
+summary:    "I spent my 2017 summer romping around the English countryside. From here you can see all of my adventures, and, if you're lazy, you can read the shorter versions of my tales."
 ---
 
 I spent my 2017 summer romping around the English countryside and beyond. From this page you can see all of my adventures, and, if you're lazy, you can read the shorter version.
