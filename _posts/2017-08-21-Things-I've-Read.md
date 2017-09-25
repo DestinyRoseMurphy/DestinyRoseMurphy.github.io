@@ -11,4 +11,4 @@ With the start of this new academic year I'm beginning a new series of posts. Fr
 * [Antigone](/details/2017-08-28-Antigone)
 * [Cat's Cradle](/details/2017-09-10-Cats-Cradle)
 * [A Raisin in the Sun](/details/2017-08-28-A-Raisin-in-the-Sun)
-* [Ariel: The Restored Edition](/details-2017-09-25-Ariel-The-Restored-Edition)
+* [Ariel: The Restored Edition](/details/2017-09-25-Ariel-The-Restored-Edition)
