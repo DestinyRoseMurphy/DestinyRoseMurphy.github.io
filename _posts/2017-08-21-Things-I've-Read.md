@@ -9,6 +9,7 @@ With the start of this new academic year I'm beginning a new series of posts. Fr
 
 ## 2017
 
+* [Frankenstein](/details/2017-10-02-Frankenstein)
 * [Ariel: The Restored Edition](/details/2017-09-25-Ariel-The-Restored-Edition)
 * [Cat's Cradle](/details/2017-09-10-Cats-Cradle)
 * [A Raisin in the Sun](/details/2017-08-28-A-Raisin-in-the-Sun)
