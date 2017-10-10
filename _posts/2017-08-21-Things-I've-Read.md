@@ -9,6 +9,7 @@ With the start of this new academic year I'm beginning a new series of posts. Fr
 
 ## 2017
 
+* [Civil Disobedience](/details/2017-10-09-Civil-Disobedience)
 * [The Crying of Lot 49](/details/2017-10-07-The-Crying-of-Lot-49)
 * [Frankenstein](/details/2017-10-02-Frankenstein)
 * [Ariel: The Restored Edition](/details/2017-09-25-Ariel-The-Restored-Edition)
