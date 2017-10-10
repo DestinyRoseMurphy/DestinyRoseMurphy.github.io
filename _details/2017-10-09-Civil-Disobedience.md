@@ -2,7 +2,7 @@
 layout:     post
 title:      "Civil Disobedience"
 date:       2017-10-09
-summary:    "By Henry David Thoreau"
+author:    "By Henry David Thoreau"
 ---
 
 Civil Disobedience is Thoreau's manifesto against the government and the evils of man, institutions, and all other such vague categories that a man rages against when he can't be bothered to outline detailed and fixable grievances. Specifically, Thoreau is decrying slavery and the Mexican War. More generally, Thoreau's literary rage is directed at the government, and the idea of government, that he is an unwilling participant of. 

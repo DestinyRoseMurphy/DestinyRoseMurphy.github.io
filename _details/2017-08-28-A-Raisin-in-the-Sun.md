@@ -2,7 +2,7 @@
 layout:     post
 title:      "A Raisin in the Sun"
 date:       2017-08-28
-summary:    "By Lorriane Hansberry"
+author:    "By Lorriane Hansberry"
 ---
 
 A Raisin in the Sun has earned its place in the American literary canon, in my opinion, far more than many other texts that claim the same honor. Hansberry combines the realities of post WWII African-American life with the highest level of literary craft to produce a final product that reads as both a wonderful novel and stage play. 

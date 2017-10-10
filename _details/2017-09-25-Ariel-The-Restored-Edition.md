@@ -2,7 +2,7 @@
 layout:     post
 title:      "Ariel: The Restored Edition"
 date:       2017-09-25
-summary:    "By Sylvia Plath"
+author:    "By Sylvia Plath"
 ---
 
 Sylvia Plath’s poems, which are reproduced in this book as a facsimile of the manuscript left after her death, seem to come from the heart of a woman who is working with the knowledge that at any day she may die. Several of the poems in this selection were written during the height of the Cuban Missile Crisis, and as such they are riddled throughout with deadly imagery and allusions to the horrors of the Second World War. The freshly nuclear age loomed heavy over this gifted poet, and her intimate confessional-style poetry shows the weight of her fear combined with the stress of motherhood and the hardships of daily life. 

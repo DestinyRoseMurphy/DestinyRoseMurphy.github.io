@@ -2,7 +2,7 @@
 layout:     post
 title:      "Howl and Other Poems"
 date:       2017-08-21
-summary:    "By Allen Ginsberg with an Introduction by William Carlos Williams"
+author:    "By Allen Ginsberg with an Introduction by William Carlos Williams"
 ---
 
 Ginsberg's book of poetry is a gutteral protest against everything inherent in his generation. Filled throughout with references to homosexuality, drug use, the horrors of industrialism, and the consequences of war, this series of poems is seemingly, and according to William Carlos William's introduction, all for one Carl Solomon, the man to which "Howl" is directly addressed.

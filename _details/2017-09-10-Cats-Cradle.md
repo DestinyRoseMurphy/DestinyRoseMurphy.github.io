@@ -2,7 +2,7 @@
 layout:     post
 title:      "Cat's Cradle"
 date:       2017-09-10
-summary:    "By Kurt Vonnegut"
+author:    "By Kurt Vonnegut"
 ---
 
 Cat’s Cradle is written in Vonnegut’s typical satirical sci-fi style, with a narrator that reveals the plot haltingly and through the lens of his own intensely human voice. The novel deals with the story of the end of the world, but the reader must sift through constant references to a made-up religion, and an almost dizzying number of overlapping, similarly named characters to get there. Still, the book is a fast read even with 127 chapters. 

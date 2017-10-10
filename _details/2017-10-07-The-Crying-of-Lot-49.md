@@ -2,7 +2,7 @@
 layout:     post
 title:      "The Crying of Lot 49"
 date:       2017-10-07
-summary:    "By Thomas Pynchon"
+author:    "By Thomas Pynchon"
 ---
 
 The Crying of Lot 49 is a lot of things, but I'm not entirely sure that it's something I would call a novel. It's more like an idea untethered, or a self-driving car gone rogue, careening down a crowded city street, or a thought experiment testing one's understanding of oneself and the world, great practice in the suspension of literary understanding, and really the suspension of reality and understanding at all. 

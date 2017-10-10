@@ -2,7 +2,7 @@
 layout:     post
 title:      "Frankenstein"
 date:       2017-10-02
-summary:    "By Mary Shelley"
+author:    "By Mary Shelley"
 ---
 
 Frankenstein, by Mary Shelley, is not the Monster Mash predecessor that I expected. Shelley tells the reader in an introduction and preface that the novel was written during a ghost-story writing competition with her friends that had been spurred on during a vacation by a sudden thunderstorm and the finding of some old German ghost tales. What Shelley has created is essentially anything but the expected product of a ghost story writing competition. 
