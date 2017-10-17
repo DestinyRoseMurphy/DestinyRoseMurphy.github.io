@@ -13,3 +13,4 @@ I like writing things, which you really should have figured out by now seeing as
 ## 2016
 
 * [A Letter For First Years From a Sophomore](/details/2016-10-07-A-Letter-For-First-Years-From-A-Sophomore)
+* [The Pros and Cons of Legalization](/details/2016-04-22-The-Pros-and-Cons-of-Legalization)
