@@ -12,6 +12,6 @@ I like writing things, which you really should have figured out by now seeing as
 
 ## 2016
 
-* [Finals Freak Out](details/2016-12-16-Finals-Freak-Out)
+* [Finals Freak Out](/details/2016-12-16-Finals-Freak-Out)
 * [A Letter For First Years From a Sophomore](/details/2016-10-07-A-Letter-For-First-Years-From-A-Sophomore)
 * [The Pros and Cons of Legalization](/details/2016-04-22-The-Pros-and-Cons-of-Legalization)
