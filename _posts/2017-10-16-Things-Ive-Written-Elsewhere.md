@@ -9,6 +9,7 @@ I like writing things, which you really should have figured out by now seeing as
 
 ## 2017
 
+* [Southern Methodist Springtime](/details/2017-04-08-Southern-Methodist-Springtime)
 
 ## 2016
 
