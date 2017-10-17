@@ -10,7 +10,7 @@ I like writing things, which you really should have figured out by now seeing as
 ## 2017
 
 * [Southern Methodist Springtime](/details/2017-04-08-Southern-Methodist-Springtime)
-* [Thanks, Chief Justice Earl](details/2017-03-15-Thanks-Chief-Justice-Earl)
+* [Thanks, Chief Justice Earl](/details/2017-03-15-Thanks-Chief-Justice-Earl)
 * [Something I Will Never Forget](/details/2017-01-30-Something-I-Will-Never-Forget)
 
 ## 2016
