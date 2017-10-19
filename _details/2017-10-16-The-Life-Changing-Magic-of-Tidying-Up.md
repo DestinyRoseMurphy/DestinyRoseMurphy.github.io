@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "The Life-Changing Art of Tidying Up"
+title:      "The Life-Changing Magic of Tidying Up"
 date:       2017-10-16
 author:    "By Marie Kondo"
 ---

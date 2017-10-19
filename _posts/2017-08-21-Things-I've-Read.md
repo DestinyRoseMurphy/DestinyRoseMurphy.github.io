@@ -10,7 +10,7 @@ With the start of this new academic year I'm beginning a new series of posts. Fr
 ## 2017
 
 * [Anything You Want](/details/2017-10-18-Anything-You-Want)
-* [The Life Changing Art of Tidying Up](/details/2017-10-16-The-Life-Changing-Art-of-Tidying-Up)
+* [The Life Changing Magic of Tidying Up](/details/2017-10-16-The-Life-Changing-Art-of-Tidying-Up)
 * [Civil Disobedience](/details/2017-10-09-Civil-Disobedience)
 * [The Crying of Lot 49](/details/2017-10-07-The-Crying-of-Lot-49)
 * [Frankenstein](/details/2017-10-02-Frankenstein)
