@@ -17,7 +17,7 @@ All of these items survived my purging - below I detail why. If you like somethi
 * American Airlines blanket - I don't create a lot of body heat, and I spend most of my days in frigidly air-conditioned buildings, so I carry one of those free American Airlines blankets with me for emergencies. I probably use it once a week. I haven't found any blanket as perfectly small, warm, easily folded. 
 * Collapsible black travel umbrella - Purchased in a little shop in England when I found myself caught in the rain, this umbrella is perfect for emergencies. 
 * Plastic Bag of drugs, band-aids, & feminine products - Useful for emergencies as well, especially for helping others. 
-* 8GB 12 Inch MacBook and charger - Owned by a friend of mine who let me borrow it when my laptop crashed during finals.
+* 8GB 12 Inch MacBook and charger - Owned by [a friend of mine](http://christian.gen.co/) who let me borrow it when my laptop crashed during finals.
 * BlueSky Weekly/Monthly July-June Agenda - I bought this agenda my freshman year and found it to be so perfect that I have bought an identical version every year since. It couldn't be better. 
 * Decomposition Books - A stylish and environmentally friendly option for school notes. A little more expensive than a plan composition book, but worth it. 
 * Allies bag tag - Awarded to me after my completion of Allies training to denote my official Allie status. 
