@@ -22,10 +22,9 @@ All of these items survived my purging - below I detail why. If you like somethi
 * Decomposition Books - A stylish and environmentally friendly option for school notes. A little more expensive than a plan composition book, but worth it. 
 * Allies bag tag - Awarded to me after my completion of Allies training to denote my official Allie status. 
 
-- My Purse
+## My Purse
 
 * Black Dooney & Burke purse - A gift old enough that I don't remember when I got it, but quality purses hold up to a lot of use, and this shoulder purse is big and professional enough for everything I need, while still remaining casual and carry-able.
-*
 
 #### In That Purse
 
