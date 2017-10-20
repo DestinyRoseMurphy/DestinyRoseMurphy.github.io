@@ -30,7 +30,7 @@ All of these items survived my purging - below I detail why. If you like somethi
 
 * Grey Giorgio Armani glasses - I need them to see, and I look objectively better with them on.
 * iPhone 6 - Several versions old now, but still working fine (if a little slowly).
-* Pink and white OtterBox wallet phone case - Keeps my phone from cracking even though I drop it nearly every day, and holds my drivers license, Chase debit, and Discover credit card. It's discoloring now with use, but has never broken. Discover's Cashback function helps me to get little rebates as I improve my credit with little food purchases. 
+* Pink and white OtterBox wallet phone case - Keeps my phone from cracking even though I drop it nearly every day, and holds my drivers license, BBVA Compass debit, and Discover credit card. It's discoloring now with use, but has never broken. Discover's Cashback function helps me to get little rebates as I improve my credit with little food purchases. 
 * Neiman Marcus yellow card/coin purse - Another years old gift that has never lost its usefulness. Holds my health insurance card, cash and coins, and whatever gift or rewards cards needed on a particular day.
 * Ford Escape car key - Loose in my purse. Should probably not be.
 * Tiny carabiner - Only a couple inches in length, but it holds my house and work keys, and my school ID.
