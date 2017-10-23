@@ -9,6 +9,7 @@ I like writing things, which you really should have figured out by now seeing as
 
 ## 2017
 
+* [5 Take-aways from Global Health Diplomacy](/details/2017-10-23-5-Take-aways-from-Global-Health-Diplomacy)
 * [Investment and Risk in Energy Transport](/details/2017-09-26-Investment-and-Risk-in-Energy-Transport)
 * [Southern Methodist Springtime](/details/2017-04-08-Southern-Methodist-Springtime)
 * [Thanks, Chief Justice Earl](/details/2017-03-15-Thanks-Chief-Justice-Earl)
