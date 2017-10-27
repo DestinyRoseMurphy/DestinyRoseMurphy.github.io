@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "What Football Will Look Like in the Future"
+title:      "What Football Will Look Like in the Future: 17776"
 date:       2017-10-26
 author:    "By Jon Bois"
 ---
