@@ -5,7 +5,7 @@ date:       2017-10-07
 author:    "By Thomas Pynchon"
 ---
 
-The Crying of Lot 49 is a lot of things, but I'm not entirely sure that it's something I would call a novel. It's more like an idea untethered, or a self-driving car gone rogue, careening down a crowded city street, or a thought experiment testing one's understanding of oneself and the world, great practice in the suspension of literary understanding, and really the suspension of reality and understanding at all. 
+[The Crying of Lot 49](http://amzn.to/2icOIYv) is a lot of things, but I'm not entirely sure that it's something I would call a novel. It's more like an idea untethered, or a self-driving car gone rogue, careening down a crowded city street, or a thought experiment testing one's understanding of oneself and the world, great practice in the suspension of literary understanding, and really the suspension of reality and understanding at all. 
 
 Pynchon treats every action, event, person and thing as Chekov's gun, so that halfway through the book the reader is numb to clues, and merely pointing her pupils at each new string of modifiers. This does not make for a particularly enjoyable reader experience. Slogging through Pynchon's level of reference and allegory is confusing at best and painful at worst, but, to his credit, is also unique. 
 
