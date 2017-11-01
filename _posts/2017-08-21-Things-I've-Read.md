@@ -9,7 +9,7 @@ With the start of this new academic year I'm beginning a new series of posts. Fr
 
 ## 2017
 
-* [Wuthering Heights](2017-11-1-Wuthering-Heights)
+* [Wuthering Heights](/details/2017-11-1-Wuthering-Heights)
 * [The Armies of the Night: History as a Novel, The Novel as History](/details/2017-10-27-The-Armies-of-the-Night-History-as-a-Novel-the-Novel-as-History)
 * [What Football Will Look Like in the Future: 17776](/details/2017-10-26-What-Football-Will-Look-Like-in-the-Future:-17776.md)
 * [Anything You Want](/details/2017-10-18-Anything-You-Want)
