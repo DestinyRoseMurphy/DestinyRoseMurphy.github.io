@@ -9,6 +9,7 @@ With the start of this new academic year I'm beginning a new series of posts. Fr
 
 ## 2017
 
+* [Democracy](/details/2017-11-17-Democracy)
 * [Mumbo Jumbo](/details/2017-11-5-Mumbo-Jumbo)
 * [Wuthering Heights](/details/2017-11-1-Wuthering-Heights)
 * [The Armies of the Night: History as a Novel, The Novel as History](/details/2017-10-27-The-Armies-of-the-Night-History-as-a-Novel-the-Novel-as-History)
