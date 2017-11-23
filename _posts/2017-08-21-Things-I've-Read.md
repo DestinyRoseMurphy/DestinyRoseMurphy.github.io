@@ -9,6 +9,7 @@ With the start of this new academic year I'm beginning a new series of posts. Fr
 
 ## 2017
 
+* [Adam Bede](/details/2017-11-23-Adam-Bede)
 * [Democracy](/details/2017-11-17-Democracy)
 * [Mumbo Jumbo](/details/2017-11-5-Mumbo-Jumbo)
 * [Wuthering Heights](/details/2017-11-1-Wuthering-Heights)
