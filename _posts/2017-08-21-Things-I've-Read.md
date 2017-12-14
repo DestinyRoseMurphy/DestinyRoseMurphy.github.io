@@ -10,7 +10,7 @@ With the start of this new academic year I'm beginning a new series of posts. Fr
 ## 2017
 
 
-* [Locked In](/details/2017-12-13-Locked-In)
+* [Locked In: The True Causes of Mass Incarceration and How to Achieve Real Reform](/details/2017-12-13-Locked-In)
 * [Adam Bede](/details/2017-11-23-Adam-Bede)
 * [Democracy](/details/2017-11-17-Democracy)
 * [Mumbo Jumbo](/details/2017-11-05-Mumbo-Jumbo)
