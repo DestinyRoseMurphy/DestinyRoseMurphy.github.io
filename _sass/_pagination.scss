@@ -26,7 +26,8 @@
 
 .pagination a:hover, .pagination a:focus {
   background: white;
-  color: #477dca;
+  // color: #477dca;
+  opacity: 0.88;
 }
 
 .pagination a:active {

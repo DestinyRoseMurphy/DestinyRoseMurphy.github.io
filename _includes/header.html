@@ -1,9 +1,18 @@
-<header class="site-header px2 px-responsive">
+<header class="site-header px2 px-responsive" style="background-color: #99000F">
   <div class="mt2 wrap">
     <div class="measure">
-      <a href="{{ site.url }}" class="site-title" style="max-width: 50%">{{ site.title }}</a>
-      <nav class="site-nav">
-        {% include navigation.html %}
+      <a href="{{ site.url }}" class="site-title" style="float: none; color: #E6E8E6">{{ site.title }}</a>
+      
+      <nav class="site-nav" style="float: none; text-align: left; color: #E6E8E6">
+        <a style="color: #E6E8E6" href="/posts">Posts</a> 
+        <a style="color: #E6E8E6" href="/contact">Contact Me</a>
+      </nav>
+
+      <nav class="site-nav" style="float: none; color: #E6E8E6; text-align: left">
+        <span> Things I've:</span>
+        <a style="color: #E6E8E6" href="/2017/10/16/Things-I've-Written-Elsewhere">Written</a>
+        <a style="color: #E6E8E6" href="/2017/08/21/Things-I've-Read">Read</a>
+        <a style="color: #E6E8E6" href="/2017/10/19/Things-I-Own">Kept</a>
       </nav>
       <div class="clearfix"></div>
       {% if site.show_social_icons %}
@@ -12,3 +21,4 @@
     </div>
   </div>
 </header>
+
