@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Things I Own"
+title:      "Things I've Kept"
 date:       2017-10-19
 summary:    "After reading Marie Kondo's The Life-Changing Magic of Tidying Up I was inspired to get rid of everything I own that doesn't spark joy in my life. In doing so, I had to touch and truly consider throwing away everything I own. Here's what I decided to keep and why."
 ---

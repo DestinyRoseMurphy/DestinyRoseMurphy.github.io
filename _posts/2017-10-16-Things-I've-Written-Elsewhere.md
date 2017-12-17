@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Things I've Written Elsewhere"
+title:      "Things I've Written (Elsewhere)"
 date:       2017-10-16
 summary:    "Links to articles and the like that I've written for various publications."
 ---
