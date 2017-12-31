@@ -9,7 +9,6 @@ With the start of this new academic year I'm beginning a new series of posts. Fr
 
 ## 2017
 
-* [Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up](/details/2017-12-30-Spark-Joy)
 * [Permutation City](/details/2017-12-17-Permutation-City)
 * [Locked In: The True Causes of Mass Incarceration and How to Achieve Real Reform](/details/2017-12-13-Locked-In)
 * [Adam Bede](/details/2017-11-23-Adam-Bede)
