@@ -13,7 +13,7 @@ With the start of my junior year I'm beginning a new series of posts. Here I'll 
 
 ## 2017
 
-### 19 Total Works (2 Collections of Poetry; 2 Plays; 13 Books; 1 Essay; 1 Mixed Media Story) 13 for School, 6 for Pleasure
+#### 19 Total Works (2 Collections of Poetry; 2 Plays; 13 Books; 1 Essay; 1 Mixed Media Story) 13 for School, 6 for Pleasure
 
 * [Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up](/details/2017-12-30-Spark-Joy)
 * [Permutation City](/details/2017-12-17-Permutation-City)
