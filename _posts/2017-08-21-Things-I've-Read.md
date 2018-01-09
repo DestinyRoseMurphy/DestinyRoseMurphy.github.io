@@ -2,16 +2,18 @@
 layout:     post
 title:      "Things I've Read"
 date:       2017-08-21
-summary:    "With the start of this new academic year I'm beginning a new series of posts. From here you will be able to access my thoughts on every new thing (book, article, collection of poems, etc.) that I read, whether for academic purposes are not. I intend to keep these posts short and to the point, so feel free to browse at leisure if you're interested in finding something new to read at length."
+summary:    "With the start of my junior year I'm beginning a new series of posts. Here I'll store my thoughts on every new thing (book, article, collection of poems, etc.) that I read and have a post's worth of thoughts on, whether academic or recreational. Please browse at your leisure if you're interested in finding something new to read, or just want to read my rants. I'll try to keep all these under a 3 minute read."
 ---
 
-With the start of this new academic year I'm beginning a new series of posts. From here you will be able to access my thoughts on every new thing (book, article, poem, etc.) that I read, whether for academic purposes are not. I intend to keep these posts short and to the point, so feel free to browse at leisure if you're interested in finding something new to read at length.
+With the start of my junior year I'm beginning a new series of posts. Here I'll store my thoughts on every new thing (book, article, collection of poems, etc.) that I read and have a post's worth of thoughts on, whether academic or recreational. Please browse at your leisure if you're interested in finding something new to read, or just want to read my rants. I'll try to keep all these under a 3 minute read.
 
 ## 2018
 
 * [Relationships](/details/2018-01-08-Relationships)
 
 ## 2017
+
+### 19 Total Works (2 Collections of Poetry; 2 Plays; 13 books; 1 Essay; 1 Mixed Media Story) 13 for School, 6 for Pleasure
 
 * [Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up](/details/2017-12-30-Spark-Joy)
 * [Permutation City](/details/2017-12-17-Permutation-City)
