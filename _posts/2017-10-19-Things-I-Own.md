@@ -7,7 +7,7 @@ summary:    "After reading Marie Kondo's The Life-Changing Magic of Tidying Up I
 
 The original inspiration for this was Marie Kondo's book *The Life-Changing Magic of Tidying Up,* which [I really enjoyed.](/details/2017-10-16-The-Life-Changing-Magic-of-Tidying-Up) Kondo's thesis is simple: anything that doesn't "spark joy" in your life should be gotten rid of. So, I purged, and everything I kept (and why I have it) is listed below. If you like something and it's underlined, click on it! You'll be sent to Amazon so you can buy it and try it out for yourself.
 
-This list was compiled January 11th, 2018. It's the first iteration of this post, which I'll (try to) be updating regularly. You'll notice an obscene amount of detail here; that's purposeful. By admitting to every item in my home I have to be willing to defend every item, or to accept that it's indefensible. If you have suggestions please give them! I keep notes on all the things I think I should be buying smarter in my "What I Need to Improve" section.
+This list was compiled January 11th, 2018. It's the first iteration of this post, which I'll (try to) update annually. You'll notice an obscene amount of detail here; that's purposeful. By admitting to every item in my home I have to be willing to defend every item, or to accept that it's indefensible. If you have suggestions please give them! I keep notes on what I think I to put more thought into in my "What I Need to Improve" section, and would love to put your notes there as well.
 
 
 * What I Need to Improve
@@ -75,8 +75,9 @@ This list was compiled January 11th, 2018. It's the first iteration of this post
 * Toothbrush, Toothpaste, and Floss - Before I learned my gums swell because of my sugar consumption I thought I was brushing my teeth wrong, so I currently have a super soft toothbrush and [toothpaste marketed as gentle.](http://amzn.to/2EwEvja) They appear to make no difference, but I use the floss regularly and it helps
 * [Primal Pit Paste Deodorant](http://amzn.to/2DlXEVq) - Because regular deodorant might be bad for me? Need to do research to justify this stuff. 
 * [Kleenex with Lotion](http://amzn.to/2CSOoao) - Boxes of these are all over my place, but the extras live here so here's where I'll list them. These are the softest and sturdiest tissues I've found, and I blow my nose constantly.
-* Kotex [Tampons,](http://amzn.to/2CSIHt6) [Pads,](http://amzn.to/2DjxAKx) and [Pantiliners](http://amzn.to/2Do2ulh) - Now just for emergencies since I've transfered to the [Diva Cup](http://amzn.to/2zqtBNt). I keep them in a monogrammed little bag that brings me joy, making them pass the KondoMari test.
-* [Toilet Paper](http://amzn.to/2qUxd6N) - The nice kind, because your butt is worth it. 
+* Kotex [Tampons,](http://amzn.to/2CSIHt6) [Pads,](http://amzn.to/2DjxAKx) and [Panty Liners](http://amzn.to/2Do2ulh) - Now just for emergencies since I've transfered to the [Diva Cup](http://amzn.to/2zqtBNt). I keep them in a monogrammed little bag that brings me joy, making them pass the KondoMari test.
+* [Toilet Paper](http://amzn.to/2qUxd6N) - The nice kind, because your butt is worth it.
+* Lint Roller - For that last minute in-the-mirror touch. 
 * [IKEA FILUR trash can](http://www.ikea.com/us/en/catalog/products/40188340/?query=401.883.40) - The perfect size for sitting next to the toilet with a handy dandy lid to cover up the nasties within. A very artistic friend decorated mine beautifully with sharpie, and now this simple household necessity is a tiny beacon of happiness. 
 * Coconut Oil Scent Diffuser - Because nobody's bathroom smells good on its own. 
 
