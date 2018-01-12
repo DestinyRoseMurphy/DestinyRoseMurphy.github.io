@@ -2,46 +2,126 @@
 layout:     post
 title:      "Things I've Kept"
 date:       2017-10-19
-summary:    "After reading Marie Kondo's The Life-Changing Magic of Tidying Up I was inspired to get rid of everything I own that doesn't spark joy in my life. In doing so, I had to touch and truly consider throwing away everything I own. Here's what I decided to keep and why."
+summary:    "After reading Marie Kondo's The Life-Changing Magic of Tidying Up I was inspired to get rid of everything I own that doesn't spark joy in my life. That meant I had to touch and truly consider throwing away everything I own. Here's what I decided to keep and why."
 ---
 
-Below is a complete list of everything I own, as of October 19th, 2017. This is the first iteration of this post, which I'll be updating regularly. The original inspiration for this was Marie Kondo's book *The Life-Changing Magic of Tidying Up,* which [I reviewed.](/details/2017-10-16-The-Life-Changing-Magic-of-Tidying-Up) Kondo's thesis is simple: anything that doesn't "spark joy" in your life should be gotten rid of.
-All of these items survived my purging - below I detail why. If you like something and it's underlined, click on it! You'll be sent to Amazon and you can get it for yourself!
+The original inspiration for this was Marie Kondo's book *The Life-Changing Magic of Tidying Up,* which [I really enjoyed.](/details/2017-10-16-The-Life-Changing-Magic-of-Tidying-Up) Kondo's thesis is simple: anything that doesn't "spark joy" in your life should be gotten rid of. So, I purged, and everything I kept (and why I have it) is listed below. If you like something and it's underlined, click on it! You'll be sent to Amazon so you can buy it and try it out for yourself.
+
+This list was compiled January 11th, 2018. It's the first iteration of this post, which I'll (try to) be updating regularly. You'll notice an obscene amount of detail here; that's purposeful. By admitting to every item in my home I have to be willing to defend every item, or to accept that it's indefensible. If you have suggestions please give them! I keep notes on all the things I think I should be buying smarter in my "What I Need to Improve" section.
+
+
+* What I Need to Improve
+* Everyday Carry
+* Kitchen
+* Bathroom
+
+
+## What I Need to Improve
+
+* I haven't put a whole lot of thought or research into what goes in and around my body during bathroom time. Seeing as things like soap, toothpaste, and deodorant touch sensitive parts of me every day, I should probably do some research.
+* Specifically within the bathroom I should cement my knowledge of hair and makeup products. These things can affect my confidence a lot during the day, and I'm currently blundering through them.  
 
 ## Everyday Carry - My Backpack
 
-* My stepmother's Navy-issue backpack - When my step-mom, who was an equipment operator chief in the Navy reserves, retired from the service she got rid of all her military-issue supplies, and she gave me the option to take anything I wanted. My entire life I had gotten a new backpack for each school year because I destroyed each pack throughout the course of each year. I took her backpack on a whim, thinking it might stand up a little longer to my textbooks. That was in 2014, and it's still holding strong today.
+* My stepmother's Navy-issue backpack - When my stepmom, who was an equipment operator chief in the Navy reserves, retired she got rid of all her military-issue supplies, and she gave me the option to take anything I wanted. My entire life I had gotten a new backpack at the beginning of each school year, torn it to pieces via the weight and stress of my schoolwork, and repeated the process. I took her backpack on a whim, thinking it might stand up a little longer to my textbooks. That was in 2014, and it's still holding strong today.
 
 #### In That Backpack
 
 * American Airlines blanket - I don't create a lot of body heat, and I spend most of my days in frigidly air-conditioned buildings, so I carry one of those free American Airlines blankets with me for emergencies. I probably use it once a week. I haven't found any blanket as perfectly small, warm, easily folded. 
 * Collapsible black travel umbrella - Purchased in a little shop in England when I found myself caught in the rain, this umbrella is perfect for emergencies. 
-* Plastic Bag of drugs, band-aids, & feminine products - Useful for emergencies as well, especially for helping others. 
-* 8GB 12 Inch MacBook and charger - Owned by [a friend of mine](http://christian.gen.co/) who let me borrow it when my laptop crashed during finals.
+* Plastic Bag of drugs, band-aids, & feminine products - Also useful for emergencies, especially for helping others. 
+* 8GB 12 Inch MacBook and charger - Owned by [a friend of mine](http://christian.gen.co/) who let me borrow it when my laptop crashed during finals. This lappy is perfectly small so as not to weigh down my bag every day, but also heavy duty enough to help me manage all my work.
 * BlueSky Weekly/Monthly July-June Agenda - I bought this agenda my freshman year and found it to be so perfect that I have bought an identical version every year since. It couldn't be better. 
-* [Decomposition Books](http://amzn.to/2h3wYSX) - A stylish and environmentally friendly option for school notes. A little more expensive than a plan composition book, but worth it. 
-* Allies bag tag - Awarded to me after my completion of Allies training to denote my official Allie status. 
+* [Decomposition Books](http://amzn.to/2h3wYSX) - A stylish and environmentally friendly option for school notes. A little more expensive than a plain composition book, but worth it. 
+* Allies bag tag - Awarded to me after my completion of Allies training. 
 
 ## My Purse
 
-* Black Dooney & Burke purse - A gift old enough that I don't remember when I got it, but quality purses hold up to a lot of use, and this shoulder purse is big and professional enough for everything I need, while still remaining casual and carry-able.
+* Black Dooney & Burke purse - A gift old enough that I don't remember when I got it. Quality purses hold up to a lot of use though, and this shoulder bag is perfectly sized and professional enough for business carry, while still remaining casual enough that I can be comfortable using it everywhere. 
 
 #### In That Purse
 
 * Grey Giorgio Armani glasses - I need them to see, and I look objectively better with them on.
 * iPhone 6 - Several versions old now, but still working fine (if a little slowly).
-* [Pink and white OtterBox wallet phone case](http://amzn.to/2znYeCR) - Keeps my phone from cracking even though I drop it nearly every day, and holds my drivers license, BBVA Compass debit, and Discover credit card. It's discoloring now with use, but has never broken. Discover's Cashback function helps me to get little rebates as I improve my credit with little food purchases. 
+* [Pink and white OtterBox wallet phone case](http://amzn.to/2znYeCR) - Keeps my phone from cracking even though I drop it nearly every day, and holds my drivers license, BBVA Compass debit, and Discover credit card. It's discoloring now with use, but has never broken. Discover's Cashback function helps me get little rebates as I improve my credit with Chipotle on Fridays. 
 * Neiman Marcus yellow card/coin purse - Another years old gift that has never lost its usefulness. Holds my health insurance card, cash and coins, and whatever gift or rewards cards needed on a particular day.
-* Ford Escape car key - Loose in my purse. Should probably not be.
-* Tiny carabiner - Only a couple inches in length, but it holds my house and work keys, and my school ID.
-* Monogrammed business card holder - Given to me as a going away gift by my first internship, this holds my student business cards. 
-* [Anita NARS lipstick](http://amzn.to/2iRYtzb) - The perfect professional shade, with a magnetic case that doesn't come open in your purse
-* [Vera Bradley On a Roll pencil bag](http://amzn.to/2zpqNjg) - Nomadic floral patterned. Holds various pencils, pens, erasers, highlighters, and Sharpies that rotate as I find and lose them.
-* [Precise V5 RT Pilot Pen](http://amzn.to/2zpqogK) - The smoothest, most penetrating ink pen I've found. This one lives outside of my pencil bag so that I still have a pen even when I take my pencil bag out for non-school functions.
-* urBeats by Dre headphones - A gift that functions and has a nifty tiny bag for carrying. 
-* [eos lip balm](http://amzn.to/2xNEpRb) - These spherical lip balms are incredibly difficult to lose, making them invaluable. I'm currently on the purple striped one, and I have been for months.
+* Tiny carabiner - Only a couple inches in length, but it holds my house, car, and work keys, and my school ID.
+* Monogrammed business card holder - Given to me as a going away gift by my first internship, this holds my student business cards. A great way to look surprisingly adult in a room full of real adults.
+* [Anita NARS lipstick](http://amzn.to/2iRYtzb) - The perfect professional shade, with a magnetic case that doesn't come open in your purse.
+* [Vera Bradley On a Roll pencil bag](http://amzn.to/2zpqNjg) - Nomadic floral patterned. Holds various pencils, pens, erasers, highlighters, and Sharpies that rotate as I find and lose them, plus the two special writing instruments below.
+* [Precise V5 RT Pilot Pen](http://amzn.to/2zpqogK) - The smoothest ink pen I've found. Good enough that I'd re-buy it if I lost it, unlike every other pen I own.
+* [rOtring 600 0.5mm Black Barrel Mechanical Pencil](http://amzn.to/2CQJo65) - I was using the cheapest mechanical pencil I could find for years until I was gifted this beauty. It's heavy enough to sit nicely in a hand, the lead virtually never breaks, and it writes wonderfully. 
+* urBeats by Dre headphones - A gift that functions well and has a nifty magnetic bag for storage, so the chord doesn't get tangled in literally everything. 
+* [eos lip balm](http://amzn.to/2xNEpRb) - These spherical lip balms are incredibly difficult to lose, making them invaluable.
 * Fingernail clippers - The cheapest and smallest I could find
-* Tampax tampons - I'm currently experimenting with using a [diva cup,](http://amzn.to/2zqtBNt) but these are good for emergencies and for helping out friends in need. 
-* Benadryl - Because I'm allergic to some orange dyes and so need to carry antihistamines with me everywhere. 
-* Minastrin daily birth control
+* [Diva Cup](http://amzn.to/2zqtBNt) - Safer and less trash-producing than tampons. Switching to this was weird, but now I lovingly refer to it as my blood cup and carry it everywhere.  
+* Benadryl - Because I'm allergic to some orange dyes and so need to carry antihistamines with at all times.
+* Minastrin daily birth control 
 * Albuterol sulfate inhaler - Because sometimes my meat suit betrays me and forgets how to breathe. 
+
+## Kitchen
+
+* Paper Towels - I bought the cheap ones and have never regretted such a small purchase so much in my life. The commercials were right. They don't absorb anything and tear tear-ibly. Never again.
+
+## Bathroom
+
+#### General
+
+* Shampoo & Conditioner - I usually use [Herbal Essence Moroccan Shine](http://amzn.to/2CRXV1k) because it smells heavenly, but I was gifted [a Paul Mitchell set](http://amzn.to/2CRg6Eh) so right now I'm using that all fancy like. I don't have much hair though, so I'm not sure I can tell the difference. 
+* Loofa, Body Wash, and Hand Soap - Changes constantly, and is often just a fancy soap given by a family member in a stocking. Currently that fancy soap is [Aveeno Lavender, Chamomile + Ylang-Ylang.](http://amzn.to/2mht47k), the hand soap I think is from England, and my loofa is a pleasant bright orange. Do I know what Ylang-Ylang is? Nope. Smells great though. 
+* Face Wash and Washer - I've had pretty noticeable acne all my life, so I've experimented with soaps a lot. [Origins Checks and Balances](http://amzn.to/2FvyHaL) does a great job for my skin, and only takes about 60 seconds in the shower thanks to my [Olay Face Brush](http://amzn.to/2CRiieZ). I'd recommend both to just about everyone. 
+* Razors - I buy them cheap, and always from the men's shaving aisle. Hoping to someday get enough laser hair removal to never need them again.
+* Towels - Right now I have three sets: one purple, one teal, and one of extra large white. Considering downsizing this to two if the whites don't get much use. Also currently using the purple hand towel as a bathmat, which is sad. 
+* Toothbrush, Toothpaste, and Floss - Before I learned my gums swell because of my sugar consumption I thought I was brushing my teeth wrong, so I currently have a super soft toothbrush and [toothpaste marketed as gentle.](http://amzn.to/2EwEvja) They appear to make no difference, but I use the floss regularly and it helps
+* [Primal Pit Paste Deodorant](http://amzn.to/2DlXEVq) - Because regular deodorant might be bad for me? Need to do research to justify this stuff. 
+* [Kleenex with Lotion](http://amzn.to/2CSOoao) - Boxes of these are all over my place, but the extras live here so here's where I'll list them. These are the softest and sturdiest tissues I've found, and I blow my nose constantly.
+* Kotex [Tampons,](http://amzn.to/2CSIHt6) [Pads,](http://amzn.to/2DjxAKx) and [Pantiliners](http://amzn.to/2Do2ulh) - Now just for emergencies since I've transfered to the [Diva Cup](http://amzn.to/2zqtBNt). I keep them in a monogrammed little bag that brings me joy, making them pass the KondoMari test.
+* [Toilet Paper](http://amzn.to/2qUxd6N) - The nice kind, because your butt is worth it. 
+* [IKEA FILUR trash can](http://www.ikea.com/us/en/catalog/products/40188340/?query=401.883.40) - The perfect size for sitting next to the toilet with a handy dandy lid to cover up the nasties within. A very artistic friend decorated mine beautifully with sharpie, and now this simple household necessity is a tiny beacon of happiness. 
+* Coconut Oil Scent Diffuser - Because nobody's bathroom smells good on its own. 
+
+#### Hair
+I'm really bad at doing hair, so I cut most of mine off, which means I now use a barrage of aerosols to turn what hair I do have into something presentable each morning. I don't really know how any of these work, and whether or not I have a good hair day is often about as dependent on my skill level as it is dependent on the phase of the moon and the number of seagulls over the West coast. Nevertheless, these tools seem to help.
+
+* [TRESemmé Hairspray](http://amzn.to/2EAULiP) and [Mousse](http://amzn.to/2qRBWG8)
+* [Puff Me Volumizing Cloud Mist](http://amzn.to/2FrJLFZ)
+* [Axe Styling Putty](http://amzn.to/2EBe2ky)
+* [Conair Hair Dryer](http://amzn.to/2DnsYTE)
+* Hair Brush
+
+#### Makeup
+I like makeup in the same way I like my laptop: I'm 100% sure that I use it incorrectly 50% of the time, but it's fun and useful nonetheless. Most of my collection is either gifts, free samples, or pieces my helpful friends at Sephora have pointed me to when I come in with an empty foundation and a look of terror. Bless them and their patience.
+
+* Vera Bradley cosmetics bag - I think this is a cosmetics bag at least, because it's lined with an easily cleanable plastic. It's too small to be a toiletries bag proper, but it's the perfect size to ensure I don't accumulate more makeup than I need (and it's very pretty).
+* [7 Piece Elf Brush Set](http://amzn.to/2FvsifB) 
+* [Makeup Forever Mascara](http://amzn.to/2D3I5nv)
+* [Hello Flawless Powder](http://amzn.to/2D0uT35)
+* [Tarte BB Cream](http://amzn.to/2DpxiCd)
+* [Makeup Forever Concealer](http://amzn.to/2qYcZsO)
+* [Origins Concealer](http://amzn.to/2mm867o)
+* [Kat Von D Lipstick HEXAGRAM](http://amzn.to/2Dl2Dph)
+* Sephora Contour & Color Lip Colors: [Rosewood](http://amzn.to/2FvOC91), [Light Nude](http://amzn.to/2DpkETG), [Deep Rose](http://amzn.to/2Dpl6Bm)
+* Clinique Lipsticks: [A Different Grape](http://amzn.to/2EyTjOh) & [Bamboo Pink](http://amzn.to/2Dj7M17)
+* Wet 'n' Wild MegaSparkle Confetti
+* [Clinique Rinse off Eye Makeup Solvent](http://amzn.to/2mlQ1pN)
+* [Clinique Take the Day Off Makeup Remover](http://amzn.to/2CU99SU)
+* Clinique Bronzer, Eye Shadow Duo, and Blusher Combo
+
+#### Medicine Cabinet
+All things that I don't use every day, but that I do use enough to keep around. Hoping to reduce the amount of medicine I keep on hand by getting healthier as a person, but I have no intention of reducing my festive Band-Aid collection.
+
+* Cotton balls, Cotton Pads, and Q-Tips
+* Nail Polish Remover and Nine Polishes 
+* Tweezers and Two Nail Clippers
+* Witch Hazel, Hydrogen Peroxide, and Neosporin
+* Rudolph, Star Wars, Disney Princess, SMU, and Shakespearian Insult Band-Aids
+* Ibuprofen, Acetaminophen, and Naproxen Sodium
+* Oral Thermometer
+* Chloraseptic Spray and Cough Drops
+* Benadryl and CVS brand Benadryl, Walgreens and CVS brand Sudafed
+* NyQuil Cold and Flu, Mucinex DM, CVS Brand Cough DM, Zicam Cold Remedy Rapidmelts
+* Debrox Earwax Removal Aid and Ear Wax Flusher Bulb
+* Rose Clay Face Mask and Reindeer Sheet Mask
+* 50 SPF Sunscreen
+* One Each of Travel Shampoo, Conditioner, Body Wash, and Toothpaste in little travel bag
+* Condoms and Fluconazole
