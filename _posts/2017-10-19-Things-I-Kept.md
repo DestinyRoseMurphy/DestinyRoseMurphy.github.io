@@ -72,11 +72,11 @@ This list was compiled January 11th, 2018. It's the first iteration of this post
 
 ## Kitchen
 
-I got my first kitchen all to myself in the fall semester of 2017, and I've been trying to figure out how to cook ever since. On the hardware side I try to follow Saint Alton's advice and [stay away from "Unitaskers,"](https://lifehacker.com/watch-alton-brown-demonstrate-why-unitaskers-have-no-1749470145) and I have so many opinions about what foods we put in our bodies that I wrote a Ted Talk and used it to talk to kids about drugs.  
+I got my first kitchen all to myself in the fall semester of 2017, and I've been trying to figure out how to cook ever since. On the hardware side I try to follow Saint Alton's advice and [stay away from "Unitaskers,"](https://lifehacker.com/watch-alton-brown-demonstrate-why-unitaskers-have-no-1749470145) and I have so many opinions about what foods we put in our bodies that I wrote a Tedx Talk and used it to talk to kids about drugs.  
 
 #### Hardware
 
-* Chicago Cutlery 8 Piece Knife Set 
+* Chicago Cutlery 10 Piece Knife Set 
 * 8 Glass Cups - [Because BPA from plastic is probably bad for you.](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/bpa/faq-20058331)
 * 4 Wine Glasses
 * [11 Ball Mason Jars](http://amzn.to/2CWev0e) - Aesthetic, so they can be used as cups for parties and for decorations, and seal-able, so they're great for throwing smoothies or snacks in to take to work. 
@@ -99,6 +99,7 @@ I got my first kitchen all to myself in the fall semester of 2017, and I've been
 * [IKEA KALLAX Bookcase](http://amzn.to/2DqabqZ) and [Drawers](http://amzn.to/2Dpk6gz)- I got the grey shelves and the black drawers to serve as a pantry
 * 32 Magnets: Bottle Opener, Light, [Cat, Dog, Farm, and Safari Butts](http://amzn.to/2DcMi8u), and Teeth
 * An Upsetting Number of Things in my Kitchen Catch-All Drawer - 4 scoop measures, holed and un-holed cooking spoons, soup ladle, wine bottle opener, can opener, tongs, mixing spatula, wooden spatula, holed and un-holed frying pan spatulas, whisk, nutcracker and two nut picks, spiralizer.
+* A Glass Flower Vase
 
 #### In and Under the Sink
 
