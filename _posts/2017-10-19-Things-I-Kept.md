@@ -11,9 +11,9 @@ This list was compiled January 11th, 2018. It's the first iteration of this post
 
 
 * [What I Need to Improve](#Improve)
-* [Everyday Carry]
-* [Kitchen]
-* [Bathroom]
+* [Everyday Carry](#Everyday)
+* [Kitchen](#Kitchen)
+* [Bathroom](#Bathroom)
 
 
 ## <a name="Improve"></a> What I Need to Improve
@@ -22,7 +22,7 @@ This list was compiled January 11th, 2018. It's the first iteration of this post
 * Specifically within the bathroom I should cement my knowledge of hair and makeup products. These things can affect my confidence a lot during the day, and I'm currently blundering through them. 
 * Should upgrade from plastic to glass for kitchen items like tupperware and pitchers. 
 
-## Everyday Carry - My Backpack
+## <a name="Everyday"></a> Everyday Carry - My Backpack
 
 * My stepmother's Navy-issue backpack - When my stepmom, who was an equipment operator chief in the Navy reserves, retired she got rid of all her military-issue supplies, and she gave me the option to take anything I wanted. My entire life I had gotten a new backpack at the beginning of each school year, torn it to pieces via the weight and stress of my schoolwork, and repeated the process. I took her backpack on a whim, thinking it might stand up a little longer to my textbooks. That was in 2014, and it's still holding strong today.
 
@@ -70,7 +70,7 @@ This list was compiled January 11th, 2018. It's the first iteration of this post
 
 
 
-## Kitchen
+## <a name="Kitchen"></a> Kitchen
 
 I got my first kitchen all to myself in the fall semester of 2017, and I've been trying to figure out how to cook ever since. On the hardware side I try to follow Saint Alton's advice and [stay away from "Unitaskers,"](https://lifehacker.com/watch-alton-brown-demonstrate-why-unitaskers-have-no-1749470145) and I have so many opinions about what foods we put in our bodies that I wrote a Tedx Talk and used it to talk to kids about drugs.  
 
@@ -121,7 +121,7 @@ I got my first kitchen all to myself in the fall semester of 2017, and I've been
 
 
 
-## Bathroom
+## <a name="Bathroom"></a> Bathroom
 
 #### General
 
