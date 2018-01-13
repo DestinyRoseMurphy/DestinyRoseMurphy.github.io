@@ -10,13 +10,13 @@ The original inspiration for this was Marie Kondo's book *The Life-Changing Magi
 This list was compiled January 11th, 2018. It's the first iteration of this post, which I'll (try to) update annually. You'll notice an obscene amount of detail here; that's purposeful. By admitting to every item in my home I have to be willing to defend every item, or to accept that it's indefensible. If you have suggestions please give them! I keep notes on what I think I to put more thought into in my "What I Need to Improve" section, and would love to put your notes there as well.
 
 
-* What I Need to Improve
-* Everyday Carry
-* Kitchen
-* Bathroom
+* [What I Need to Improve](#Improve)
+* [Everyday Carry]
+* [Kitchen]
+* [Bathroom]
 
 
-## What I Need to Improve
+## <a name="Improve"></a> What I Need to Improve
 
 * I haven't put a whole lot of thought or research into what goes in and around my body during bathroom time. Seeing as things like soap, toothpaste, and deodorant touch sensitive parts of me every day, I should probably do some research.
 * Specifically within the bathroom I should cement my knowledge of hair and makeup products. These things can affect my confidence a lot during the day, and I'm currently blundering through them. 
