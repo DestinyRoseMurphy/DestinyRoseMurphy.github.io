@@ -19,7 +19,8 @@ This list was compiled January 11th, 2018. It's the first iteration of this post
 ## What I Need to Improve
 
 * I haven't put a whole lot of thought or research into what goes in and around my body during bathroom time. Seeing as things like soap, toothpaste, and deodorant touch sensitive parts of me every day, I should probably do some research.
-* Specifically within the bathroom I should cement my knowledge of hair and makeup products. These things can affect my confidence a lot during the day, and I'm currently blundering through them.  
+* Specifically within the bathroom I should cement my knowledge of hair and makeup products. These things can affect my confidence a lot during the day, and I'm currently blundering through them. 
+* Should upgrade from plastic to glass for kitchen items like tupperware and pitchers. 
 
 ## Everyday Carry - My Backpack
 
@@ -59,9 +60,65 @@ This list was compiled January 11th, 2018. It's the first iteration of this post
 * Minastrin daily birth control 
 * Albuterol sulfate inhaler - Because sometimes my meat suit betrays me and forgets how to breathe. 
 
+
+
+
+
+
+
+
+
+
+
 ## Kitchen
 
+I got my first kitchen all to myself in the fall semester of 2017, and I've been trying to figure out how to cook ever since. On the hardware side I try to follow Saint Alton's advice and [stay away from "Unitaskers,"](https://lifehacker.com/watch-alton-brown-demonstrate-why-unitaskers-have-no-1749470145) and I have so many opinions about what foods we put in our bodies that I wrote a Ted Talk and used it to talk to kids about drugs.  
+
+#### Hardware
+
+* Chicago Cutlery 8 Piece Knife Set 
+* 8 Glass Cups - [Because BPA from plastic is probably bad for you.](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/bpa/faq-20058331)
+* 4 Wine Glasses
+* [11 Ball Mason Jars](http://amzn.to/2CWev0e) - Aesthetic, so they can be used as cups for parties and for decorations, and sealable, so they're great for throwing smoothies or snacks in to take to work. 
+* 6 Plastic Tupperware
+* 4 Large Plates, 4 Small Plates, and 4 Bowls - These are bright yellow and made of something that makes them dishwasher, microwave, and oven safe. They couldn't be better. 
+* [KitchenAid Stand Mixer](http://amzn.to/2D8nBKF)
+* [Faberware Blender](http://amzn.to/2D949yh)
+* [Cast Iron Pan](http://amzn.to/2Funwzf) - Though often harder to cook on than my non-stick pans, cast iron probably won't give you cancer, unlike non-stick pans, [which might](https://www.cancer.org/cancer/cancer-causes/teflon-and-perfluorooctanoic-acid-pfoa.html). So, I'm trying really hard to learn to cook eggs on this thing.
+* 4 Nonstick Pans & 4 Nonstick Pots
+* 7 Pot and Pan Lids
+* Cookie Sheet and Broiler Pan
+* 2 Strainers
+* 2 Glass Measuring Cups
+* 4 Knives, 4 Forks, 4 Spoons, 2 Sets of Chopsticks
+* One Large and One Small Cutting Boards
+* 7 Metal Mixing Bowls
+* Metal Casserole Pan
+* Britta Water Filter
+* 1 Gallon Plastic Pitcher
+* [IKEA KALLAX Bookcase](http://amzn.to/2DqabqZ) and [Drawers](http://amzn.to/2Dpk6gz)- I got the grey shelves and the black drawers to serve as a pantry
+* 32 Magnets: Bottle Opener, Light, [Cat, Dog, Farm, and Safari Butts](http://amzn.to/2DcMi8u), and Teeth
+* An Upsetting Number of Things in my Kitchen Catch-All Drawer - 4 scoop measurerers, holed and un-holed cooking spoons, soup ladel, wine bottle opener, can opener, tongs, mixing spatula, wooden spatula, holed and un-holed frying pan spatulas, whisk, nutcracker and two nut picks, spiralizer.
+
+#### In and Under the Sink
+
+* [Copper Wool w/8 Refills](http://amzn.to/2FvWYNX) - Lots of people disagree about [how to properly clean cast iron.](https://www.blessthismessplease.com/how-to-clean-and-reseason-cast-iro/) I think copper wool gets the gunk off super easily without the use of soap, so I prefer it.
+* [Dish Soap,](http://amzn.to/2D8BdFA) Dishwashing Gloves, 2 Dish Sponges, and a [Dish Brush](http://amzn.to/2Dc6Eie) 
 * Paper Towels - I bought the cheap ones and have never regretted such a small purchase so much in my life. The commercials were right. They don't absorb anything and tear tear-ibly. Never again.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Bathroom
 
