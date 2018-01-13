@@ -10,10 +10,10 @@ The original inspiration for this was Marie Kondo's book *The Life-Changing Magi
 This list was compiled January 11th, 2018. It's the first iteration of this post, which I'll (try to) update annually. You'll notice an obscene amount of detail here; that's purposeful. By admitting to every item in my home I have to be willing to defend every item, or to accept that it's indefensible. If you have suggestions please give them! I keep notes on what I think I to put more thought into in my "What I Need to Improve" section, and would love to put your notes there as well.
 
 
-* [What I Need to Improve](#Improve)
-* [Everyday Carry](#Everyday)
-* [Kitchen](#Kitchen)
-* [Bathroom](#Bathroom)
+[What I Need to Improve](#Improve)
+[Everyday Carry](#Everyday)
+[Kitchen](#Kitchen)
+[Bathroom](#Bathroom)
 
 
 ## <a name="Improve"></a> What I Need to Improve
