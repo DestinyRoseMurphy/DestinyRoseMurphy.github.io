@@ -88,6 +88,7 @@ I got my first kitchen all to myself in the fall semester of 2017, and I've been
 * 4 Nonstick Pans & 4 Nonstick Pots
 * 7 Pot and Pan Lids
 * Cookie Sheet and Broiler Pan
+* [Good Cook Oven Thermometer](http://amzn.to/2ECH57d)
 * 2 Strainers
 * 2 Glass Measuring Cups
 * 4 Knives, 4 Forks, 4 Spoons, 2 Sets of Chopsticks
