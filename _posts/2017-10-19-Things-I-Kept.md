@@ -79,7 +79,7 @@ I got my first kitchen all to myself in the fall semester of 2017, and I've been
 * Chicago Cutlery 10 Piece Knife Set 
 * 8 Glass Cups - [Because BPA from plastic is probably bad for you.](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/bpa/faq-20058331)
 * 4 Wine Glasses
-* [11 Ball Mason Jars](http://amzn.to/2CWev0e) - Aesthetic, so they can be used as cups for parties and for decorations, and seal-able, so they're great for throwing smoothies or snacks in to take to work. 
+* [12 Ball Mason Jars](http://amzn.to/2CWev0e) - Aesthetic, so they can be used as cups for parties and for decorations, and seal-able, so they're great for throwing smoothies or snacks in to take to work. 
 * 6 Plastic Tupperware
 * 4 Large Plates, 4 Small Plates, and 4 Bowls - These are bright yellow and made of something that makes them dishwasher, microwave, and oven safe. They couldn't be better. 
 * [KitchenAid Stand Mixer](http://amzn.to/2D8nBKF)
@@ -105,7 +105,13 @@ I got my first kitchen all to myself in the fall semester of 2017, and I've been
 #### In and Under the Sink
 
 * [Copper Wool w/8 Refills](http://amzn.to/2FvWYNX) - Lots of people disagree about [how to properly clean cast iron.](https://www.blessthismessplease.com/how-to-clean-and-reseason-cast-iro/) I think copper wool gets the gunk off super easily without the use of soap, so I prefer it.
+* [Clorox Wipes](http://amzn.to/2D6oosg)
+* [Windex Multisurface Vinegar](http://amzn.to/2D4TIHL)
+* [Meyer's Clean Day Dish Soap](http://amzn.to/2r7xEe1)
 * [Dish Soap,](http://amzn.to/2D8BdFA) Dish-washing Gloves, 2 Dish Sponges, and a [Dish Brush](http://amzn.to/2Dc6Eie) 
+* [Cascade Dishwasher Detergent](http://amzn.to/2D899iq)
+* [Tide Pods,](http://amzn.to/2DBMkot) a tiny Tide Cool Cotton bottle, and a huge Tide detergent bag
+* [Downy Dryer Sheets](http://amzn.to/2r8yVl7) - The Lavender smell. Always the lavender smell. 
 * Paper Towels - I bought the cheap ones and have never regretted such a small purchase so much in my life. The commercials were right. They don't absorb anything and tear tear-ibly. Never again.
 
 
