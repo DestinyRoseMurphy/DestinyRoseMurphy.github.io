@@ -20,7 +20,8 @@ This list was compiled January 11th, 2018. It's the first iteration of this post
 
 * I haven't put a whole lot of thought or research into what goes in and around my body during bathroom time. Seeing as things like soap, toothpaste, and deodorant touch sensitive parts of me every day, I should probably do some research.
 * Specifically within the bathroom I should cement my knowledge of hair and makeup products. These things can affect my confidence a lot during the day, and I'm currently blundering through them. 
-* Should upgrade from plastic to glass for kitchen items like tupperware and pitchers. 
+* Should upgrade from plastic to glass for kitchen items like Tupperware and pitchers. 
+* Does the kind of soap I use for things like dishes and laundry matter? I feel like it might but don't know, so that needs researching. 
 
 ## <a name="Everyday"></a> Everyday Carry - My Backpack
 
@@ -51,7 +52,7 @@ This list was compiled January 11th, 2018. It's the first iteration of this post
 * [Anita NARS lipstick](http://amzn.to/2iRYtzb) - The perfect professional shade, with a magnetic case that doesn't come open in your purse.
 * [Vera Bradley On a Roll pencil bag](http://amzn.to/2zpqNjg) - Nomadic floral patterned. Holds various pencils, pens, erasers, highlighters, and Sharpies that rotate as I find and lose them, plus the two special writing instruments below.
 * [Precise V5 RT Pilot Pen](http://amzn.to/2zpqogK) - The smoothest ink pen I've found. Good enough that I'd re-buy it if I lost it, unlike every other pen I own.
-* [rOtring 600 0.5mm Black Barrel Mechanical Pencil](http://amzn.to/2CQJo65) - I was using the cheapest mechanical pencil I could find for years until I was gifted this beauty. It's heavy enough to sit nicely in a hand, the lead virtually never breaks, and it writes wonderfully. 
+* [rOtring 600 0.5 mm Black Barrel Mechanical Pencil](http://amzn.to/2CQJo65) - I was using the cheapest mechanical pencil I could find for years until I was gifted this beauty. It's heavy enough to sit nicely in a hand, the lead virtually never breaks, and it writes wonderfully. 
 * urBeats by Dre headphones - A gift that functions well and has a nifty magnetic bag for storage, so the chord doesn't get tangled in literally everything. 
 * [eos lip balm](http://amzn.to/2xNEpRb) - These spherical lip balms are incredibly difficult to lose, making them invaluable.
 * Fingernail clippers - The cheapest and smallest I could find
@@ -106,7 +107,7 @@ I got my first kitchen all to myself in the fall semester of 2017, and I've been
 
 * [Copper Wool w/8 Refills](http://amzn.to/2FvWYNX) - Lots of people disagree about [how to properly clean cast iron.](https://www.blessthismessplease.com/how-to-clean-and-reseason-cast-iro/) I think copper wool gets the gunk off super easily without the use of soap, so I prefer it.
 * [Clorox Wipes](http://amzn.to/2D6oosg)
-* [Windex Multisurface Vinegar](http://amzn.to/2D4TIHL)
+* [Windex Multi-surface Vinegar](http://amzn.to/2D4TIHL)
 * [Meyer's Clean Day Dish Soap](http://amzn.to/2r7xEe1)
 * [Dish Soap,](http://amzn.to/2D8BdFA) Dish-washing Gloves, 2 Dish Sponges, and a [Dish Brush](http://amzn.to/2Dc6Eie) 
 * [Cascade Dishwasher Detergent](http://amzn.to/2D899iq)
