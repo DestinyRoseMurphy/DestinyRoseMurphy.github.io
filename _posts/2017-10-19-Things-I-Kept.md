@@ -27,6 +27,12 @@ This list was compiled January 11th, 2018. It's the first iteration of this post
 * [Makeup](#Makeup)
 * [Medicine Cabinet](#Medicine)
 
+<p style="margin-bottom: 0;"><a href="#Hobbies">Hobbies</a></p>
+
+* [Tea](#Tea)
+* [Rock Climbing](#Rock)
+* [Biking](#Bike)
+
 
 ## <a name="Improve"></a> What I Need to Improve
 
@@ -126,7 +132,8 @@ I got my first kitchen all to myself in the fall semester of 2017, and I've been
 * Loofa, Body Wash, and Hand Soap - Changes constantly, and is often just a fancy soap given by a family member in a stocking. Currently that fancy soap is [Aveeno Lavender, Chamomile + Ylang-Ylang.](http://amzn.to/2mht47k), the hand soap I think is from England, and my loofa is a pleasant bright orange. Do I know what Ylang-Ylang is? Nope. Smells great though. 
 * Face Wash and Washer - I've had pretty noticeable acne all my life, so I've experimented with soaps a lot. [Origins Checks and Balances](http://amzn.to/2FvyHaL) does a great job for my skin, and only takes about 60 seconds in the shower thanks to my [Olay Face Brush](http://amzn.to/2CRiieZ). I'd recommend both to just about everyone. 
 * Razors - I buy them cheap, and always from the men's shaving aisle. Hoping to someday get enough laser hair removal to never need them again.
-* Towels - Right now I have three sets: one purple, one teal, and one of extra large white. Considering downsizing this to two if the whites don't get much use. Also currently using the purple hand towel as a bathmat, which is sad. 
+* Towels - Right now I have three sets: one purple, one teal, and one of extra large white. Considering downsizing this to two if the whites don't get much use. 
+* [Bath Mat](https://www.target.com/p/ultra-soft-bath-grape-lavender-21-x30-threshold-153/-/A-50316233?ref=&ref=OpsEmail_Order_280&j=7173&sfmc_sub=220351560&l=20_HTML&u=1856896&mid=7284873&jb=1240935) - Unfortunately quite a bit lighter in color than I thought, but it's better than the towel I had been using.
 * Toothbrush, Toothpaste, and Floss - Before I learned my gums swell because of my sugar consumption I thought I was brushing my teeth wrong, so I currently have a super soft toothbrush and [toothpaste marketed as gentle.](http://amzn.to/2EwEvja) They appear to make no difference, but I use the floss regularly and it helps
 * [Primal Pit Paste Deodorant](http://amzn.to/2DlXEVq) - Because regular deodorant might be bad for me? Need to do research to justify this stuff. 
 * [Kleenex with Lotion](http://amzn.to/2CSOoao) - Boxes of these are all over my place, but the extras live here so here's where I'll list them. These are the softest and sturdiest tissues I've found, and I blow my nose constantly.
@@ -150,6 +157,8 @@ I like makeup in the same way I like my laptop: I'm 100% sure that I use it inco
 
 * Vera Bradley cosmetics bag - I think this is a cosmetics bag at least, because it's lined with an easily cleanable plastic. It's too small to be a toiletries bag proper, but it's the perfect size to ensure I don't accumulate more makeup than I need (and it's very pretty).
 * [7 Piece Elf Brush Set](http://amzn.to/2FvsifB) 
+* [Sephora Airbrush Sponge](https://www.sephora.com/product/the-painter-airbrush-sponge-P394161)
+* [Sephora Solid Brush Cleaner](https://www.sephora.com/product/solid-clean-solid-brush-cleaner-P389120)
 * [Makeup Forever Mascara](http://amzn.to/2D3I5nv)
 * [Hello Flawless Powder](http://amzn.to/2D0uT35)
 * [Tarte BB Cream](http://amzn.to/2DpxiCd)
@@ -181,3 +190,7 @@ All things that I don't use every day, but that I do use enough to keep around. 
 * 50 SPF Sunscreen
 * One Each of Travel Shampoo, Conditioner, Body Wash, and Toothpaste in little travel bag
 * Condoms and Fluconazole
+
+## <a name="Hobbies"></a> Hobbies
+
+#### <a name="Tea"></a> Tea
