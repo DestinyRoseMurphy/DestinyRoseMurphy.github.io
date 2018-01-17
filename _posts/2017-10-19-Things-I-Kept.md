@@ -15,7 +15,7 @@ This list was compiled January 11th, 2018. It's the first iteration of this post
 * [Purse](#Purse)
 [Kitchen](#Kitchen)
 * [Hardware](#Hardware)
-* [In and Under the Sink](#Sink)
+* [In and Under the Sink](#Sink)<br>
 [Bathroom](#Bathroom)
 * [Hair](#Hair)
 * [Makeup](#Makeup)
