@@ -11,7 +11,7 @@ This list was compiled January 11th, 2018. It's the first iteration of this post
 
 [What I Need to Improve](#Improve) 
 
-[Everyday Carry](#Everyday)
+<p style="margin-bottom: 0;"><a href="#Everyday">Everyday Carry</a></p>
 
 * [Backpack](#Backpack)
 * [Purse](#Purse)
@@ -21,7 +21,7 @@ This list was compiled January 11th, 2018. It's the first iteration of this post
 * [Hardware](#Hardware)
 * [In and Under the Sink](#Sink)
 
-[Bathroom](#Bathroom)
+<p style="margin-bottom: 0;"><a href="#Bathroom">Bathroom</a></p>
 
 * [Hair](#Hair)
 * [Makeup](#Makeup)
