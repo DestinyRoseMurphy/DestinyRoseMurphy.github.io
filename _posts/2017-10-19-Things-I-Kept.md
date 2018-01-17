@@ -12,7 +12,7 @@ This list was compiled January 11th, 2018. It's the first iteration of this post
 [What I Need to Improve](#Improve)<br>
 [Everyday Carry](#Everyday)
 * [Backpack](#Backpack)
-* [Purse](#Purse)
+* [Purse](#Purse) <br>
 [Kitchen](#Kitchen)
 * [Hardware](#Hardware)
 * [In and Under the Sink](#Sink)<br>
