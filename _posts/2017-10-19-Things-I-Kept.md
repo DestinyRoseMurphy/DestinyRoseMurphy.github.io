@@ -8,18 +8,18 @@ summary:    "After reading Marie Kondo's The Life-Changing Magic of Tidying Up I
 The original inspiration for this was Marie Kondo's book *The Life-Changing Magic of Tidying Up,* which [I really enjoyed.](/details/2017-10-16-The-Life-Changing-Magic-of-Tidying-Up) Kondo's thesis is simple: anything that doesn't "spark joy" in your life should be gotten rid of. So, I purged, and everything I kept (and why I have it) is listed below. If you like something and it's underlined, click on it! You'll be sent to Amazon so you can buy it and try it out for yourself.
 
 This list was compiled January 11th, 2018. It's the first iteration of this post, which I'll (try to) update annually. You'll notice an obscene amount of detail here; that's purposeful. By admitting to every item in my home I have to be willing to defend every item, or to accept that it's indefensible. If you have suggestions please give them! I keep notes on what I think I to put more thought into in my "What I Need to Improve" section, and would love to put your notes there as well.
-
-[What I Need to Improve](#Improve)<br>
+<UL>
+[What I Need to Improve](#Improve)
 [Everyday Carry](#Everyday)
-* [Backpack](#Backpack)
-* [Purse](#Purse) <br>
+<LI>[Backpack](#Backpack)
+<LI>[Purse](#Purse)
 [Kitchen](#Kitchen)
-* [Hardware](#Hardware)
-* [In and Under the Sink](#Sink)<br>
+<LI>[Hardware](#Hardware)
+<LI>[In and Under the Sink](#Sink)
 [Bathroom](#Bathroom)
-* [Hair](#Hair)
-* [Makeup](#Makeup)
-* [Medicine Cabinet](#Medicine)
+<LI>[Hair](#Hair)
+<LI>[Makeup](#Makeup)
+<LI>[Medicine Cabinet](#Medicine)
 
 ## <a name="Improve"></a> What I Need to Improve
 
