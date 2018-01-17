@@ -12,8 +12,15 @@ This list was compiled January 11th, 2018. It's the first iteration of this post
 
 [What I Need to Improve](#Improve)
 [Everyday Carry](#Everyday)
+* [Backpack](#Backpack)
+* [Purse](#Purse)
 [Kitchen](#Kitchen)
+* [Hardware](#Hardware)
+* [In and Under the Sink](#Sink)
 [Bathroom](#Bathroom)
+* [Hair](#Hair)
+* [Makeup](#Makeup)
+* [Medicine Cabinet](#Medicine)
 
 
 ## <a name="Improve"></a> What I Need to Improve
@@ -23,7 +30,7 @@ This list was compiled January 11th, 2018. It's the first iteration of this post
 * Should upgrade from plastic to glass for kitchen items like Tupperware and pitchers. 
 * Does the kind of soap I use for things like dishes and laundry matter? I feel like it might but don't know, so that needs researching. 
 
-## <a name="Everyday"></a> Everyday Carry - My Backpack
+## <a name="Everyday"></a> <a name="Backpack"></a> Everyday Carry - My Backpack
 
 * My stepmother's Navy-issue backpack - When my stepmom, who was an equipment operator chief in the Navy reserves, retired she got rid of all her military-issue supplies, and she gave me the option to take anything I wanted. My entire life I had gotten a new backpack at the beginning of each school year, torn it to pieces via the weight and stress of my schoolwork, and repeated the process. I took her backpack on a whim, thinking it might stand up a little longer to my textbooks. That was in 2014, and it's still holding strong today.
 
@@ -38,7 +45,7 @@ This list was compiled January 11th, 2018. It's the first iteration of this post
 * Allies bag tag - Awarded to me after my completion of Allies training. 
 * Flower Pin - Awarded to me for winning a limerick contest at the Pub Sing at Scarborough Faire. 
 
-## My Purse
+## <a name="Purse"></a> My Purse
 
 * Black Dooney & Burke purse - A gift old enough that I don't remember when I got it. Quality purses hold up to a lot of use though, and this shoulder bag is perfectly sized and professional enough for business carry, while still remaining casual enough that I can be comfortable using it everywhere. 
 
@@ -62,21 +69,11 @@ This list was compiled January 11th, 2018. It's the first iteration of this post
 * Minastrin daily birth control 
 * Albuterol sulfate inhaler - Because sometimes my meat suit betrays me and forgets how to breathe. 
 
-
-
-
-
-
-
-
-
-
-
 ## <a name="Kitchen"></a> Kitchen
 
 I got my first kitchen all to myself in the fall semester of 2017, and I've been trying to figure out how to cook ever since. On the hardware side I try to follow Saint Alton's advice and [stay away from "Unitaskers,"](https://lifehacker.com/watch-alton-brown-demonstrate-why-unitaskers-have-no-1749470145) and I have so many opinions about what foods we put in our bodies that I wrote a Tedx Talk and used it to talk to kids about drugs.  
 
-#### Hardware
+#### <a name="Hardware"></a> Hardware
 
 * Chicago Cutlery 10 Piece Knife Set 
 * 8 Glass Cups - [Because BPA from plastic is probably bad for you.](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/bpa/faq-20058331)
@@ -104,7 +101,7 @@ I got my first kitchen all to myself in the fall semester of 2017, and I've been
 * An Upsetting Number of Things in my Kitchen Catch-All Drawer - 4 scoop measures, holed and un-holed cooking spoons, soup ladle, wine bottle opener, can opener, tongs, mixing spatula, wooden spatula, holed and un-holed frying pan spatulas, whisk, nutcracker and two nut picks, spiralizer.
 * A Glass Flower Vase
 
-#### In and Under the Sink
+#### <a name="Sink"></a> In and Under the Sink
 
 * [Copper Wool w/8 Refills](http://amzn.to/2FvWYNX) - Lots of people disagree about [how to properly clean cast iron.](https://www.blessthismessplease.com/how-to-clean-and-reseason-cast-iro/) I think copper wool gets the gunk off super easily without the use of soap, so I prefer it.
 * [Clorox Wipes](http://amzn.to/2D6oosg)
@@ -115,20 +112,6 @@ I got my first kitchen all to myself in the fall semester of 2017, and I've been
 * [Tide Pods,](http://amzn.to/2DBMkot) a tiny Tide Cool Cotton bottle, and a huge Tide detergent bag
 * [Downy Dryer Sheets](http://amzn.to/2r8yVl7) - The Lavender smell. Always the lavender smell. 
 * Paper Towels - I bought the cheap ones and have never regretted such a small purchase so much in my life. The commercials were right. They don't absorb anything and tear tear-ibly. Never again.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## <a name="Bathroom"></a> Bathroom
 
@@ -148,7 +131,7 @@ I got my first kitchen all to myself in the fall semester of 2017, and I've been
 * [IKEA FILUR trash can](http://www.ikea.com/us/en/catalog/products/40188340/?query=401.883.40) - The perfect size for sitting next to the toilet with a handy dandy lid to cover up the nasties within. A very artistic friend decorated mine beautifully with sharpie, and now this simple household necessity is a tiny beacon of happiness. 
 * Coconut Oil Scent Diffuser - Because nobody's bathroom smells good on its own. 
 
-#### Hair
+#### <a name="Hair"></a> Hair
 I'm really bad at doing hair, so I cut most of mine off, which means I now use a barrage of aerosols to turn what hair I do have into something presentable each morning. I don't really know how any of these work, and whether or not I have a good hair day is often about as dependent on my skill level as it is dependent on the phase of the moon and the number of seagulls over the West coast. Nevertheless, these tools seem to help.
 
 * [TRESemmé Hairspray](http://amzn.to/2EAULiP) and [Mousse](http://amzn.to/2qRBWG8)
@@ -157,7 +140,7 @@ I'm really bad at doing hair, so I cut most of mine off, which means I now use a
 * [Conair Hair Dryer](http://amzn.to/2DnsYTE)
 * Hair Brush
 
-#### Makeup
+#### <a name="Makeup"></a> Makeup
 I like makeup in the same way I like my laptop: I'm 100% sure that I use it incorrectly 50% of the time, but it's fun and useful nonetheless. Most of my collection is either gifts, free samples, or pieces my helpful friends at Sephora have pointed me to when I come in with an empty foundation and a look of terror. Bless them and their patience.
 
 * Vera Bradley cosmetics bag - I think this is a cosmetics bag at least, because it's lined with an easily cleanable plastic. It's too small to be a toiletries bag proper, but it's the perfect size to ensure I don't accumulate more makeup than I need (and it's very pretty).
@@ -175,7 +158,7 @@ I like makeup in the same way I like my laptop: I'm 100% sure that I use it inco
 * [Clinique Take the Day Off Makeup Remover](http://amzn.to/2CU99SU)
 * Clinique Bronzer, Eye Shadow Duo, and Blusher Combo
 
-#### Medicine Cabinet
+#### <a name="Medicine"></a> Medicine Cabinet
 All things that I don't use every day, but that I do use enough to keep around. Hoping to reduce the amount of medicine I keep on hand by getting healthier as a person, but I have no intention of reducing my festive Band-Aid collection.
 
 * Cotton balls, Cotton Pads, and Q-Tips
