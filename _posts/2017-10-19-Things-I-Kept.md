@@ -18,6 +18,8 @@ This list was compiled January 11th, 2018. It's the first iteration of this post
 
 [Kitchen](#Kitchen)
 
+<p style="margin-bottom: 0;"><a href="#Kitchen">Kitchen</a></p>
+
 * [Hardware](#Hardware)
 * [In and Under the Sink](#Sink)
 
