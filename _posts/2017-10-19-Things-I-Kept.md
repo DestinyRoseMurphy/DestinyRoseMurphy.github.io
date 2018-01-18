@@ -211,6 +211,25 @@ I count tea as a hobby, not a food, because the purpose of tea is never to nutri
 * [Teavana Winterberry Green Tea](http://amzn.to/2DJlyKB)
 * Yamamotoyama Roasted Green Tea
 
+##### Oolong
+* [Cultured Cup Alishan Mountain Oolong](https://www.theculturedcup.com/collections/oolong-tea/products/alishan-mountain-oolong#sub-header)
+
+##### Black 
+* [Twinnings Irish Breakfast](http://amzn.to/2DgLRXw)
+* [Fortnum and Mason Irish Breakfast](http://amzn.to/2mKtKSO)
+* Private Selection English Breakfast
+* [For Tea's Sake English Breakfast](http://amzn.to/2EPfHDa)
+* Oxford Breakfast Blend
+* [Taylors Scottish Breakfast](http://amzn.to/2mJST06)
+* Spice and Tea Exchange International Breakfast
+* [Cultured Cup Ceylon Lumbini Estate](https://www.theculturedcup.com/collections/black-tea/products/ceylon-lumbini#sub-header)
+* [Twinnings Lady Grey](http://amzn.to/2FQJL2y)
+* [Teavana Golden Monkey](http://amzn.to/2DIzSD9)
+* Black Tea with Roses from the Palace of Versailles
+* Sleepy Hollow Pumpkin Chai
+* Lover's Leap Estate Tea from Nuwara Eliya, Sri Lanka
+* Unmarked bag of tea that I think I got at a Ren Fest? Who knows. It smells like black tea.
+
 ##### Infusions
 No tea plant in these, but I still put them in hot water and drink them.
 
