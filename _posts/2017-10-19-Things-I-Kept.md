@@ -194,3 +194,26 @@ All things that I don't use every day, but that I do use enough to keep around. 
 ## <a name="Hobbies"></a> Hobbies
 
 #### <a name="Tea"></a> Tea
+I count tea as a hobby, not a food, because the purpose of tea is never to nutritionally sustain myself. Yes, green tea will hydrate me, but buying, owning, and offering tea is really about learning new things, refining my pallet, and meeting new people (you'd be amazed what kind of friends you can make with leaf water). Also, I regularly spend way more money on tea than I do on food. While some of these teas are grocery store buys, several of them come from [The Cultured Cup](https://www.theculturedcup.com/pages/how-to-choose-tea#subheader) and other high-quality tea vendors, where a single ounce can be over $25. I have no regrets.
+
+##### White
+* [The Republic of Tea White Tea](http://amzn.to/2DfBBix)
+* Pai Mu Tan White Tea from Fujian Province, China
+
+##### Green 
+* [Allegro Decaf Green Tea](http://amzn.to/2DecAnJ)
+* Kroger Brand Green Tea
+* [Zhena's Gypsy Ultimate Green Tea](http://amzn.to/2DeY5Qp)
+* [The Republic of Tea Spring Cherry Green Tea](http://amzn.to/2mJlGlv)
+* [Teavana Matcha](http://amzn.to/2DJkAxX)
+* [Tazo Zen Green Tea](http://amzn.to/2mGIySH)
+* [Twinnings Jasmine Green Tea](http://amzn.to/2DKzSTt)
+* [Teavana Winterberry Green Tea](http://amzn.to/2DJlyKB)
+* Yamamotoyama Roasted Green Tea
+
+##### Infusions
+No tea plant in these, but I still put them in hot water and drink them.
+
+* [Trader Joe's Apple Cranberry Infusion](http://amzn.to/2DKwR5s)
+* [Traditional Medicinals Mountain Tea](http://amzn.to/2FMNKwV)
+* [Yogi Cold Season Sampler](http://amzn.to/2mJI7GX)
