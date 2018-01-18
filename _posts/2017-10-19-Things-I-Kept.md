@@ -196,11 +196,11 @@ All things that I don't use every day, but that I do use enough to keep around. 
 #### <a name="Tea"></a> Tea
 I count tea as a hobby, not a food, because the purpose of tea is never to nutritionally sustain myself. Yes, green tea will hydrate me, but buying, owning, and offering tea is really about learning new things, refining my pallet, and meeting new people (you'd be amazed what kind of friends you can make with leaf water). Also, I regularly spend way more money on tea than I do on food. While some of these teas are grocery store buys, several of them come from [The Cultured Cup](https://www.theculturedcup.com/pages/how-to-choose-tea#subheader) and other high-quality tea vendors, where a single ounce can be over $25. I have no regrets.
 
-##### White
+###### White
 * [The Republic of Tea White Tea](http://amzn.to/2DfBBix)
 * Pai Mu Tan White Tea from Fujian Province, China
 
-##### Green 
+###### Green 
 * [Allegro Decaf Green Tea](http://amzn.to/2DecAnJ)
 * Kroger Brand Green Tea
 * [Zhena's Gypsy Ultimate Green Tea](http://amzn.to/2DeY5Qp)
@@ -211,10 +211,10 @@ I count tea as a hobby, not a food, because the purpose of tea is never to nutri
 * [Teavana Winterberry Green Tea](http://amzn.to/2DJlyKB)
 * Yamamotoyama Roasted Green Tea
 
-##### Oolong
+###### Oolong
 * [Cultured Cup Alishan Mountain Oolong](https://www.theculturedcup.com/collections/oolong-tea/products/alishan-mountain-oolong#sub-header)
 
-##### Black 
+###### Black 
 * [Twinnings Irish Breakfast](http://amzn.to/2DgLRXw)
 * [Fortnum and Mason Irish Breakfast](http://amzn.to/2mKtKSO)
 * Private Selection English Breakfast
@@ -230,7 +230,7 @@ I count tea as a hobby, not a food, because the purpose of tea is never to nutri
 * Lover's Leap Estate Tea from Nuwara Eliya, Sri Lanka
 * Unmarked bag of tea that I think I got at a Ren Fest? Who knows. It smells like black tea.
 
-##### Infusions
+###### Infusions
 No tea plant in these, but I still put them in hot water and drink them.
 
 * [Trader Joe's Apple Cranberry Infusion](http://amzn.to/2DKwR5s)
