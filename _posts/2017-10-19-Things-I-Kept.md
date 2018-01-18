@@ -232,3 +232,5 @@ I count tea as a hobby, not a food, because the purpose of tea is never to nutri
 	* [Trader Joe's Apple Cranberry Infusion](http://amzn.to/2DKwR5s)
 	* [Traditional Medicinals Mountain Tea](http://amzn.to/2FMNKwV)
 	* [Yogi Cold Season Sampler](http://amzn.to/2mJI7GX)
+
+	<!-- Hardware -->
