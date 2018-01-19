@@ -87,6 +87,7 @@ I got my first kitchen all to myself in the fall semester of 2017, and I've been
 #### <a name="Hardware"></a> Hardware
 
 * Chicago Cutlery 10 Piece Knife Set 
+* [Chicago Cutlery Honing Rod](http://amzn.to/2DgBPWp)
 * 8 Glass Cups - [Because BPA from plastic is probably bad for you.](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/bpa/faq-20058331)
 * 4 Wine Glasses
 * [12 Ball Mason Jars](http://amzn.to/2CWev0e) - Aesthetic, so they can be used as cups for parties and for decorations, and seal-able, so they're great for throwing smoothies or snacks in to take to work. 
