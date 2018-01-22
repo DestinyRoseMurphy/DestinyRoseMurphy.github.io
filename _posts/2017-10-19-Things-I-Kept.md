@@ -124,6 +124,7 @@ I got my first kitchen all to myself in the fall semester of 2017, and I've been
 * [Tide Pods,](http://amzn.to/2DBMkot) a tiny Tide Cool Cotton bottle, and a huge Tide detergent bag
 * [Downy Dryer Sheets](http://amzn.to/2r8yVl7) - The Lavender smell. Always the lavender smell. 
 * Paper Towels - I bought the cheap ones and have never regretted such a small purchase so much in my life. The commercials were right. They don't absorb anything and tear tear-ibly. Never again.
+* One box each for large, medium, and small, high-quality trash bags - For the same reason I will now buy high quality paper towels, but I couldn't think of a pun for this one. 
 
 ## <a name="Bathroom"></a> Bathroom
 
