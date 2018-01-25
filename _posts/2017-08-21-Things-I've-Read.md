@@ -9,7 +9,9 @@ With the start of my junior year I'm beginning a new series of posts. Here I'll 
 
 ## 2018
 
+* [A Rulebook for Arguments](/details/2018-01-24-A-Rulebook)
 * [Relationships](/details/2018-01-08-Relationships)
+
 
 ## 2017
 
