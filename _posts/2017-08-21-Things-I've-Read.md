@@ -17,6 +17,8 @@ With the start of my junior year I'm beginning a new series of posts. Here I'll 
 
 #### 19 Total Works (2 Collections of Poetry; 2 Plays; 13 Books; 1 Essay; 1 Mixed Media Story) 13 for School, 6 for Pleasure
 
+#### Favorite Work: [What Football Will Look Like in the Future: 17776](/details/2017-10-26-What-Football-Will-Look-Like-in-the-Future:-17776)
+This piece surprised me every step of the way and had me ranting and raving for weeks. It'll take you less than a day, you read it on your computer, and I can say with almost certainty that you will never have encountered anything like this story. Check it out. 
 
 * [Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up](/details/2017-12-30-Spark-Joy)
 * [Permutation City](/details/2017-12-17-Permutation-City)
