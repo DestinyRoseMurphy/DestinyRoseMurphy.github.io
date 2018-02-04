@@ -63,7 +63,7 @@ This list was compiled January 11th, 2018. It's the first iteration of this post
 #### In That Purse
 
 * Grey Giorgio Armani glasses - I need them to see, and I look objectively better with them on.
-* Coach Glasses Cleaning Cloth - Came with an older iteration of eyewear; it's just a piece of fabric, and I find it a bit hilarious that the word "Coach" on it makes it special.
+* Coach Glasses Cleaning Cloth - Came with an older iteration of eyewear. Just a piece of cloth, but it says Coach, so I'm fancy.
 * iPhone 6 - Several versions old now, but still working fine (if a little slowly).
 * [Pink and white OtterBox wallet phone case](http://amzn.to/2znYeCR) - Keeps my phone from cracking even though I drop it nearly every day, and holds my drivers license, BBVA Compass debit, and Discover credit card. It's discoloring now with use, but has never broken. Discover's Cashback function helps me get little rebates as I improve my credit with Chipotle on Fridays. 
 * Neiman Marcus yellow card/coin purse - Another years old gift that has never lost its usefulness. Holds my health insurance card, cash and coins, and whatever gift or rewards cards needed on a particular day.
