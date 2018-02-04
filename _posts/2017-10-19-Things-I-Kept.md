@@ -54,7 +54,7 @@ This list was compiled January 11th, 2018. It's the first iteration of this post
 * BlueSky Weekly/Monthly July-June Agenda - I bought this agenda my freshman year and found it to be so perfect that I have bought an identical version every year since. It couldn't be better. 
 * [Decomposition Books](http://amzn.to/2h3wYSX) - A stylish and environmentally friendly option for school notes. A little more expensive than a plain composition book, but worth it. 
 * Allies bag tag - Awarded to me after my completion of Allies training. 
-* Flower Pin - Awarded to me for winning a limerick contest at the Pub Sing at Scarborough Faire. 
+
 
 ## <a name="Purse"></a> My Purse
 
@@ -63,6 +63,7 @@ This list was compiled January 11th, 2018. It's the first iteration of this post
 #### In That Purse
 
 * Grey Giorgio Armani glasses - I need them to see, and I look objectively better with them on.
+* Coach Glasses Cleaning Cloth - Came with an older iteration of eyewear; it's just a piece of fabric, and I find it a bit hilarious that the word "Coach" on it makes it special.
 * iPhone 6 - Several versions old now, but still working fine (if a little slowly).
 * [Pink and white OtterBox wallet phone case](http://amzn.to/2znYeCR) - Keeps my phone from cracking even though I drop it nearly every day, and holds my drivers license, BBVA Compass debit, and Discover credit card. It's discoloring now with use, but has never broken. Discover's Cashback function helps me get little rebates as I improve my credit with Chipotle on Fridays. 
 * Neiman Marcus yellow card/coin purse - Another years old gift that has never lost its usefulness. Holds my health insurance card, cash and coins, and whatever gift or rewards cards needed on a particular day.
