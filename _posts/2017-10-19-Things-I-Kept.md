@@ -53,7 +53,7 @@ This list was compiled January 11th, 2018. It's the first iteration of this post
 * 8GB 12 Inch MacBook and charger - Owned by [a friend of mine](http://christian.gen.co/) who let me borrow it when my laptop crashed during finals. This lappy is perfectly small so as not to weigh down my bag every day, but also heavy duty enough to help me manage all my work.
 * BlueSky Weekly/Monthly July-June Agenda - I bought this agenda my freshman year and found it to be so perfect that I have bought an identical version every year since. It couldn't be better. 
 * [Decomposition Books](http://amzn.to/2h3wYSX) - A stylish and environmentally friendly option for school notes. A little more expensive than a plain composition book, but worth it. 
-* Allies bag tag - Awarded to me after my completion of LGBT [Allies](https://www.hrc.org/blog/how-to-be-an-lgbt-ally) training at SMU. 
+* Allies bag tag - Awarded to me after my completion of [LGBT Allies](https://www.hrc.org/blog/how-to-be-an-lgbt-ally) training at SMU. 
 
 
 ## <a name="Purse"></a> My Purse
