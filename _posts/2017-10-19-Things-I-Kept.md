@@ -53,7 +53,7 @@ This list was compiled January 11th, 2018. It's the first iteration of this post
 * 8GB 12 Inch MacBook and charger - Owned by [a friend of mine](http://christian.gen.co/) who let me borrow it when my laptop crashed during finals. This lappy is perfectly small so as not to weigh down my bag every day, but also heavy duty enough to help me manage all my work.
 * BlueSky Weekly/Monthly July-June Agenda - I bought this agenda my freshman year and found it to be so perfect that I have bought an identical version every year since. It couldn't be better. 
 * [Decomposition Books](http://amzn.to/2h3wYSX) - A stylish and environmentally friendly option for school notes. A little more expensive than a plain composition book, but worth it. 
-* Allies bag tag - Awarded to me after my completion of Allies training. 
+* Allies bag tag - Awarded to me after my completion of LGBT [Allies](https://www.hrc.org/blog/how-to-be-an-lgbt-ally) training at SMU. 
 
 
 ## <a name="Purse"></a> My Purse
@@ -83,7 +83,7 @@ This list was compiled January 11th, 2018. It's the first iteration of this post
 
 ## <a name="Kitchen"></a> Kitchen
 
-I got my first kitchen all to myself in the fall semester of 2017, and I've been trying to figure out how to cook ever since. On the hardware side I try to follow Saint Alton's advice and [stay away from "Unitaskers,"](https://lifehacker.com/watch-alton-brown-demonstrate-why-unitaskers-have-no-1749470145) and I have so many opinions about what foods we put in our bodies that I wrote a Tedx Talk and used it to talk to kids about drugs.  
+I got my first kitchen all to myself in the fall semester of 2017, and I've been trying to figure out how to cook ever since. On the hardware side I try to follow Saint Alton's advice and [stay away from "Unitaskers,"](https://lifehacker.com/watch-alton-brown-demonstrate-why-unitaskers-have-no-1749470145) and I have so many opinions about what foods we put in our bodies that [I wrote a Tedx Talk and used it to talk to kids about drugs.](https://www.youtube.com/watch?v=ba7jgNi4Ew8)  
 
 #### <a name="Hardware"></a> Hardware
 
@@ -134,7 +134,7 @@ I got my first kitchen all to myself in the fall semester of 2017, and I've been
 * Shampoo & Conditioner - I usually use [Herbal Essence Moroccan Shine](http://amzn.to/2CRXV1k) because it smells heavenly, but I was gifted [a Paul Mitchell set](http://amzn.to/2CRg6Eh) so right now I'm using that all fancy like. I don't have much hair though, so I'm not sure I can tell the difference. 
 * Loofa, Body Wash, and Hand Soap - Changes constantly, and is often just a fancy soap given by a family member in a stocking. Currently that fancy soap is [Aveeno Lavender, Chamomile + Ylang-Ylang.](http://amzn.to/2mht47k), the hand soap I think is from England, and my loofa is a pleasant bright orange. Do I know what Ylang-Ylang is? Nope. Smells great though. 
 * Face Wash and Washer - I've had pretty noticeable acne all my life, so I've experimented with soaps a lot. [Origins Checks and Balances](http://amzn.to/2FvyHaL) does a great job for my skin, and only takes about 60 seconds in the shower thanks to my [Olay Face Brush](http://amzn.to/2CRiieZ). I'd recommend both to just about everyone. 
-* Razors - I buy them cheap, and always from the men's shaving aisle. Hoping to someday get enough laser hair removal to never need them again.
+* Razors - I buy them cheap, and always from the men's shaving aisle because of the [pink tax](https://money.usnews.com/money/personal-finance/articles/2016-02-17/the-pink-tax-why-womens-products-often-cost-more). I'd love to invest in laser hair removal and never need these again, but alas, I am far too blond.
 * Towels - Right now I have three sets: one purple, one teal, and one of extra large white. Considering downsizing this to two if the whites don't get much use. 
 * [Bath Mat](https://www.target.com/p/ultra-soft-bath-grape-lavender-21-x30-threshold-153/-/A-50316233?ref=&ref=OpsEmail_Order_280&j=7173&sfmc_sub=220351560&l=20_HTML&u=1856896&mid=7284873&jb=1240935) - Unfortunately quite a bit lighter in color than I thought, but it's better than the towel I had been using.
 * Toothbrush, Toothpaste, and Floss - Before I learned my gums swell because of my sugar consumption I thought I was brushing my teeth wrong, so I currently have a super soft toothbrush and [toothpaste marketed as gentle.](http://amzn.to/2EwEvja) They appear to make no difference, but I use the floss regularly and it helps
