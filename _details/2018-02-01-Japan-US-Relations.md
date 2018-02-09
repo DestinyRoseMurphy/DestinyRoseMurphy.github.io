@@ -2,7 +2,7 @@
 layout:     post
 title:      "Japan-U.S. Relations in the Changing World"
 date:       2018-02-01
-author:    "For Hilltopics"
+author:    "For the Tower Center"
 ---
 
 My first Tower Center event write-up in the Spring semester of my Junior year. I wasn't particularly impressed by this event, but I did learn a few new tidbits.
