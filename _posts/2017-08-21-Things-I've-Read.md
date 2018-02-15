@@ -9,10 +9,11 @@ With the start of my junior year I'm beginning a new series of posts. Here I'll 
 
 ## 2018
 
+* [Richard the Second](/details/2018-02-15-Richard-2)
 * [King John](/details/2018-02-07-King-John)
 * [An Essay Concerning the True Original, Extent and End of Civil Government](/details/2018-02-04-Civil-Government)
 * [Mountains Beyond Mountains](/details/2018-02-04-Mountains)
-* [Richard the Third](/details/2018-02-03-Richard)
+* [Richard the Third](/details/2018-02-03-Richard-3)
 * [A Rulebook for Arguments](/details/2018-01-24-A-Rulebook)
 * [Relationships](/details/2018-01-08-Relationships)
 
