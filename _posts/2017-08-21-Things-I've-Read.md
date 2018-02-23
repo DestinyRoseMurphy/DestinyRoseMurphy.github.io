@@ -9,6 +9,7 @@ With the start of my junior year I'm beginning a new series of posts. Here I'll 
 
 ## 2018
 
+* [Henry the Fourth Part 1](/details/2018-02-23-1H4)
 * [Richard the Second](/details/2018-02-15-Richard-2)
 * [King John](/details/2018-02-07-King-John)
 * [An Essay Concerning the True Original, Extent and End of Civil Government](/details/2018-02-04-Civil-Government)
