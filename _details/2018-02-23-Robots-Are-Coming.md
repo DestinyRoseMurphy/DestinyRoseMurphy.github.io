@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Robots are Coming for Our Jobs. Thank God.""
+title:      "Robots are Coming for Our Jobs. Thank God."
 date:       2018-02-23
 author:    "For Hilltopics"
 ---
