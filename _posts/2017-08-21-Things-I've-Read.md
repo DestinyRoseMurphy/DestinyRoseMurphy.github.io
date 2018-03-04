@@ -9,6 +9,7 @@ With the start of my junior year I'm beginning a new series of posts. Here I'll 
 
 ## 2018
 
+* [Henry the Fifth](/details/2018-03-04-Henry5)
 * [Henry the Fourth Part 2](/details/2018-02-27-2H4)
 * [Henry the Fourth Part 1](/details/2018-02-23-1H4)
 * [Richard the Second](/details/2018-02-15-Richard-2)
