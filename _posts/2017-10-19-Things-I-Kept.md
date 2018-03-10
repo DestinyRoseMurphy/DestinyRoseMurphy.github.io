@@ -122,7 +122,7 @@ I got my first kitchen all to myself in the fall semester of 2017, and I've been
 * [Meyer's Clean Day Dish Soap](http://amzn.to/2r7xEe1)
 * [Dish Soap,](http://amzn.to/2D8BdFA) Dish-washing Gloves, 2 Dish Sponges, and a [Dish Brush](http://amzn.to/2Dc6Eie) 
 * [Cascade Dishwasher Detergent](http://amzn.to/2D899iq)
-* [Tide Pods,](http://amzn.to/2DBMkot) a tiny Tide Cool Cotton bottle, and a huge Tide detergent bag
+* [Tide Pods,](http://amzn.to/2DBMkot) and a huge Tide detergent bag
 * [Downy Dryer Sheets](http://amzn.to/2r8yVl7) - The Lavender smell. Always the lavender smell. 
 * Paper Towels - I bought the cheap ones and have never regretted such a small purchase so much in my life. The commercials were right. They don't absorb anything and tear tear-ibly. Never again.
 * One box each for large, medium, and small, high-quality trash bags - For the same reason I will now buy high quality paper towels, but I couldn't think of a pun for this one. 
@@ -132,11 +132,13 @@ I got my first kitchen all to myself in the fall semester of 2017, and I've been
 #### General
 
 * Shampoo & Conditioner - I usually use [Herbal Essence Moroccan Shine](http://amzn.to/2CRXV1k) because it smells heavenly, but I was gifted [a Paul Mitchell set](http://amzn.to/2CRg6Eh) so right now I'm using that all fancy like. I don't have much hair though, so I'm not sure I can tell the difference. 
-* Loofa, Body Wash, and Hand Soap - Changes constantly, and is often just a fancy soap given by a family member in a stocking. Currently that fancy soap is [Aveeno Lavender, Chamomile + Ylang-Ylang.](http://amzn.to/2mht47k), the hand soap I think is from England, and my loofa is a pleasant bright orange. Do I know what Ylang-Ylang is? Nope. Smells great though. 
+* Tupperware full of Coconut Oil - I stopped using body wash a while back because [it's probably bad for your skin](https://www.independent.co.uk/life-style/health-and-families/health-news/expert-warns-using-soap-in-shower-may-actually-be-bad-for-us-in-long-term-a6697771.html). I started putting coconut oil on after most showers instead, since [hot water, like soap, strips good oils from skin](http://www.newsweek.com/do-hot-showers-dry-your-skin-96379). I haven't noticed any negative effects, but I also haven't noticed anything positive, so who knows. 
+* Hand Soap - Changes constantly, and is often just a fancy soap given by a family member in a stocking. 
 * Face Wash and Washer - I've had pretty noticeable acne all my life, so I've experimented with soaps a lot. [Origins Checks and Balances](http://amzn.to/2FvyHaL) does a great job for my skin, and only takes about 60 seconds in the shower thanks to my [Olay Face Brush](http://amzn.to/2CRiieZ). I'd recommend both to just about everyone. 
 * Razors - I buy them cheap, and always from the men's shaving aisle because of the [pink tax](https://money.usnews.com/money/personal-finance/articles/2016-02-17/the-pink-tax-why-womens-products-often-cost-more). I'd love to invest in laser hair removal and never need these again, but alas, I am far too blond.
 * Towels - Right now I have three sets: one purple, one teal, and one of extra large white. Considering downsizing this to two if the whites don't get much use. 
 * [Bath Mat](https://www.target.com/p/ultra-soft-bath-grape-lavender-21-x30-threshold-153/-/A-50316233?ref=&ref=OpsEmail_Order_280&j=7173&sfmc_sub=220351560&l=20_HTML&u=1856896&mid=7284873&jb=1240935) - Unfortunately quite a bit lighter in color than I thought, but it's better than the towel I had been using.
+* [Elephant Toothbrush Holder](http://amzn.to/2Gfp018) - This little guy is adorable and perfectly solves the fatal flaw of all toothbrush holders, which is that they retain water in the bottom and get gross. 
 * Toothbrush, Toothpaste, and Floss - Before I learned my gums swell because of my sugar consumption I thought I was brushing my teeth wrong, so I currently have a super soft toothbrush and [toothpaste marketed as gentle.](http://amzn.to/2EwEvja) They appear to make no difference, but I use the floss regularly and it helps
 * [Primal Pit Paste Deodorant](http://amzn.to/2DlXEVq) - Because regular deodorant might be bad for me? Need to do research to justify this stuff. 
 * [Kleenex with Lotion](http://amzn.to/2CSOoao) - Boxes of these are all over my place, but the extras live here so here's where I'll list them. These are the softest and sturdiest tissues I've found, and I blow my nose constantly.
