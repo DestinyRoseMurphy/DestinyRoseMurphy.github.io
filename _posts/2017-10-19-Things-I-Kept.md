@@ -31,6 +31,7 @@ This list was compiled January 11th, 2018. It's the first iteration of this post
 
 * [Tea](#Tea)
 * [Rock Climbing](#Rock)
+* [Ballroom Dancing](#Dance)
 * [Biking](#Bike)
 
 
@@ -254,3 +255,5 @@ I think hauling myself up vertical surfaces is incredibly fun, but it's also dan
 * Black Diamond Carabiner - Not for climbing, but for attaching gear to other gear so I don't lose things
 * Purple Plastic Bin - Holds my gear in my room
 * Dumbledore Quote Book Bag - Perfect for carrying gear and a change of clothes to the climbing gym
+
+<!-- #### <a name="Dance"></a> Ballroom Dancing -->
