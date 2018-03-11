@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Original "Gentefication"
+title:      "Original Gentefication"
 date:       2018-02-08
 author:    "For the Tower Center"
 ---
