@@ -10,6 +10,7 @@ I like writing things, which you really should have figured out by now seeing as
 ## 2018 
 
 * [Robots are Coming For Our Jobs. Thank God.](/details/2018-02-23-Robots-Are-Coming)
+* [Perry Link Interview: The Life and Ideas of Liu Xiaobo](/details/2018-02-12-Perry-Link)
 * [Gente-fication: The Changing Face of Urban Development](/details/2018-02-08-Gente-Fication)
 * [Japan-U.S. Relations in the Changing World](/details/2018-02-01-Japan-US-Relations)
 
