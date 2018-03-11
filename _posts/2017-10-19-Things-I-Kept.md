@@ -201,7 +201,6 @@ All things that I don't use every day, but that I do use enough to keep around. 
 #### <a name="Tea"></a> Tea
 I count tea as a hobby, not a food, because the purpose of tea is never to nutritionally sustain myself. Yes, green tea will hydrate me, but buying, owning, and offering tea is really about learning new things, refining my pallet, and meeting new people (you'd be amazed what kind of friends you can make with leaf water). Also, I regularly spend way more money on tea than I do on food. While some of these teas are grocery store buys, several of them come from [The Cultured Cup](https://www.theculturedcup.com/pages/how-to-choose-tea#subheader) and other high-quality tea vendors, where a single ounce can be over $25. I have no regrets.
 
-
 * White
 	* [The Republic of Tea White Tea](http://amzn.to/2DfBBix)
 	* Pai Mu Tan White Tea from Fujian Province, China
@@ -233,9 +232,25 @@ I count tea as a hobby, not a food, because the purpose of tea is never to nutri
 	* Sleepy Hollow Pumpkin Chai
 	* Lover's Leap Estate Tea from Nuwara Eliya, Sri Lanka
 	* Unmarked bag of tea that I think I got at a Ren Fest? Who knows. It smells like black tea.
-* Infusions -No tea plant in these, but I still put them in hot water and drink them.
+* Infusions - No tea plant in these, but I still put them in hot water and drink them.
 	* [Trader Joe's Apple Cranberry Infusion](http://amzn.to/2DKwR5s)
 	* [Traditional Medicinals Mountain Tea](http://amzn.to/2FMNKwV)
 	* [Yogi Cold Season Sampler](http://amzn.to/2mJI7GX)
 
-	<!-- Hardware -->
+* Hardware
+	* [Apace Loose Leaf Tea Infusers](http://amzn.to/2Hp3NkB)
+	* [Ovente Electric Tea Kettle](http://amzn.to/2FtCjxB)
+	* 9 Mugs - One that I got in a Christmas market in Poland that I use most of the time, three that match my plates, and five assorted ones that I've picked up along the way
+	* 5 Thermoses/Travel Mugs - Varying degrees of heat retention and seal-strength
+
+#### <a name="Rock"></a> Rock Climbing
+I think hauling myself up vertical surfaces is incredibly fun, but it's also dangerous and complicated, so I use this gear to maximize enjoyment and safety. I got a lot of this second hand, so I don't know exactly what kind it is, but I really like it. 
+
+* LA Sportiva Climbing Shoes
+* Black Diamond Climbing Harness
+* [Black Diamond Climbing Gloves](http://amzn.to/2Hor45Y)
+* [Back Diamond Storm Headlamp & Instruction Booklet](http://amzn.to/2GdsalM)
+* [Camelbak Hydration Backpack](http://amzn.to/2GetpB7)
+* Black Diamond Carabiner - Not for climbing, but for attaching gear to other gear so I don't lose things
+* Purple Plastic Bin - Holds my gear in my room
+* Dumbledore Quote Book Bag - Perfect for carrying gear and a change of clothes to the climbing gym
