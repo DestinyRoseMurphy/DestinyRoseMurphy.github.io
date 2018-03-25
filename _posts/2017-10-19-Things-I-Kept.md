@@ -205,7 +205,7 @@ All things that I don't use every day, but that I do use enough to keep around. 
 I got rid of the largest number of items when I cleaned out my clothes. Years of gifts and hand-me-downs had completely cluttered my closet and drawers, resulting in a mass of items I didn't like and no way for me to realize what I actually needed to buy. Now that I have less it's way easier to pick outfits! Clothes below are ordered vaguely by category and style.
 
 #### <a name="Dresser"></a> In and On the Dresser
-* * 6 pieces of jewelry (1 choker, 1 watch face with 2 interchangeable bands, 2 lapel pins)
+* 6 pieces of jewelry (1 choker, 1 watch face with 2 interchangeable bands, 2 lapel pins)
 * 3 sports bras, 1 bralette, 4 regular bras
 * 23 pairs of undies
 * 18 pairs of socks (7 ankle, 3 tall, 1 fuzzy, 3 fashion boot, 4 hiking)
