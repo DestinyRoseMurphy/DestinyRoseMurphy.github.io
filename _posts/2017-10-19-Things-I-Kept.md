@@ -27,11 +27,15 @@ This list was compiled January 11th, 2018. It's the first iteration of this post
 * [Makeup](#Makeup)
 * [Medicine Cabinet](#Medicine)
 
+<p style="margin-bottom: 0;"><a href="#Clothes">Clothes</a></p>
+
+* [In and On the Dresser](#Dresser)
+* [In the Closet](#Closet)
+
 <p style="margin-bottom: 0;"><a href="#Hobbies">Hobbies</a></p>
 
 * [Tea](#Tea)
 * [Rock Climbing](#Rock)
-* [Ballroom Dancing](#Dance)
 * [Biking](#Bike)
 
 
@@ -197,6 +201,32 @@ All things that I don't use every day, but that I do use enough to keep around. 
 * One Each of Travel Shampoo, Conditioner, Body Wash, and Toothpaste in little travel bag
 * Condoms and Fluconazole
 
+## <a name="Clothes"></a> Clothes
+I got rid of the largest number of items when I cleaned out my clothes. Years of gifts and hand-me-downs had completely cluttered my closet and drawers, resulting in a mass of items I didn't like and no way for me to realize what I actually needed to buy. Now that I have less it's way easier to pick outfits! Clothes below are ordered vaguely by category and style.
+
+#### <a name="Dresser"></a> In and On the Dresser
+* * 6 pieces of jewelry (1 choker, 1 watch face with 2 interchangeable bands, 2 lapel pins)
+* 3 sports bras, 1 bralette, 4 regular bras
+* 23 pairs of undies
+* 18 pairs of socks (7 ankle, 3 tall, 1 fuzzy, 3 fashion boot, 4 hiking)
+* Fashion tape, disposable pasties, 1 pair nude hose, 1 bag of ballroom dress accessories and extra parts
+* 24 tops (5 workout tanks, 6 t-shirts, 6 non-workout tanks, 7 nicer short/no-sleeve)
+* 21 bottoms (1 skirt, 4 non-athletic shorts, 2 biking shorts, 5 yoga pants, 3 full length athletic pants, 5 leggings, 1 sweatpants)
+* 3 two piece and 1 one piece swimsuits, 1 pajama set, 1 pair patterned black tights
+
+#### <a name="Closet"></a> In the Closet
+* 20 dresses (3 business, all non-long sleeve)
+* 28 tops (6 business-ey short/no-sleeve, 1 business-ey long sleeve, 15 ~3/4 sleeve, 3 long sleeve, 3 long sleeve base layer)
+* 21 over-layers (3 blazers, 4 cardigans, 1 cardigan sweater, 4 sweaters, 2 pullovers, 5 jackets, 1 heavy coat, 1 light coat)
+* 11 bottoms (3 jeans, 2 colored jeggings, 3 slacks, 3 business skirts)
+* 4 belts
+* 17 pairs of shoes (2 flip flops, 4 flats, 1 sandals, 1 athletic shoes, 1 Converse, 2 booties, 2 tall boots, 1 rain boots, 3 professional heels)
+* 14 accessories (3 regular scarves, 2 infinity scarves, 1 mask scarf, 2 beanies, 4 pairs of gloves, 1 ascot, 1 golf glove)
+* 5 ballroom dancing pieces (standard dress, 2 Latin dresses, Supadance standard shoes, Very Fine Salsera Latin shoes)
+* Flapper girl dress and headband
+* 7 Renaissance Festival costume pieces (dress, corset, 2 shirts, skirt, flower crown, 1 pair earrings)
+* 3 robes and 1 narwhal onesie 
+
 ## <a name="Hobbies"></a> Hobbies
 
 #### <a name="Tea"></a> Tea
@@ -257,4 +287,8 @@ I think hauling myself up vertical surfaces is incredibly fun, but it's also dan
 * Purple Plastic Bin - Holds my gear in my room
 * Dumbledore Quote Book Bag - Perfect for carrying gear and a change of clothes to the climbing gym
 
-<!-- #### <a name="Dance"></a> Ballroom Dancing -->
+#### <a name="Bike"></a> Biking
+I already enjoyed biking for exercise and relaxation and wanted to be the kind of person who biked for transportation, so I went all in and got a possibly unnecessarily nice bike for myself around Christmas of the junior year of my undergraduate. I'm now the kind of person who bikes for transportation, and I love it. 
+
+* [TREK FX2 Women's Bike](https://www.trekbikes.com/us/en_US/bikes/hybrid-bikes/fitness-bikes/fx/fx-2-womens/p/17449/)
+* [GIRO Sonnet Helmet in Matte Titanium Color](http://www.giro.com/us_en/products/women/helmets/road/sonnet.html?___SID=U#gid=33545)
