@@ -78,7 +78,7 @@ This list was compiled January 11th, 2018. It's the first iteration of this post
 * [Vera Bradley On a Roll pencil bag](http://amzn.to/2zpqNjg) - Nomadic floral patterned. Holds various pencils, pens, erasers, highlighters, and Sharpies that rotate as I find and lose them, plus the two special writing instruments below.
 * [Precise V5 RT Pilot Pen](http://amzn.to/2zpqogK) - The smoothest ink pen I've found. Good enough that I'd re-buy it if I lost it, unlike every other pen I own.
 * [rOtring 600 0.5 mm Black Barrel Mechanical Pencil](http://amzn.to/2CQJo65) - I was using the cheapest mechanical pencil I could find for years until I was gifted this beauty. It's heavy enough to sit nicely in a hand, the lead virtually never breaks, and it writes wonderfully. 
-* urBeats by Dre headphones - A gift that functions well and has a nifty magnetic bag for storage, so the chord doesn't get tangled in literally everything. 
+* [Symphonized Wood Headphones](https://amzn.to/2J02Nor) - Aesthetically pleasing and they function and fit my ears. They come with a little shirt clip that really helps to keep at least one ear from slipping out while I exercise. 
 * [eos lip balm](http://amzn.to/2xNEpRb) - These spherical lip balms are incredibly difficult to lose, making them invaluable.
 * Fingernail clippers - The cheapest and smallest I could find
 * [Diva Cup](http://amzn.to/2zqtBNt) - Safer and less trash-producing than tampons. Switching to this was weird, but now I lovingly refer to it as my blood cup and carry it everywhere.  
