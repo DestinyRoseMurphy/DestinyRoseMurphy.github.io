@@ -273,7 +273,7 @@ I count tea as a hobby, not a food, because the purpose of tea is never to nutri
 	* [Brewville Tea Maker](http://amzn.to/2puyeiO) - A gift that I probably couldn't have justified buying for myself, but that I love now that I have.
 	* Travel Tea Pouch - A little hand sewn foldable pouch that allows me to travel with a few tea bags. Sometimes looks silly, but is completely worth it. 
 	* 9 Mugs - One that I got in a Christmas market in Poland that I use most of the time, three that match my plates, and five assorted ones that I've picked up along the way
-	* 5 Thermoses/Travel Mugs - Varying degrees of heat retention and seal-strength
+	* 4 Thermoses/Travel Mugs - Varying degrees of heat retention and seal-strength
 
 #### <a name="Rock"></a> Rock Climbing
 I think hauling myself up vertical surfaces is incredibly fun, but it's also dangerous and complicated, so I use this gear to maximize enjoyment and safety. I got a lot of this second hand, so I don't know exactly what kind it is, but I really like it. 
