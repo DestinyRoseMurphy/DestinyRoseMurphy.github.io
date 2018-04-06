@@ -279,6 +279,7 @@ I count tea as a hobby, not a food, because the purpose of tea is never to nutri
 I think hauling myself up vertical surfaces is incredibly fun, but it's also dangerous and complicated, so I use this gear to maximize enjoyment and safety. I got a lot of this second hand, so I don't know exactly what kind it is, but I really like it. 
 
 * LA Sportiva Climbing Shoes
+* [Five Ten Guide Tennie Women's Approach Shoes](https://www.rei.com/product/120806/five-ten-guide-tennie-approach-shoes-womens?cm_mmc=email_tran-_-ereceipt-_-20180406-_-bt_prod1&ev36=&RMID=EReceipt_PROD&RRID=248138835&ev11=)
 * Black Diamond Climbing Harness
 * [Black Diamond Climbing Gloves](http://amzn.to/2Hor45Y)
 * [Back Diamond Storm Headlamp & Instruction Booklet](http://amzn.to/2GdsalM)
