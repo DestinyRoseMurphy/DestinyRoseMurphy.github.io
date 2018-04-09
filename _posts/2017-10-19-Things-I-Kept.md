@@ -283,7 +283,9 @@ I think hauling myself up vertical surfaces is incredibly fun, but it's also dan
 * Black Diamond Climbing Harness
 * [Black Diamond Climbing Gloves](http://amzn.to/2Hor45Y)
 * [Back Diamond Storm Headlamp & Instruction Booklet](http://amzn.to/2GdsalM)
-* [Camelbak Hydration Backpack](http://amzn.to/2GetpB7)
+* [Camelbak Hydration Backpack w/o bladder](http://amzn.to/2GetpB7)
+* [Artisanetes 2 Liter Bladder](https://amzn.to/2GLAYz1)
+* Leather Glasses Strap
 * Black Diamond Carabiner - Not for climbing, but for attaching gear to other gear so I don't lose things
 * Purple Plastic Bin - Holds my gear in my room
 * Dumbledore Quote Book Bag - Perfect for carrying gear and a change of clothes to the climbing gym
