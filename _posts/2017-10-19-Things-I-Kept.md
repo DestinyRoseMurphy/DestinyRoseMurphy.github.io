@@ -282,7 +282,6 @@ I think hauling myself up vertical surfaces is incredibly fun, but it's also dan
 * [Five Ten Guide Tennie Women's Approach Shoes](https://www.rei.com/product/120806/five-ten-guide-tennie-approach-shoes-womens?cm_mmc=email_tran-_-ereceipt-_-20180406-_-bt_prod1&ev36=&RMID=EReceipt_PROD&RRID=248138835&ev11=)
 * Black Diamond Climbing Harness
 * [Black Diamond Climbing Gloves](http://amzn.to/2Hor45Y)
-* [Back Diamond Storm Headlamp & Instruction Booklet](http://amzn.to/2GdsalM)
 * [Camelbak Hydration Backpack w/o bladder](http://amzn.to/2GetpB7)
 * [Artisanetes 2 Liter Bladder](https://amzn.to/2GLAYz1)
 * Leather Glasses Strap
@@ -295,3 +294,5 @@ I already enjoyed biking for exercise and relaxation and wanted to be the kind o
 
 * [TREK FX2 Women's Bike](https://www.trekbikes.com/us/en_US/bikes/hybrid-bikes/fitness-bikes/fx/fx-2-womens/p/17449/)
 * [GIRO Sonnet Helmet in Matte Titanium Color](http://www.giro.com/us_en/products/women/helmets/road/sonnet.html?___SID=U#gid=33545)
+* [Back Diamond Storm Headlamp & Instruction Booklet](http://amzn.to/2GdsalM) 
+* Velcro Strap to attach headlamp to my helmet
