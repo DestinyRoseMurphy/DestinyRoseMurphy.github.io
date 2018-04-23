@@ -9,6 +9,7 @@ With the start of my junior year I'm beginning a new series of posts. Here I'll 
 
 ## 2018
 
+* [Henry the Eighth](/details/2018-04-22-Henry-8)
 * [Coriolanus](/details/2018-04-10-Coriolanus)
 * [Sapiens: A Brief History of Humankind](/details/2018-04-04-Sapiens)
 * [Antony and Cleopatra](/details/2018-03-31-Antony-and-Cleo)
