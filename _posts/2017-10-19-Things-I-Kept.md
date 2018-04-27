@@ -215,7 +215,7 @@ I got rid of the largest number of items when I cleaned out my clothes. Years of
 * 3 two piece and 1 one piece swimsuits, 1 pajama set, 1 pair tights, 1 pair calf-height stockings with suspender belt
 
 #### <a name="Closet"></a> In the Closet
-* 20 dresses (3 business, all non-long sleeve)
+* 18 dresses (2 business, all non-long sleeve)
 * 28 tops (6 business-ey short/no-sleeve, 1 business-ey long sleeve, 15 ~3/4 sleeve, 3 long sleeve, 3 long sleeve base layer)
 * 21 over-layers (3 blazers, 4 cardigans, 1 cardigan sweater, 4 sweaters, 2 pullovers, 5 jackets, 1 heavy coat, 1 light coat)
 * 11 bottoms (3 jeans, 2 colored jeggings, 3 slacks, 3 business skirts)
