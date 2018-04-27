@@ -9,6 +9,7 @@ With the start of my junior year I'm beginning a new series of posts. Here I'll 
 
 ## 2018
 
+* [Bonk: The Curious Coupling of Science and Sex](/details/2018-04-26-Bonk)
 * [Rosencrantz & Guildenstern are Dead](/details/2018-04-25-R&G)
 * [Henry the Eighth](/details/2018-04-22-Henry-8)
 * [Coriolanus](/details/2018-04-10-Coriolanus)
