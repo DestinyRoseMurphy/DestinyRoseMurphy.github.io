@@ -218,7 +218,7 @@ I got rid of the largest number of items when I cleaned out my clothes. Years of
 * 18 dresses (2 business, all non-long sleeve)
 * 28 tops (6 business-ey short/no-sleeve, 1 business-ey long sleeve, 15 ~3/4 sleeve, 3 long sleeve, 3 long sleeve base layer)
 * 21 over-layers (3 blazers, 4 cardigans, 1 cardigan sweater, 4 sweaters, 2 pullovers, 5 jackets, 1 heavy coat, 1 light coat)
-* 11 bottoms (3 jeans, 2 colored jeggings, 3 slacks, 3 business skirts)
+* 10 bottoms (2 jeans, 2 colored jeggings, 3 slacks, 3 business skirts)
 * 4 belts
 * 18 pairs of shoes (2 flip flops, 5 flats, 1 sandals, 1 athletic shoes, 1 Converse, 2 booties, 2 tall boots, 1 rain boots, 3 professional heels)
 * 14 accessories (3 regular scarves, 2 infinity scarves, 1 mask scarf, 2 beanies, 4 pairs of gloves, 1 ascot, 1 golf glove)
