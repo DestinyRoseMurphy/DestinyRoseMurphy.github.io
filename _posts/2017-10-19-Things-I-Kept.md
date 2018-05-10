@@ -211,7 +211,7 @@ I got rid of the largest number of items when I cleaned out my clothes. Years of
 * 18 pairs of socks (7 ankle, 3 tall, 1 fuzzy, 3 fashion boot, 4 hiking)
 * Fashion tape, disposable pasties, 1 pair nude hose, 1 bag of ballroom dress accessories and extra parts
 * 24 tops (5 workout tanks, 5 t-shirts, 6 non-workout tanks, 8 nicer short/no-sleeve)
-* 22 bottoms (1 skirt, 5 non-athletic shorts, 2 biking shorts, 5 yoga pants, 3 full length athletic pants, 5 leggings, 1 sweatpants)
+* 23 bottoms (2 skirts, 5 non-athletic shorts, 2 biking shorts, 5 yoga pants, 3 full length athletic pants, 5 leggings, 1 sweatpants)
 * 3 two piece and 1 one piece swimsuits, 1 pajama set, 1 pair tights, 1 pair calf-height stockings with suspender belt
 
 #### <a name="Closet"></a> In the Closet
