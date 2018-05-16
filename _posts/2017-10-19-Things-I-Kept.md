@@ -109,7 +109,6 @@ I got my first kitchen all to myself in the fall semester of 2017, and I've been
 * 2 Strainers
 * 2 Glass Measuring Cups
 * 4 Knives, 4 Forks, 4 Spoons, 2 Sets of Chopsticks
-* One Large and One Small Cutting Boards
 * 7 Metal Mixing Bowls
 * Metal Casserole Pan
 * Britta Water Filter
