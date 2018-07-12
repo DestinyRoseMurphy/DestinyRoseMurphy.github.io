@@ -9,6 +9,7 @@ I like writing things, which you really should have figured out by now seeing as
 
 ## 2018 
 
+* [Choose Quality](/details/2018-07-12-Choose-Quality)
 * [The Cost of Free Speech](/details/2018-04-04-Cost-of-Speech)
 * [Robots are Coming For Our Jobs. Thank God.](/details/2018-02-23-Robots-Are-Coming)
 * [Perry Link Interview: The Life and Ideas of Liu Xiaobo](/details/2018-02-12-Perry-Link)
