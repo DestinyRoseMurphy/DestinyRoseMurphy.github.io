@@ -9,6 +9,7 @@ With the start of my junior year I'm beginning a new series of posts. Here I'll 
 
 ## 2018
 
+* [The LSAT Unlocked 2018-2019: Comprehensive Prep With Real PrepTest Questions](/details/2018-07-30-LSAT-Unlocked)
 * [Watchmen](/details/2018-07-28-Watchmen)
 * [The New I Do: Reshaping Marriage for Skeptics, Realists, and Rebels](/details/2018-05-17-New-I-Do) 
 * [Bonk: The Curious Coupling of Science and Sex](/details/2018-04-26-Bonk)
