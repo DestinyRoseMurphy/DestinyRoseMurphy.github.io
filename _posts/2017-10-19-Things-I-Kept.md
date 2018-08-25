@@ -115,7 +115,7 @@ I got my first kitchen all to myself in the fall semester of 2017, and I've been
 * 1 Gallon Plastic Pitcher
 * [IKEA KALLAX Bookcase](http://amzn.to/2DqabqZ) and [Drawers](http://amzn.to/2Dpk6gz)- I got the grey shelves and the black drawers to serve as a pantry
 * 32 Magnets: Bottle Opener, Light, [Cat, Dog, Farm, and Safari Butts](http://amzn.to/2DcMi8u), and Teeth
-* An Upsetting Number of Things in my Kitchen Catch-All Drawer - 4 scoop measures, holed and un-holed cooking spoons, soup ladle, wine bottle opener, can opener, tongs, mixing spatula (Star Wars themed), wooden spatula, holed and un-holed frying pan spatulas, whisk, nutcracker and two nut picks, spiralizer.
+* An Upsetting Number of Things in my Kitchen Catch-All Drawer - 4 scoop measures, holed and un-holed cooking spoons, soup ladle, wine bottle opener, can opener, tongs, mixing spatula (Star Wars themed), wooden spatula, whisk, nutcracker and two nut picks, spiralizer.
 * A Glass Flower Vase
 
 #### <a name="Sink"></a> In and Under the Sink
