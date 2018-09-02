@@ -9,6 +9,7 @@ With the start of my junior year I'm beginning a new series of posts. Here I'll 
 
 ## 2018
 
+* [Punishment, Communication, and Community](/details/2018-09-01-Punishment-Communication-Community)
 * [Kale and Coffee: A Renegade's Guide to Health, Happiness, & Longevity](/details/2018-08-03-Kale-and-Coffee)
 * [The LSAT Unlocked 2018-2019: Comprehensive Prep With Real PrepTest Questions](/details/2018-07-30-LSAT-Unlocked)
 * [Watchmen](/details/2018-07-28-Watchmen)
