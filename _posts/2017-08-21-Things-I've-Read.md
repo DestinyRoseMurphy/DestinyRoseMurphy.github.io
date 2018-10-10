@@ -9,6 +9,8 @@ With the start of my junior year I'm beginning a new series of posts. Here I'll 
 
 ## 2018
 
+* [What We Talk About When We Talk About Love](/details/2018-10-08-Talk-About-Love)
+* [Flowers for Algernon](/details/2018-10-07-Flowers-for-Algernon)
 * [Punishment, Communication, and Community](/details/2018-09-01-Punishment-Communication-Community)
 * [Kale and Coffee: A Renegade's Guide to Health, Happiness, & Longevity](/details/2018-08-03-Kale-and-Coffee)
 * [The LSAT Unlocked 2018-2019: Comprehensive Prep With Real PrepTest Questions](/details/2018-07-30-LSAT-Unlocked)
