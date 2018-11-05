@@ -5,7 +5,7 @@ date:       2017-10-16
 summary:    "Links to articles and the like that I've written for various publications."
 ---
 
-I like writing things, which you really should have figured out by now seeing as you're reading a blog that I created and continuously write for on top of my other school (and real job) work. Because I like writing things, and because the world is filled with people who don't like writing things but do like reading things, I've written a few things for other people and for specific publications. Below you can find links to writing that I've done in this manner. 
+I like writing things, which you really should have figured out by now seeing as you're reading a blog that I created and continuously write for on top of my other school (and real job) work. Because I like writing things, and because the world is filled with people who don't like writing things but do like reading things, I've written a few things for other people and for specific publications. Below you can find links to that kind of my writing. 
 
 ## 2018 
 

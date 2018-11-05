@@ -63,7 +63,7 @@ This list was compiled January 11th, 2018. It's the first iteration of this post
 
 ## <a name="Purse"></a> My Purse
 
-* Black Dooney & Burke purse - A gift old enough that I don't remember when I got it. Quality purses hold up to a lot of use though, and this shoulder bag is perfectly sized and professional enough for business carry, while still remaining casual enough that I can be comfortable using it everywhere. 
+* Leather Fossil Cross Body purse - A gift from my dad that combines fashion and function. Quality purses hold up to a lot of use, and this cross body is perfectly sized and professional enough for business carry, while still remaining casual enough that I can be comfortable using it everywhere - even biking in it. 
 
 #### In That Purse
 
