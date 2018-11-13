@@ -9,6 +9,7 @@ With the start of my junior year I'm beginning a new series of posts. Here I'll 
 
 ## 2018
 
+* [American Gods](/details/2018-11-13-American-Gods)
 * [What We Talk About When We Talk About Love](/details/2018-10-08-Talk-About-Love)
 * [Flowers for Algernon](/details/2018-10-07-Flowers-for-Algernon)
 * [Punishment, Communication, and Community](/details/2018-09-01-Punishment-Communication-Community)
