@@ -51,6 +51,7 @@ I began this list January 11th, 2018. It's the first iteration of this post, whi
 * Specifically within the bathroom I should cement my knowledge of hair and makeup products. These things can affect my confidence a lot during the day, and I'm currently blundering through them. 
 * Should upgrade from plastic to glass for kitchen items like Tupperware and pitchers. 
 * Does the kind of soap I use for things like dishes and laundry matter? I feel like it might but don't know, so that needs researching. 
+* I've got way too many things in my desk. Really need to cull that down. 
 
 ## <a name="Everyday"></a> <a name="Backpack"></a> Everyday Carry - My Backpack
 
@@ -100,6 +101,8 @@ I began this list January 11th, 2018. It's the first iteration of this post, whi
 
 #### <a name="Office"></a> Office Space
 
+##### Desk
+
 * Pencil Organizer
 * 19 writing utensils - 7 non-mechanical pencils, 9 mechanical pencils, and 3 sharpies
 * Teal desk lamp
@@ -135,6 +138,7 @@ I began this list January 11th, 2018. It's the first iteration of this post, whi
 * Yardstick
 * Surge protector
 
+##### Wall Decorations
 
 * 5 Major and minor tracking pages
 * 3 Graduation requirement note pages
