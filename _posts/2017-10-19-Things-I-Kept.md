@@ -100,6 +100,49 @@ I began this list January 11th, 2018. It's the first iteration of this post, whi
 
 #### <a name="Office"></a> Office Space
 
+* Pencil Organizer
+* 19 writing utensils - 7 non-mechanical pencils, 9 mechanical pencils, and 3 sharpies
+* Teal desk lamp
+* 2 SMU name tags - Magnetically attached to the desk lamp, for Dedman College Scholars and Tower Scholars events, receptively
+* Hole puncher
+* 2 Erasers
+* 2 Containers of extra .5 lead
+* Pencil sharpener
+* 5 Small legal pads
+* White flash cards - About an inch tall stack 
+* 7 Sticky note pads - All different colors and sizes
+* 4 Blank notes and accompanying envelopes
+* 5 Webcam covers
+* Business cards - About an inch tall stack, secured by a hair tie
+* Envelope full of 2017 tax information
+* Scotch Tape
+* Small box of paper fasteners
+* Clipboard
+* 2 non-pocket folders
+* 1 folder with pockets - Containing 3 syllabi for current classes, and 3 notes and one syllabus for Poland project
+* 3 Decomposition Notebooks for current classes
+* 3 Textbooks for current classes
+* 2 Essays for current classes
+* 2 Bluebooks for past tests
+* Small stack of flashcards for current class
+* Return shipping note for textbook
+* 2 inch stack of printer paper
+* Unopened pack of printing paper
+* Small stack of notebook paper
+* 3 Small notebooks
+* 2 Decomposition notebooks - half empty, for future classes
+* Bisexual agenda notebook
+* Yardstick
+* Surge protector
+
+
+* 5 Major and minor tracking pages
+* 3 Graduation requirement note pages
+* Grade page
+* 2 Sticky notes - grade note and encouraging note
+* 8 Wall decorations -  Constitution, Bill of Rights, The Future is Bright Hanger, Move Mountains Hanger, Gavel, RBG doll, Jabot, Hamilton Cross Stitch 
+* Chalkboard hangings
+
 
 ## <a name="Kitchen"></a> Kitchen
 
