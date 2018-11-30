@@ -1,0 +1,331 @@
+
+	<html>
+  <head>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.3/Chart.bundle.js"></script>
+    <script type="text/javascript" src="https://unpkg.com/chartkick@3.0.1/dist/chartkick.js"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous" />
+  </head>
+  <body>
+    <nav style="background-color: rgb(20,34,53) !important" class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+      <a class="navbar-brand" href="http://www.lonestarpolicyinstitute.org/"><img style="width: 1.5rem; margin-top: -.5rem" src="http://www.lonestarpolicyinstitute.org/wp-content/uploads/2018/01/Star-96x91.png" class="logo_main" alt="" >LSPI</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item active">
+            <a class="nav-link" href="../index.html">Home<span class="sr-only">(current)</span></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="../methodology.html">Methodology</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="../findings.html">Findings</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="../countySelector.html">Find Your County</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+
+    <main role="main" style="background-color: rgb(28,60,95); margin-top: -1rem">
+      <!-- /container -->
+      <div class="container" style="margin-top: 4rem; background-color: white">
+        <h1 style="margin-bottom: 1rem; padding-top: 1rem;"> Kleberg County</h1>
+
+        <h2 style="margin-bottom: 2rem;border-bottom: dashed 5px;">2017</h2>
+
+        <div class="row">
+          <!-- Lefthand Column -->
+          <div class="col-sm">
+            <div id="top2017Misd" style="height: 300px; margin-left: -2.5rem; margin-bottom: 3rem;"></div>
+            <div style="margin-top: 1rem; margin-left: -1rem; background-color: rgba(28,60,95,.75); padding-top: 3rem; padding-bottom: 3rem; color: white; text-align: center; ">
+              Total Felonies Filed = 268
+              <br>
+              Total Felony Dispositions = 403</div>
+          </div>
+
+          <!-- Righthand Column -->
+          <div class="col-sm">
+            <div style="margin-top: 4rem; margin-bottom: 9rem; margin-right: -1rem; background-color: rgba(28,60,95,.75); padding-top: 3rem; padding-bottom: 3rem; color: white; text-align: center; ">
+              Total Misdemeanors Filed = 876
+              <br>
+              Total Misdemeanor Dispositions = 1028</div>
+            <div id="top2017Felony" style="height: 300px;"></div>
+          </div>
+        </div>
+
+        <h2 style="margin-bottom: 2rem;border-bottom: dashed 5px;">2016</h2>
+
+        <!-- Lefthand Column -->
+        <div class="row">
+          <div class="col-sm">
+            <div id="top2016Misd" style="height: 300px; margin-left: -2.5rem;margin-bottom: 3rem"></div>
+            <div style="margin-top: 1rem; margin-bottom: 3rem; margin-left: -1rem; background-color: rgba(28,60,95,.75); padding-top: 3rem; padding-bottom: 3rem; color: white; text-align: center; ">
+              Total Felonies Filed = 256
+              <br>
+              Total Felony Dispositions = 453</div>
+          </div>
+
+          <!-- Righthand Column -->
+          <div class="col-sm">
+            <div style="margin-top: 4rem; margin-bottom: 9rem; margin-right: -1rem; background-color: rgba(28,60,95,.75); padding-top: 3rem; padding-bottom: 3rem; color: white; text-align: center; ">
+              Total Misdemeanors Filed = 846
+              <br>
+              Total Misdemeanor Dispositions = 1077</div>
+            <div id="top2016Felony" style="height: 300px; padding-bottom: 2rem"></div>
+          </div>
+        </div>
+
+        <h2 style="margin-bottom: 2rem;border-bottom: dashed 5px;">2015</h2>
+
+        <!-- Lefthand Column -->
+        <div class="row">
+          <div class="col-sm">
+            <div id="top2015Misd" style="height: 300px; margin-left: -2.5rem;margin-bottom: 3rem"></div>
+            <div style="margin-top: 1rem; margin-bottom: 3rem; margin-left: -1rem; background-color: rgba(28,60,95,.75); padding-top: 3rem; padding-bottom: 3rem; color: white; text-align: center; ">
+              Total Felonies Filed = 263
+              <br>
+              Total Felony Dispositions = 493</div>
+          </div>
+
+          <!-- Righthand Column -->
+          <div class="col-sm">
+            <div style="margin-top: 4rem; margin-bottom: 9rem; margin-right: -1rem; background-color: rgba(28,60,95,.75); padding-top: 3rem; padding-bottom: 3rem; color: white; text-align: center; ">
+              Total Misdemeanors Filed = 943
+              <br>
+              Total Misdemeanor Dispositions = 1425</div>
+            <div id="top2015Felony" style="height: 300px; padding-bottom: 2rem"></div>
+          </div>
+        </div>
+
+  <h2 style="margin-bottom: 2rem;border-bottom: dashed 5px;">2014</h2>
+
+        <!-- Lefthand Column -->
+        <div class="row">
+          <div class="col-sm">
+            <div id="top2014Misd" style="height: 300px; margin-left: -2.5rem;margin-bottom: 3rem"></div>
+            <div style="margin-top: 1rem; margin-bottom: 3rem; margin-left: -1rem; background-color: rgba(28,60,95,.75); padding-top: 3rem; padding-bottom: 3rem; color: white; text-align: center; ">
+              Total Felonies Filed = 272
+              <br>
+              Total Felony Dispositions = 513</div>
+          </div>
+
+          <!-- Righthand Column -->
+          <div class="col-sm">
+            <div style="margin-top: 4rem; margin-bottom: 9rem; margin-right: -1rem; background-color: rgba(28,60,95,.75); padding-top: 3rem; padding-bottom: 3rem; color: white; text-align: center; ">
+              Total Misdemeanors Filed = 1090
+              <br>
+              Total Misdemeanor Dispositions = 1131</div>
+            <div id="top2014Felony" style="height: 300px; padding-bottom: 2rem"></div>
+          </div>
+        </div>
+
+          <h2 style="margin-bottom: 2rem;border-bottom: dashed 5px;">2013</h2>
+
+        <!-- Lefthand Column -->
+        <div class="row">
+          <div class="col-sm">
+            <div id="top2013Misd" style="height: 300px; margin-left: -2.5rem;margin-bottom: 3rem"></div>
+            <div style="margin-top: 1rem; margin-bottom: 3rem; margin-left: -1rem; background-color: rgba(28,60,95,.75); padding-top: 3rem; padding-bottom: 3rem; color: white; text-align: center; ">
+              Total Felonies Filed = 364
+              <br>
+              Total Felony Dispositions = 642</div>
+          </div>
+
+          <!-- Righthand Column -->
+          <div class="col-sm">
+            <div style="margin-top: 4rem; margin-bottom: 9rem; margin-right: -1rem; background-color: rgba(28,60,95,.75); padding-top: 3rem; padding-bottom: 3rem; color: white; text-align: center; ">
+              Total Misdemeanors Filed = 856
+              <br>
+              Total Misdemeanor Dispositions = 891</div>
+            <div id="top2013Felony" style="height: 300px; padding-bottom: 2rem"></div>
+          </div>
+        </div>
+
+          <h2 style="margin-bottom: 2rem;border-bottom: dashed 5px;">2012</h2>
+
+        <!-- Lefthand Column -->
+        <div class="row">
+          <div class="col-sm">
+            <div id="top2012Misd" style="height: 300px; margin-left: -2.5rem;margin-bottom: 3rem"></div>
+            <div style="margin-top: 1rem; margin-bottom: 3rem; margin-left: -1rem; background-color: rgba(28,60,95,.75); padding-top: 3rem; padding-bottom: 3rem; color: white; text-align: center; ">
+              Total Felonies Filed = 471
+              <br>
+              Total Felony Dispositions = 674</div>
+          </div>
+
+          <!-- Righthand Column -->
+          <div class="col-sm">
+            <div style="margin-top: 4rem; margin-bottom: 9rem; margin-right: -1rem; background-color: rgba(28,60,95,.75); padding-top: 3rem; padding-bottom: 3rem; color: white; text-align: center; ">
+              Total Misdemeanors Filed = 879
+              <br>
+              Total Misdemeanor Dispositions = 925</div>
+            <div id="top2012Felony" style="height: 300px; padding-bottom: 2rem"></div>
+          </div>
+        </div>
+
+          <h2 style="margin-bottom: 2rem;border-bottom: dashed 5px;">2011</h2>
+
+        <!-- Lefthand Column -->
+        <div class="row">
+          <div class="col-sm">
+            <div id="top2011Misd" style="height: 300px; margin-left: -2.5rem;margin-bottom: 3rem"></div>
+            <div style="margin-top: 1rem; margin-bottom: 3rem; margin-left: -1rem; background-color: rgba(28,60,95,.75); padding-top: 3rem; padding-bottom: 3rem; color: white; text-align: center; ">
+              Total Felonies Filed = 565
+              <br>
+              Total Felony Dispositions = 630</div>
+          </div>
+
+          <!-- Righthand Column -->
+          <div class="col-sm">
+            <div style="margin-top: 4rem; margin-bottom: 9rem; margin-right: -1rem; background-color: rgba(28,60,95,.75); padding-top: 3rem; padding-bottom: 3rem; color: white; text-align: center; ">
+              Total Misdemeanors Filed = 906
+              <br>
+              Total Misdemeanor Dispositions = 1042</div>
+            <div id="top2011Felony" style="height: 300px; padding-bottom: 2rem"></div>
+          </div>
+        </div>
+
+
+    </main>
+
+    <footer style="background-color: rgb(20,34,53);" class="">
+      <p style="color: white; text-align: center;">Created by <a href ="http://www.destinyrosemurphy.com/">Destiny Rose Murphy</a> with help from <a href ="https://christian.gen.co/">Christian Genco</a></p>
+    </footer>
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+    <script>
+
+      new Chartkick.ColumnChart("top2017Felony", [
+        ["Drug Poss.", "216"],
+        ["Felony Theft", "66"],
+        ["Burglary", "46"],
+        ],
+        {colors: ["#b00", "#666"], xtitle: "", ytitle: "# of Felonies"}
+        )
+      
+        new Chartkick.ColumnChart("top2017Misd", [
+       ["Marijuana Poss.", "370"],
+        ["Theft", "210"],
+        ["Non-Marijuana Poss. Drug Off.", "182"],
+        ],
+        {colors: ["#b00", "#666"], xtitle: "", ytitle: "# of Misd."}
+        )
+
+        <!-- 2016 graphs --->
+
+        new Chartkick.ColumnChart("top2016Felony", [
+        ["Drug Poss.", "187"],
+        ["Felony Theft", "83"],
+        ["Agg. Ass./Attemp. Murder", "47"],
+        ],
+        {colors: ["#b00", "#666"], xtitle: "", ytitle: "# of Felonies"}
+        )
+      
+        new Chartkick.ColumnChart("top2016Misd", [
+       ["Marijuana Poss.", "313"],
+        ["Theft", "289"],
+        ["Non-Marijuana Poss. Drug Off.", "156"],
+        ],
+        {colors: ["#b00", "#666"], xtitle: "", ytitle: "# of Misd."}
+        )
+
+        <!-- 2015 graphs --->
+
+        new Chartkick.ColumnChart("top2015Felony", [
+        ["Drug Poss.", "238"],
+        ["Agg. Ass./Attemp. Murder", "103"],
+        ["Felony Theft", "89"],
+        ],
+        {colors: ["#b00", "#666"], xtitle: "", ytitle: "# of Felonies"}
+        )
+      
+        new Chartkick.ColumnChart("top2015Misd", [
+       ["Marijuana Poss.", "393"],
+        ["Theft", "310"],
+        ["Non-Marijuana Poss. Drug Off.", "214"],
+        ],
+        {colors: ["#b00", "#666"], xtitle: "", ytitle: "# of Misd."}
+        )
+
+         <!-- 2014 graphs --->
+
+        new Chartkick.ColumnChart("top2014Felony", [
+        ["Drug Poss.", "296"],
+        ["Agg. Ass./Attemp. Murder", "117"],
+        ["Felony Theft", "104"],
+        ],
+        {colors: ["#b00", "#666"], xtitle: "", ytitle: "# of Felonies"}
+        )
+      
+        new Chartkick.ColumnChart("top2014Misd", [
+       ["Marijuana Poss.", "416"],
+        ["Theft", "294"],
+        ["DWI First Off.", "227"],
+        ],
+        {colors: ["#b00", "#666"], xtitle: "", ytitle: "# of Misd."}
+        )
+
+           <!-- 2013 graphs --->
+
+        new Chartkick.ColumnChart("top2013Felony", [
+        ["Drug Poss.", "531"],
+        ["Agg. Ass./Attemp. Murder", "191"],
+        ["Burglary", "113"],
+        ],
+        {colors: ["#b00", "#666"], xtitle: "", ytitle: "# of Felonies"}
+        )
+      
+        new Chartkick.ColumnChart("top2013Misd", [
+       ["Marijuana Poss.", "282"],
+        ["DWI First Off.", "244"],
+        ["Theft by Check", "216"],
+        ],
+        {colors: ["#b00", "#666"], xtitle: "", ytitle: "# of Misd."}
+        )
+
+           <!-- 2012 graphs --->
+
+        new Chartkick.ColumnChart("top2012Felony", [
+        ["Drug Poss.", "626"],
+        ["Agg. Ass./Attemp. Murder", "154"],
+        ["Felony Theft", "82"],
+        ],
+        {colors: ["#b00", "#666"], xtitle: "", ytitle: "# of Felonies"}
+        )
+      
+        new Chartkick.ColumnChart("top2012Misd", [
+       ["Marijuana Poss.", "266"],
+        ["DWI First Off.", "224"],
+        ["Theft by Check", "218"],
+        ],
+        {colors: ["#b00", "#666"], xtitle: "", ytitle: "# of Misd."}
+        )
+
+           <!-- 2011 graphs --->
+
+        new Chartkick.ColumnChart("top2011Felony", [
+        ["Drug Poss.", "671"],
+        ["Agg. Ass./Attemp. Murder", "149"],
+        ["Burglary", "98"],
+        ],
+        {colors: ["#b00", "#666"], xtitle: "", ytitle: "# of Felonies"}
+        )
+      
+        new Chartkick.ColumnChart("top2011Misd", [
+       ["Theft by Check", "367"],
+        ["Marijuana Poss.", "278"],
+        ["DWI First Off.", "164"],
+        ],
+        {colors: ["#b00", "#666"], xtitle: "", ytitle: "# of Misd."}
+        )
+
+
+    </script>
+  </body>
+  </html>
+
+
