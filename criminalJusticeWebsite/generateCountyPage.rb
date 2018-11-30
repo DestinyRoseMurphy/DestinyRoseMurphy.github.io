@@ -339,17 +339,16 @@ while i < csv.size
   </head>
   <body>
     <nav style="background-color: rgb(20,34,53) !important" class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
-      <a class="navbar-brand" href="http://www.lonestarpolicyinstitute.org/"><img style="width: 1.5rem; margin-top: -.5rem" src="http://www.lonestarpolicyinstitute.org/wp-content/uploads/2018/01/Star-96x91.png" class="logo_main" alt="" >LSPI</a>
+      <a class="navbar-brand" href="index.html"><img style="width: 1.5rem; margin-top: -.5rem" src="http://www.lonestarpolicyinstitute.org/wp-content/uploads/2018/01/Star-96x91.png" class="logo_main" alt="" >Home</a>
+
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
+        <span class="navbar-toggler-icon"></span>
       </button>
+
       <div class="collapse navbar-collapse" id="navbarsExampleDefault">
         <ul class="navbar-nav mr-auto">
-          <li class="nav-item active">
-            <a class="nav-link" href="../index.html">Home<span class="sr-only">(current)</span></a>
-          </li>
           <li class="nav-item">
-            <a class="nav-link" href="../methodology.html">Methodology</a>
+            <a class="nav-link" href="methodology.html">../Methodology</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="../findings.html">Findings</a>
@@ -357,6 +356,10 @@ while i < csv.size
           <li class="nav-item">
             <a class="nav-link" href="../countySelector.html">Find Your County</a>
           </li>
+          <li class="nav-item">
+            <a class="nav-link" href="http://www.lonestarpolicyinstitute.org/">LSPI</a>
+          </li>
+
         </ul>
       </div>
     </nav>
