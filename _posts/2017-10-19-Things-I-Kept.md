@@ -11,6 +11,8 @@ I began this list January 11th, 2018. It's the first iteration of this post, whi
 
 [What I Need to Improve](#Improve) 
 
+<p class="newspaper">
+
 <p style="margin-bottom: 0;"><a href="#Everyday">Everyday Carry</a></p>
 
 * [Backpack](#Backpack)
@@ -43,6 +45,8 @@ I began this list January 11th, 2018. It's the first iteration of this post, whi
 * [Tea](#Tea)
 * [Rock Climbing](#Rock)
 * [Biking](#Bike)
+
+</p>
 
 
 ## <a name="Improve"></a> What I Need to Improve
