@@ -9,6 +9,12 @@ With the start of my junior year I'm beginning a new series of posts. Here I'll 
 
 ## 2018
 
+#### 25 Total Works (10 plays; 11 books; 1 collection of short stories; 1 workbook; 1 graphic novel; 1 extended essay)
+
+
+#### Favorite Work: [Watchmen](/details/2018-07-28-Watchmen)
+I've been wanting to read this graphic novel ever since the movie came out years ago, and I'm so glad I finally got around to doing so. This piece is a work of art from cover to cover, bursting with details, nuance, and emotion. I read it in just a few hours, and would recommend it to pretty much anyone over the age of 13. 
+
 * [Stop Caretaking the Borderline or Narcissist: How to End the Drama and Get On with Life](/details/2018-12-31-Stop-Caretaking)
 * [American Gods](/details/2018-11-13-American-Gods)
 * [What We Talk About When We Talk About Love](/details/2018-10-08-Talk-About-Love)
