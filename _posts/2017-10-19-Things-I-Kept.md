@@ -12,24 +12,26 @@ I began this list January 11th, 2018. It's the first iteration of this post, whi
 [What I Need to Improve](#Improve) 
 
 <div class="row">
-    <div class="col">
-    	
-<p style="margin-bottom: 0;"><a href="#Everyday">Everyday Carry</a></p>
+  <div class="col">
+		<p style="margin-bottom: 0;"><a href="#Everyday">Everyday Carry</a></p>
+		<ul>
+			<li>[Backpack](#Backpack)</li>
+			<li>[Purse](#Purse)</li>
+		</ul>
+	</div> 
 
-* [Backpack](#Backpack)
-* [Purse](#Purse)
-
+   <div class="col">
 <p style="margin-bottom: 0;"><a href="#Furnishings">Furnishings</a></p>
 
 * [Bedroom](#Bedroom)
 * [Living Room](#Living)
-* [Office](#Office)    </div>
-    <div class="col">
-      2 of 3
+* [Office](#Office)  
     </div>
+
     <div class="col">
       3 of 3
     </div>
+    
   </div>
 </div>
 
