@@ -9,6 +9,7 @@ With the start of my junior year I'm beginning a new series of posts. Here I'll 
 
 ## 2018
 
+* [Stop Caretaking the Borderline or Narcissist: How to End the Drama and Get On with Life](/details/2018-12-31-Stop-Caretaking)
 * [American Gods](/details/2018-11-13-American-Gods)
 * [What We Talk About When We Talk About Love](/details/2018-10-08-Talk-About-Love)
 * [Flowers for Algernon](/details/2018-10-07-Flowers-for-Algernon)
