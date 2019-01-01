@@ -9,7 +9,7 @@ With the start of my junior year I'm beginning a new series of posts. Here I'll 
 
 ## 2018
 
-#### 25 Total Works (10 plays; 11 books; 1 collection of short stories; 1 workbook; 1 graphic novel; 1 extended essay)
+#### 25 Total Works (10 Plays; 11 Books; 1 Collection of Short Stories; 1 Workbook; 1 Graphic Novel; 1 Essay) - 15 for School, 10 for Me
 
 
 #### Favorite Work: [Watchmen](/details/2018-07-28-Watchmen)
@@ -44,7 +44,7 @@ I've been wanting to read this graphic novel ever since the movie came out years
 
 ## 2017
 
-#### 19 Total Works (2 Collections of Poetry; 2 Plays; 13 Books; 1 Essay; 1 Mixed Media Story) 13 for School, 6 for Pleasure
+#### 19 Total Works (2 Collections of Poetry; 2 Plays; 13 Books; 1 Essay; 1 Mixed Media Story) - 13 for School, 6 for Pleasure
 
 #### Favorite Work: [What Football Will Look Like in the Future: 17776](/details/2017-10-26-What-Football-Will-Look-Like-in-the-Future:-17776)
 This piece surprised me every step of the way and had me ranting and raving for weeks. It'll take you less than a day, you read it on your computer, and I can say with almost certainty that you will never have encountered anything like this story. Check it out. 
