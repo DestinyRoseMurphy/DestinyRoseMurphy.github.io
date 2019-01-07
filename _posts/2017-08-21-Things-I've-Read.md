@@ -7,6 +7,10 @@ summary:    "With the start of my junior year I'm beginning a new series of post
 
 With the start of my junior year I'm beginning a new series of posts. Here I'll store my thoughts on every new thing (book, article, collection of poems, etc.) that I read and have a post's worth of thoughts on, whether academic or recreational. Please browse at your leisure if you're interested in finding something new to read, or just want to read my rants. I'll try to keep all these under a 3 minute read.
 
+## 2019
+* [The Amulet of Samarkand](/details/2019-01-2017-Amulet-of-Samarkand)
+
+
 ## 2018
 
 #### 25 Total Works (10 Plays; 11 Books; 1 Collection of Short Stories; 1 Workbook; 1 Graphic Novel; 1 Essay) - 15 for School, 10 for Me
