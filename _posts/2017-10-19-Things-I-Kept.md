@@ -231,7 +231,9 @@ I got my first kitchen all to myself in the fall semester of 2017, and I've been
 * [Diva Cup](http://amzn.to/2zqtBNt) - Safer and less trash-producing than tampons. Switching to this was weird, but now I lovingly refer to it as my blood cup. 
 * [Toilet Paper](http://amzn.to/2qUxd6N) - The nice kind, because your butt is worth it.
 * Lint Roller - For that last minute in-the-mirror touch. 
-* [IKEA FILUR trash can](http://www.ikea.com/us/en/catalog/products/40188340/?query=401.883.40) - The perfect size for sitting next to the toilet with a handy dandy lid to cover up the nasties within. A very artistic friend decorated mine beautifully with sharpie, and now this simple household necessity is a tiny beacon of happiness. 
+* <img src="https://i.imgur.com/hMsnWnPt.jpg" style="float: right; margin-bottom: 1rem; margin-left: 1rem"> [IKEA FILUR trash can](http://www.ikea.com/us/en/catalog/products/40188340/?query=401.883.40) - The perfect size for sitting next to the toilet with a handy dandy lid to cover up the nasties within. A very artistic friend decorated mine beautifully with sharpie, and now this simple household necessity is a tiny beacon of happiness. 
+
+<br>
 
 #### <a name="Hair"></a> Hair
 I'm really bad at doing hair, so I cut most of mine off, which means I now use a barrage of aerosols to turn what hair I do have into something presentable each morning. I don't really know how any of these work, and whether or not I have a good hair day is often about as dependent on my skill level as it is dependent on the phase of the moon and the number of seagulls over the West coast. Nevertheless, these tools seem to help.
