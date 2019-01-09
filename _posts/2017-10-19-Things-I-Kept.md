@@ -289,28 +289,28 @@ All things that I don't use every day, but that I do use enough to keep around. 
 I got rid of the largest number of items when I cleaned out my clothes. Years of gifts and hand-me-downs had completely cluttered my closet and drawers, resulting in a mass of items I didn't like and no way for me to realize what I actually needed to buy. Now that I have less it's way easier to pick outfits! Clothes below are ordered vaguely by category and style.
 
 #### <a name="Dresser"></a> In and On the Dresser
-* 6 pieces of jewelry (1 choker, 1 watch face with 2 interchangeable bands, 2 lapel pins)
+* 2 jewelry dishes (1 wood, 1 llama themed)
+* 9 pieces of jewelry (1 choker, 1 watch face with 2 interchangeable bands, 3 lapel pins, 1 bracelet, 1 necklace)
 * Monogrammed business card holder - Given to me as a going away gift by my first internship, this holds my student business cards. A great way to look surprisingly adult in a room full of real adults.
 * 3 sports bras, 1 bralette, 3 regular bras
-* 23 pairs of undies
-* 18 pairs of socks (7 ankle, 3 tall, 1 fuzzy, 3 fashion boot, 4 hiking)
+* 21 pairs of undies
+* 30 pairs of socks (19 ankle, 4 tall, 1 fuzzy, 2 fashion boot, 4 hiking)
 * Fashion tape, disposable pasties, 1 pair nude hose, 1 bag of ballroom dress accessories and extra parts
-* 22 tops (5 workout tanks, 4 t-shirts, 6 non-workout tanks, 7 nicer short/no-sleeve)
-* 23 bottoms (2 skirts, 5 non-athletic shorts, 2 biking shorts, 5 yoga pants, 3 full length athletic pants, 5 leggings, 1 sweatpants)
-* 3 two piece and 1 one piece swimsuits, 1 pajama set, 1 pair tights, 1 pair calf-height stockings with suspender belt
+* 23 tops (5 workout tanks, 7 t-shirts, 5 non-workout tanks, 1 crop-top, 5 nicer short/no-sleeve)
+* 23 bottoms (2 skirts, 4 non-athletic shorts, 2 biking shorts, 5 yoga pants, 3 full length athletic pants, 6 leggings, 1 sweatpants)
+* 2 two piece and 1 one piece swimsuits, 1 pajama top, pajama bottom, 2 pairs tights, 1 pair calf-height stockings with suspender belt
 
 #### <a name="Closet"></a> In the Closet
-* 17 dresses (2 business, all non-long sleeve)
-* 29 tops (6 business-ey short/no-sleeve, 1 business-ey long sleeve, 16 3/4-ish sleeve, 3 long sleeve, 3 long sleeve base layer)
-* 21 over-layers (3 blazers, 4 cardigans, 1 cardigan sweater, 4 sweaters, 2 pullovers, 5 jackets, 1 heavy coat, 1 light coat)
-* 10 bottoms (2 jeans, 2 colored jeggings, 3 slacks, 3 business skirts)
+* 18 dresses (2 business, all non-long sleeve)
+* 34  tops (7 business-ey short/no-sleeve, 12 not-quite-long sleeve, 12 long sleeve, 3 long sleeve base layer)
+* 16 over-layers (3 blazers, 4 cardigans, 1 cardigan sweater, 5 jackets, 1 heavy coat, 1 light coat, 1 raincoat)
+* 12 bottoms (2 jeans, 2 colored jeggings, 1 capri, 4 slacks, 3 business skirts)
 * 4 belts
-* 18 pairs of shoes (1 flip flops, 5 flats, 1 sandals, 1 athletic shoes, 1 Converse, 1 pink shoe, 2 booties, 2 tall boots, 1 rain boots, 3 professional heels)
-* 14 accessories (3 regular scarves, 2 infinity scarves, 1 mask scarf, 2 beanies, 4 pairs of gloves, 1 ascot, 1 golf glove)
+* 19 pairs of shoes (1 flip flops, 5 flats, 1 sandals, 1 athletic shoes, 1 Converse, 1 pink shoe, 3 booties, 2 tall boots, 1 rain boots, 3 professional heels)
+* 14 accessories (1 poncho, 2 regular scarves, 2 infinity scarves, 2 buffs, 2 beanies, 4 pairs of gloves, 1 ascot)
 * 5 ballroom dancing pieces (standard dress, 2 Latin dresses, Supadance standard shoes, Very Fine Salsera Latin shoes)
-* Flapper girl dress and headband
-* 7 Renaissance Festival costume pieces (dress, corset, 2 shirts, skirt, flower crown, 1 pair earrings)
-* 3 robes and 1 narwhal onesie 
+* 8 Renaissance Festival costume pieces (dress, corset, 2 shirts, skirt, flower crown, 1 pair earrings, mask)
+* 4 robes and 1 narwhal onesie 
 
 ## <a name="Hobbies"></a> Hobbies
 
