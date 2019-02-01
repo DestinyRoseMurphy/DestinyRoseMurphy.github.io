@@ -9,7 +9,7 @@ I like writing things, which you really should have figured out by now seeing as
 
 ## 2019
 
-* [How to be a Successful Instagram Model](/deatils/2019-02-01-Instagram-Model)
+* [How to be a Successful Instagram Model](/details/2019-02-01-Instagram-Model)
 
 ## 2018 
 
