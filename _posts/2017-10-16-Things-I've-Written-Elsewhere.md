@@ -9,6 +9,7 @@ I like writing things, which you really should have figured out by now seeing as
 
 ## 2018 
 
+* [How to be a Successful Instagram Model](/deatils/2019-02-01-Instagram-Model)
 * [Know the Facts and Know Your Rights](/details/2018-11-13-Weinstein-Event-Write-Up)
 * [Choose Quality](/details/2018-07-12-Choose-Quality)
 * [The Cost of Free Speech](/details/2018-04-04-Cost-of-Speech)
