@@ -9,6 +9,7 @@ With the start of my junior year I'm beginning a new series of posts. Here I'll 
 
 ## 2019
 
+* [The Name of the Wind](/details/2019-02-24-Name-of-the-Wind)
 * [Ptolemy's Gate](/details/2019-02-05-Ptolemys-Gate)
 * [The Golem's Eye](/details/2019-01-12-Golem-Eye)
 * [The Amulet of Samarkand](/details/2019-01-07-Amulet-of-Samarkand)
