@@ -9,6 +9,7 @@ With the start of my junior year I'm beginning a new series of posts. Here I'll 
 
 ## 2019
 
+* [A River Runs Through It](/details/2019-03-21-River-Runs)
 * [Persuasion](/details/2019-03-09-Persuasion)
 * [Make a Scene](/details/2019-02-25-Make-a-Scene)
 * [The Name of the Wind](/details/2019-02-24-Name-of-the-Wind)
