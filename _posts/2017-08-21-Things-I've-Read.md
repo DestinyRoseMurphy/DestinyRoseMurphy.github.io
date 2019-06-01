@@ -9,6 +9,7 @@ With the start of my junior year I'm beginning a new series of posts. Here I'll 
 
 ## 2019
 
+* [Outliers: The Story of Success](/details/2019-05-31-Outliers)
 * [The Killing Joke](/details/2019-04-24-Killing-Joke)
 * [A River Runs Through It](/details/2019-03-31-River-Runs)
 * [Persuasion](/details/2019-03-09-Persuasion)
