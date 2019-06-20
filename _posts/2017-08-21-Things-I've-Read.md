@@ -9,6 +9,7 @@ With the start of my junior year I'm beginning a new series of posts. Here I'll 
 
 ## 2019
 
+* [I Will Teach You to Be Rich](/details/2019-06-20-I-Will-Teach)
 * [Nine Stories](/details/2019-06-08-Nine-Stories)
 * [Outliers: The Story of Success](/details/2019-05-31-Outliers)
 * [The Killing Joke](/details/2019-04-24-Killing-Joke)
