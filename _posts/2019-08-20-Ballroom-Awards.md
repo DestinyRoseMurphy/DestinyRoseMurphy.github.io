@@ -1,4 +1,5 @@
 ---
+<script src="sorttable.js" type="text/javascript"></script>
 layout:     post
 title:      "Ballroom Award Tracking"
 date:       2018-08-20
