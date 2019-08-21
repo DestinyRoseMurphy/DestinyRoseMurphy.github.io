@@ -4,9 +4,6 @@ title:      "Ballroom Award Tracking"
 date:       2018-08-20
 summary:    "Something to track and memorialize the competitive ballroom ribbons I kept over the years."
 ---
-
-
-
 <table class="sortable">
  <thead>
    <tr>
