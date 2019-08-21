@@ -27,16 +27,24 @@ summary:    "Something to track and memorialize the competitive ballroom ribbons
     <td>Jive</td>
     <td>Trevor Youngblood</td>
   </tr>
+  <tr>
+    <td>2017-08-04</td>
+    <td>2nd</td>
+    <td>Bronze</td>
+    <td>Am..</td>
+    <td>Swing</td>
+    <td>Dillon Weir</td>
+  </tr>
 </tbody>
 </table>
 
 
 Austin Open
 2017-08-04: 2nd place in Gold Int. Jive w/Trevor Youngblood
-
-
-
 2017-08-04: 2nd place in Bronze Am. Swing w/Dillon Weir
+
+
+
 2017-08-04: 2nd place in Silver Int. Foxtrot w/Trevor Youngblood
 2017-08-04: 2nd place in Silver Int. Quickstep w/Trevor Youngblood
 2017-08-04: 2nd place in Gold Int. Samba w/Trevor Youngblood
