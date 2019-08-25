@@ -9,6 +9,7 @@ With the start of my junior year I'm beginning a new series of posts. Here I'll 
 
 ## 2019
 
+- [To Kill a Mockingbird](/details/2019-08-24-Mockingbird)
 - [Good Omens](/details/2019-08-16-Good-Omens)
 - [1L of a Ride](/details/2019-08-03-1L-of-a-Ride)
 - [I Will Teach You to Be Rich](/details/2019-06-20-I-Will-Teach)
