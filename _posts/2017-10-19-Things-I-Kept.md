@@ -39,7 +39,7 @@ I began this list January 11th, 2018. It's the first iteration of this post, whi
 		<p style="margin-bottom: 0;"><a href="#Furnishings">Furnishings</a></p>
 		<ul>
 			<li><a href="#Bedroom">Bedroom</a></li>
-			<li><a href="">Clothes</a></li>
+			<li><a href="#Clothes">Clothes</a></li>
 				<ul style="margin-bottom: 0;">
 			<li><a href="#Drawers">In Drawers</a></li>
 			<li><a href="#Closet">In the Closet</a></li>
