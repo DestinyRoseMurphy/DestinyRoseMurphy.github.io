@@ -40,9 +40,9 @@ I began this list January 11th, 2018. It's the first iteration of this post, whi
 		<ul>
 			<li><a href="#Bedroom">Bedroom</a></li>
 			<li><a href="">Clothes</a></li>
-				<ul>
+				<ul style="margin-bottom: 0;">
 			<li><a href="#Drawers">In Drawers</a></li>
-			<li style="margin-bottom: 0;"><a href="#Closet">In the Closet</a></li>
+			<li><a href="#Closet">In the Closet</a></li>
 				</ul>
 			<li><a href="#Living">Living Room</a></li>
 			<li><a href="#Office">Office</a></li>
