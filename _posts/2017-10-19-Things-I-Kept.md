@@ -147,7 +147,7 @@ I began this list January 11th, 2018. It's the first iteration of this post, whi
 ##### <a name="Clothes"></a> Clothes
 I got rid of the largest number of items when I cleaned out my clothes. Years of gifts and hand-me-downs had completely cluttered my closet and drawers, resulting in a mass of items I didn't like and no way for me to realize what I actually needed to buy. Now that I have less it's way easier to pick outfits! Clothes below are ordered vaguely by category and style.
 
-###### <a name="Drawers"></a> In Drawers
+##### <a name="Drawers"></a> In Drawers
 * 3 sports bras, 1 bralette, 1 regular bra
 * 21 pairs of undies
 * 30 pairs of socks (19 ankle, 4 tall, 1 fuzzy, 2 fashion boot, 4 hiking)
@@ -371,7 +371,7 @@ All things that I don't use every day, but that I do use enough to keep around. 
 * Oral Thermometer
 * Cough Drops
 * Walgreens and CVS brand Sudafed
-* NyQuil Cold and Flu, Mucinex DM, CVS Brand Cough DM, Zicam Cold Remedy Rapidmelts
+* NyQuil Cold and Flu, Mucinex DM, CVS Brand Cough DM
 * Debrox Earwax Removal Aid
 * 50 SPF Sunscreen
 * Condoms and Fluconazole
@@ -427,8 +427,6 @@ I think hauling myself up vertical surfaces is incredibly fun, but it's also dan
 * [Artisanetes 2 Liter Bladder](https://amzn.to/2GLAYz1)
 * Leather Glasses Strap
 * Black Diamond Carabiner - Not for climbing, but for attaching gear to other gear so I don't lose things
-* Purple Plastic Bin - Holds my gear in my room
-* Dumbledore Quote Book Bag - Perfect for carrying gear and a change of clothes to the climbing gym
 
 #### <a name="Bike"></a> Biking
 I already enjoyed biking for exercise and relaxation and wanted to be the kind of person who biked for transportation, so I went all in and got a possibly unnecessarily nice bike for myself around Christmas of the junior year of my undergraduate. I'm now the kind of person who bikes for transportation, and I love it. 
