@@ -47,14 +47,14 @@ I began this list January 11th, 2018. It's the first iteration of this post, whi
 			<li><a href="#Living">Living Room</a></li>
 			<li><a href="#Office">Office</a></li>
 		</ul>
-		<p style="margin-bottom: 0;"><a href="#Kitchen">Kitchen</a></p>
+	</div> 
+
+  <div class="col">
+  	<p style="margin-bottom: 0;"><a href="#Kitchen">Kitchen</a></p>
 		<ul>
 			<li><a href="#Hardware">Hardware</a></li>
 			<li><a href="#Sink">In and Under the Sink</a></li>
 		</ul>
-	</div> 
-
-  <div class="col">
   	<p style="margin-bottom: 0;"><a href="#Bathroom">Bathroom</a></p>
   	<ul>
 			<li><a href="#Hair">Hair</a></li>
@@ -259,6 +259,7 @@ I got rid of the largest number of items when I cleaned out my clothes. Years of
 
 * Long curtain rod w/3 purple blackout curtains
 * Wall-mounted llama head
+* 34 playbills attached to the wall with [twine](https://www.amazon.com/gp/product/B07J68D2GM/ref=ppx_yo_dt_b_asin_title_o00_s01?ie=UTF8&psc=1) and [clothespins](https://www.amazon.com/gp/product/B00JLDBGFA/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1) strung between [picture holders](https://www.amazon.com/gp/product/B01FT5UYTM/ref=ppx_yo_dt_b_asin_title_o00_s01?ie=UTF8&psc=1)
 
 ## <a name="Kitchen"></a> Kitchen
 
