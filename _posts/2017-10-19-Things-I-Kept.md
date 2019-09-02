@@ -342,17 +342,15 @@ I'm really bad at doing hair, so I cut most of mine off, which means I now use a
 I like makeup in the same way I like my laptop: I'm 100% sure that I use it incorrectly 50% of the time, but it's fun and useful nonetheless. Most of my collection is either gifts, free samples, or pieces my helpful friends at Sephora have pointed me to when I come in with an empty foundation and a look of terror. Bless them and their patience.
 
 * Vera Bradley cosmetics bag - I think this is a cosmetics bag at least, because it's lined with an easily cleanable plastic. It's too small to be a toiletries bag proper, but it's the perfect size to ensure I don't accumulate more makeup than I need (and it's very pretty).
-* [7 Piece Elf Brush Set](http://amzn.to/2FvsifB) 
-* [Sephora Airbrush Sponge](https://www.sephora.com/product/the-painter-airbrush-sponge-P394161)
-* [Anita NARS lipstick](http://amzn.to/2iRYtzb) - The perfect professional shade, with a magnetic case that doesn't come open in your purse.
+* Elf Complexion Brush
+* [NARS Anita lipstick](http://amzn.to/2iRYtzb) - The perfect professional shade, with a magnetic case that doesn't come open in your purse.
 * [Sephora Solid Brush Cleaner](https://www.sephora.com/product/solid-clean-solid-brush-cleaner-P389120)
 * [Makeup Forever Mascara](http://amzn.to/2D3I5nv)
 * [Hello Flawless Powder](http://amzn.to/2D0uT35)
 * [Tarte BB Cream](http://amzn.to/2DpxiCd)
 * [Makeup Forever Concealer](http://amzn.to/2qYcZsO)
 * [Origins Concealer](http://amzn.to/2mm867o)
-* [Kat Von D Lipstick HEXAGRAM](http://amzn.to/2Dl2Dph)
-* Sephora Contour & Color Lip Colors: [Rosewood](http://amzn.to/2FvOC91), [Light Nude](http://amzn.to/2DpkETG), [Deep Rose](http://amzn.to/2Dpl6Bm)
+* Sephora Contour & Color Lip Colors: [Rosewood](http://amzn.to/2FvOC91), and [Light Nude](http://amzn.to/2DpkETG)
 * Clinique Lipsticks: [A Different Grape](http://amzn.to/2EyTjOh) & [Bamboo Pink](http://amzn.to/2Dj7M17)
 * Wet 'n' Wild MegaSparkle Confetti
 * [Clinique Rinse off Eye Makeup Solvent](http://amzn.to/2mlQ1pN)
