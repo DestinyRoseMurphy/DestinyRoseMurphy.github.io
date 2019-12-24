@@ -9,7 +9,7 @@ I like writing things, which you really should have figured out by now seeing as
 
 ## 2019
 
-* [Wordsworth's Hell](/details/2019-10-01-Wordsworth's-Hell)
+* [Wordsworth's Hell](/details/2019-10-01-Wordsworths-Hell)
 * [How to be a Successful Instagram Model](/details/2019-02-01-Instagram-Model)
 
 ## 2018 
