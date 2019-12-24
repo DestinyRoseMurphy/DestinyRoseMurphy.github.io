@@ -9,6 +9,8 @@ With the start of my junior year I'm beginning a new series of posts. Here I'll 
 
 ## 2019
 
+- [The Awakening](/details/2019-12-24-Awakening)
+- [The Shining](/details/2019-12-17-Shining)
 - [Preacher: Book One](/details/2019-11-22-Preacher)
 - [Point Made](/details/2019-10-26-Point-Made)
 - [Death of Contract](/details/2019-10-26-Death-of-Contract)
