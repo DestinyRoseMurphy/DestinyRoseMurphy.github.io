@@ -31,18 +31,16 @@ With the start of my junior year I'm beginning a new series of posts. Here I'll 
   <div class="col">
   	<ul>
 			<li><a href="/details/2019-12-29-Cuckoo-Nest">One Flew Over the Cuckoo's Nest</a></li>
-			<li><a href="#Purse">Purse</a></li>
+			<li><a href="/details/2019-12-24-Awakening">The Awakening</a></li>
+			<li><a href="/details/2019-12-17-Shining">The Shining</a></li>
+			<li><a href="/details/2019-11-22-Preacher">Preacher: Book One</a></li>
+			<li><a href="/details/2019-10-26-Point-Made">Point Made</a></li>
+			<li><a href="/details/2019-10-26-Death-of-Contract">Death of Contract</a></li>
+			<li><a href="/details/2019-08-24-Mockingbird">To Kill a Mockingbird</a></li>
+			<li><a href="/details/2019-08-16-Good-Omens">Good Omens</a></li>
+			<li><a href="/details/2019-08-03-1L-of-a-Ride">1L of a Ride</a></li>
+			<li><a href="/details/2019-06-20-I-Will-Teach">I Will Teach You to Be Rich</a></li>
 		</ul>
-- [One Flew Over the Cuckoo's Nest](/details/2019-12-29-Cuckoo-Nest)
-- [The Awakening](/details/2019-12-24-Awakening)
-- [The Shining](/details/2019-12-17-Shining)
-- [Preacher: Book One](/details/2019-11-22-Preacher)
-- [Point Made](/details/2019-10-26-Point-Made)
-- [Death of Contract](/details/2019-10-26-Death-of-Contract)
-- [To Kill a Mockingbird](/details/2019-08-24-Mockingbird)
-- [Good Omens](/details/2019-08-16-Good-Omens)
-- [1L of a Ride](/details/2019-08-03-1L-of-a-Ride)
-- [I Will Teach You to Be Rich](/details/2019-06-20-I-Will-Teach)
 	</div> 
 	<div class="col">
 - [Nine Stories](/details/2019-06-08-Nine-Stories)
