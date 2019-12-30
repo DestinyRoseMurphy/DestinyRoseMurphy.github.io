@@ -9,6 +9,7 @@ With the start of my junior year I'm beginning a new series of posts. Here I'll 
 
 ## 2019
 
+- [One Flew Over the Cuckoo's Nest](/details/2019-12-29-Cuckoo-Nest)
 - [The Awakening](/details/2019-12-24-Awakening)
 - [The Shining](/details/2019-12-17-Shining)
 - [Preacher: Book One](/details/2019-11-22-Preacher)
