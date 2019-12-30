@@ -43,16 +43,18 @@ With the start of my junior year I'm beginning a new series of posts. Here I'll 
 		</ul>
 	</div> 
 	<div class="col">
-- [Nine Stories](/details/2019-06-08-Nine-Stories)
-- [Outliers: The Story of Success](/details/2019-05-31-Outliers)
-- [The Killing Joke](/details/2019-04-24-Killing-Joke)
-- [A River Runs Through It](/details/2019-03-31-River-Runs)
-- [Persuasion](/details/2019-03-09-Persuasion)
-- [Make a Scene](/details/2019-02-25-Make-a-Scene)
-- [The Name of the Wind](/details/2019-02-24-Name-of-the-Wind)
-- [Ptolemy's Gate](/details/2019-02-05-Ptolemys-Gate)
-- [The Golem's Eye](/details/2019-01-12-Golem-Eye)
-- [The Amulet of Samarkand](/details/2019-01-07-Amulet-of-Samarkand)
+		<ul>
+			<li><a href="/details/2019-06-08-Nine-Stories">Nine Stories</a></li>
+			<li><a href="/details/2019-05-31-Outliers">Outliers: The Story of Success</a></li>
+			<li><a href="/details/2019-04-24-Killing-Joke">The Killing Joke</a></li>
+			<li><a href="/details/2019-03-31-River-Runs">A River Runs Through It</a></li>
+			<li><a href="/details/2019-03-09-Persuasion">Persuasion</a></li>
+			<li><a href="/details/2019-02-25-Make-a-Scene">Make a Scene</a></li>
+			<li><a href="/details/2019-02-24-Name-of-the-Wind">The Name of the Wind</a></li>
+			<li><a href="/details/2019-02-05-Ptolemys-Gate">Ptolemy's Gate</a></li>
+			<li><a href="/details/2019-01-12-Golem-Eye">The Golem's Eye</a></li>
+			<li><a href="/details/2019-01-07-Amulet-of-Samarkand">The Amulet of Samarkand</a></li>
+		</ul>
 	</div> 
 </div> 
 
