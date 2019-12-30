@@ -5,10 +5,30 @@ date: 2017-08-21
 summary: "With the start of my junior year I'm beginning a new series of posts. Here I'll store my thoughts on every new thing (book, article, collection of poems, etc.) that I read and have a post's worth of thoughts on, whether academic or recreational. Please browse at your leisure if you're interested in finding something new to read, or just want to read my rants. I'll try to keep all these under a 3 minute read."
 ---
 
+<style>
+.row{
+	display: flex;
+	flex-wrap: wrap;
+	margin-right: -15px;
+  margin-left: -15px;
+}
+.col{
+  flex-basis: 0;
+  flex-grow: 1;
+  max-width: 100%;
+  position: relative;
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+</style>
+
 With the start of my junior year I'm beginning a new series of posts. Here I'll store my thoughts on every new thing (book, article, collection of poems, etc.) that I read and have a post's worth of thoughts on, whether academic or recreational. Please browse at your leisure if you're interested in finding something new to read, or just want to read my rants. I'll try to keep all these under a 3 minute read.
 
 ## 2019
 
+<div class="row">
+  <div class="col">
 - [One Flew Over the Cuckoo's Nest](/details/2019-12-29-Cuckoo-Nest)
 - [The Awakening](/details/2019-12-24-Awakening)
 - [The Shining](/details/2019-12-17-Shining)
@@ -19,6 +39,8 @@ With the start of my junior year I'm beginning a new series of posts. Here I'll 
 - [Good Omens](/details/2019-08-16-Good-Omens)
 - [1L of a Ride](/details/2019-08-03-1L-of-a-Ride)
 - [I Will Teach You to Be Rich](/details/2019-06-20-I-Will-Teach)
+	</div> 
+	<div class="col">
 - [Nine Stories](/details/2019-06-08-Nine-Stories)
 - [Outliers: The Story of Success](/details/2019-05-31-Outliers)
 - [The Killing Joke](/details/2019-04-24-Killing-Joke)
@@ -29,6 +51,8 @@ With the start of my junior year I'm beginning a new series of posts. Here I'll 
 - [Ptolemy's Gate](/details/2019-02-05-Ptolemys-Gate)
 - [The Golem's Eye](/details/2019-01-12-Golem-Eye)
 - [The Amulet of Samarkand](/details/2019-01-07-Amulet-of-Samarkand)
+	</div> 
+</div> 
 
 ## 2018
 
