@@ -30,6 +30,7 @@ With the start of my junior year I'm beginning a new series of posts. Here I'll 
 <div class="row">
   <div class="col">
   	<ul>
+			<li><a href="/details/2019-12-31-Death-of-a-Salesman">Death of a Salesman</li>
 			<li><a href="/details/2019-12-29-Cuckoo-Nest">One Flew Over the Cuckoo's Nest</a></li>
 			<li><a href="/details/2019-12-24-Awakening">The Awakening</a></li>
 			<li><a href="/details/2019-12-17-Shining">The Shining</a></li>
