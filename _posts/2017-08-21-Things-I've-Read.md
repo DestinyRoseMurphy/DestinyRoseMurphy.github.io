@@ -27,6 +27,12 @@ With the start of my junior year I'm beginning a new series of posts. Here I'll 
 
 ## 2019
 
+#### 21 Total Works (11 Fiction novels; 6 Non-Fiction books; 2 Graphic novels;  1 Play; 1 Collection of short stories) - 7 for School, 14 for Me
+
+#### Favorite Work: [Good Omens](/details/2019-08-16-Good-Omens)
+
+I found myself reading too many things that I felt like I had to read this year, and not enough things that I enjoyed reading. Good Omens, with its wit and happiness, was singularly enjoyable the way reading for pleasure ought to be. I aspire to read more like it next year, and even enjoyed the Amazon show after reading it.
+
 <div class="row">
   <div class="col">
   	<ul>
