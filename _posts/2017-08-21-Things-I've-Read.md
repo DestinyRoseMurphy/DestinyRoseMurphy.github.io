@@ -25,6 +25,10 @@ summary: "With the start of my junior year I'm beginning a new series of posts. 
 
 With the start of my junior year I'm beginning a new series of posts. Here I'll store my thoughts on every new thing (book, article, collection of poems, etc.) that I read and have a post's worth of thoughts on, whether academic or recreational. Please browse at your leisure if you're interested in finding something new to read, or just want to read my rants. I'll try to keep all these under a 3 minute read.
 
+## 2020
+
+- [The Green Mile](/details/2020-03-12-Green-Mile)
+
 ## 2019
 
 #### 21 Total Works (11 Fiction novels; 6 Non-Fiction books; 2 Graphic novels;  1 Play; 1 Collection of short stories) - 7 for School, 14 for Me
