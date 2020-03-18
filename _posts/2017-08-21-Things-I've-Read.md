@@ -27,6 +27,7 @@ With the start of my junior year I'm beginning a new series of posts. Here I'll 
 
 ## 2020
 
+- [Beloved](/details/2020-03-18-Beloved)
 - [The Green Mile](/details/2020-03-12-Green-Mile)
 
 ## 2019
