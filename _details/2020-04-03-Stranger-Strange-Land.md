@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Stranger in a Strange Land"
+date: 2020-04-03
+author: "By Robert A. Heinlein"
+---
+
+I stayed with my aunt Colleen and Uncle Patrick in Hermann, Missouri for the COVID pandemic of spring 2020 and so found myself reading whatever books they had in order to pass the time. This little novel caught my eye because I recognized the title as some oft-referenced classic. Having finished it, I think the book is worth reading for lovers of science fiction solely because of its status as a foundational work; however—like the original Blade Runner movie—I think it is easy to criticize and forget how groundbreaking this work was for its time because of how out of date its biases now glare. 
+
+Our author begins with the truism that most humans discover in their twenties (we'd all be a lot better if we just had more sex) and moves from there to a sprawling theory of right and wrong based off the sexual bipolarity of humanity. Held up against my generation's rejection of the gender binary, such a theory feels hollow. Additionally, although the protagonist seeks to create a people free from learned-biases, the author's biases appear everywhere. Sexual freedom is the height of the new goodness, but homosexual men are still depicted as objectively subhuman, and lesbian sexuality is accepted only when viewed as women discovering and channeling the male gaze. A passing comment credits marijuana as an evil greater than any other the book presents, and female characters who have reached revelation still hew to stereotypes like a need for pretty clothes, even in a nudist society that views clothes as a badness. 
+
+All in all, the book's status as a genre-defining work is clear throughout. Like reading the Bible, reading this book picks out now-ubiquitous archetypes and story structures. But, truth be told the thing isn't particularly well written. The male characters rely on painfully long-winded dialogue to get points across that the author seems incapable of alluding to with any subtlety, and the parts of the story that aren't described in immense detail via male dialogue—like the mysterious afterlife system—are often too underdeveloped to do anything more than frustrate. I probably won't reread this work, but it was a good first partner for quarantine, and I'm glad I've added it to my repertoire for critical analysis.
