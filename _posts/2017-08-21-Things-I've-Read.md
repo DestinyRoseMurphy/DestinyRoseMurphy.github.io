@@ -27,6 +27,7 @@ With the start of my junior year I'm beginning a new series of posts. Here I'll 
 
 ## 2020
 
+- [Misery](/details/2020-04-05-Misery)
 - [Stranger in a Strange Land](/details/2020-04-03-Stranger-Strange-Land)
 - [Beloved](/details/2020-03-18-Beloved)
 - [The Green Mile](/details/2020-03-12-Green-Mile)
