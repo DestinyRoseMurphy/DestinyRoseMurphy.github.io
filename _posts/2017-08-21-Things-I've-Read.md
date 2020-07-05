@@ -27,6 +27,7 @@ With the start of my junior year I'm beginning a new series of posts. Here I'll 
 
 ## 2020
 
+- [Harry Potter and the Sorcerer's Stone](2020-07-05-Sorcerers-Stone)
 - [Misery](/details/2020-04-05-Misery)
 - [Stranger in a Strange Land](/details/2020-04-03-Stranger-Strange-Land)
 - [Beloved](/details/2020-03-18-Beloved)
