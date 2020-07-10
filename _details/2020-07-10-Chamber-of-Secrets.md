@@ -1,3 +1,4 @@
+---
 layout: post
 title: "Harry Potter and the Chamber of Secrets"
 date: 2020-07-10
