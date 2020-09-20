@@ -27,6 +27,7 @@ With the start of my junior year I'm beginning a new series of posts. Here I'll 
 
 ## 2020
 
+- [Living Originalism](/details/2020-09-20-Living-Originalism)
 -	[Fault Lines in the Constitution: The Framers, Their Fights, and the Flaws that Affect us Today](/details/2020-09-03-Fault-Lines)
 - [Harry Potter and the  Prisoner of Azkaban](/details/2020-07-18-Prisoner-of-Azkaban)
 - [Harry Potter and the Chamber of Secrets](/details/2020-07-10-Chamber-of-Secrets)
