@@ -1,0 +1,10 @@
+---
+layout: post
+title: "The Cycles of Constitutional Time"
+date: 2020-11-10
+author: "By Jack Balkin"
+---
+
+I was assigned this book for my Constitutional Theory class during the fall of my 2L year at YLS, and I read it a few days into the incredibly stressful waiting game of the 2020 national presidential election results. As a thing to read while waiting to hear news about the fate of the nation, it was very calming. The book variously predicts the coming fall of the Reagan regime, and the eventual uprising of a new (probably Democratic and progressive) party regime to replace it. Although I think the patterns of constitutional change in the book seem well articulated, I am hesitant to say that I wholeheartedly believe in all the predictions that they spawn; I wonder how, if at all, external shocks to the American system (a war? a post-pandemic depression?) could affect these cycles. I do however agree with what I understand one of the main predictions of the book to be: that the parties which have for my entire life been organized around identity politics may soon be moving to rally around class-based distinctions. I think I have seen the movement towards class identification in members of my own family, and it makes me wonder where I will fit in in the new sorted classes—certainly I grew up a member of the proletariat, but now my professors jokingly refer to me as a ruthless cosmopolitan, a pagan and a globalist. I think no matter what I will support the party with the most egalitarian principles at its core, but I wonder if I won't be viewed as external to that party's main audience. 
+
+Regardless, I would recommend the book to anyone who finds themselves wondering what dreams may come in the new world order. This book is very well written, with an easy to follow structure and an accessible lexicon. It's also pleasantly short.
