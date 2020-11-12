@@ -27,8 +27,8 @@ With the start of my junior year I'm beginning a new series of posts. Here I'll 
 
 ## 2020
 
-- [A Question of Freedom: A Memoir of Learning, Survival, and Coming of Age in Prison](details/2020-11-11-Question-of-Freedom)
-- [Cycles of Constitutional Time](details/2020-11-10-Cycles-of-Constitutional-Time)
+- [A Question of Freedom: A Memoir of Learning, Survival, and Coming of Age in Prison](/details/2020-11-11-Question-of-Freedom)
+- [Cycles of Constitutional Time](/details/2020-11-10-Cycles-of-Constitutional-Time)
 - [Breath: The New Science of a Lost Art](/details/2020-10-21-Breath)
 - [Living Originalism](/details/2020-09-20-Living-Originalism)
 -	[Fault Lines in the Constitution: The Framers, Their Fights, and the Flaws that Affect us Today](/details/2020-09-03-Fault-Lines)
