@@ -53,7 +53,7 @@ I began this list January 11th, 2018. It's the first iteration of this post, whi
   	<p style="margin-bottom: 0;"><a href="#Kitchen">Kitchen</a></p>
 		<ul>
 			<li><a href="#Hardware">Hardware</a></li>
-			<li><a href="#Sink">In and Under the Sink</a></li>
+			<li><a href="#Food">Food</a></li>
 		</ul>
   	<p style="margin-bottom: 0;"><a href="#Bathroom">Bathroom</a></p>
   	<ul>
@@ -227,9 +227,7 @@ I got rid of the largest number of items when I cleaned out my clothes. Years of
 * Curved stick for self-applied back massages
 * Elastic band for resistance exercises - Lives on my desk to remind me to use it
 * Surge protector
-* <img src="https://i.imgur.com/hMsnWnPt.jpg" style="float: right; margin-bottom: 1rem; margin-left: 1rem"> [IKEA FILUR trash can](http://www.ikea.com/us/en/catalog/products/40188340/?query=401.883.40) - A very artistic friend decorated mine beautifully with sharpie, and now this simple household necessity is a tiny beacon of happiness. 
-
-<br>
+* [IKEA FILUR trash can](http://www.ikea.com/us/en/catalog/products/40188340/?query=401.883.40) - A very artistic friend decorated mine beautifully with sharpie, and now this simple household necessity is a tiny beacon of happiness. 
 
 ##### Working Space Wall Decorations
 
@@ -342,6 +340,30 @@ I got my first kitchen all to myself in the fall semester of 2017, and I've been
 * Step ladder
 * [Green squishy floor mat](https://www.amazon.com/gp/product/B06XCSRR5H/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) - For foot comfort during long cooking and dish cleaning
 * [Trash can](https://www.wayfair.com/school-furniture-and-supplies/pdp/wayfair-basics-plastic-13-gallon-step-on-trash-can-w000472815.html?category=1864277&placement=1&slot=0&sponsoredid=d6e4b8880135f59b1915cb0feef82380bae7456d89e96bd6628d96eecc312614&_txid=otAicF1LNPY1TQlUb3clAg%3D%3D&isB2b=0)
+
+#### <a name="Food"></a> Food
+I don't have a natural talent for cooking, nor do I particularly enjoy it day to day, but nutrition and health are important to me, so I try to be conscious of what I eat. Below are some of my most common dietary choices, all of which I'm trying to improve.
+	
+* Grass-fed whole milk - I drink more than is socially acceptable
+* Pasture-raised eggs - Used most in burritos and occasionally in mixed bowls and pancakes, I buy expensive eggs because I think they're better for the planet and [better for me](https://www.cambridge.org/core/journals/renewable-agriculture-and-food-systems/article/vitamins-a-e-and-fatty-acid-composition-of-the-eggs-of-caged-hens-and-pastured-hens/552BA04E5A9E3CD7E49E405B339ECA32)
+* Bacon - This almost certainly isn't good for me, but it's a relatively harmless vice to be put in burritos and mixed bowls
+* Mexican cheese blend - Also for burritos
+* Burrito tortillas 
+* Banza protein pasta - Because pasta is easy to batch and tasty, but contains too many simple carbohydrates to be eaten daily
+* Whole Foods pesto - For the pasta
+* Chunked pancetta - Usually from my local Italian market, for the pasta
+* Cherry tomatoes - A new addition to be blistered and added to the pasta, and occasionally to burritos 
+* Olive oil - For pasta, but also just for general cooking
+* Kodiak Cakes protein pancake mix - I batch small pancakes and freeze them for quick breakfasts or between-class snacks
+* Frozen cauliflower - Boiled and hidden in the above-mentioned pancakes, for nutrition
+* Sweet potatoes - Generally cubed and frozen, I use these for a base in bowls 
+* Avocado oil - Has the [highest smoke point](https://chosenfoods.com/blogs/central/top-4-reasons-why-you-need-to-be-cooking-with-avocado-oil) of common cooking oils, and so is probably the best to cook with
+* Avocado oil mayonnaise - Usually in bowls with the sweet potatoes, so tasty
+* Fire roasted frozen corn - Used for sweet potato bowls
+* Rice - Sometimes I just need carbs 
+* Frozen peas - Sometimes I just need vegetables
+* Butter - For the peas, the pancakes, the everything
+* Fruit: In the summer, cherries, in the fall, pomegranates, in the winter, kiwis, and in the spring, blackberries, raspberries, and peaches. I usually get a sugar craving in the evening and I try to curb it with fruit.
 
 ## <a name="Bathroom"></a> Bathroom
 
