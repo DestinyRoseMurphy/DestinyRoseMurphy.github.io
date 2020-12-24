@@ -142,6 +142,7 @@ I began this list January 11th, 2018. It's the first iteration of this post, whi
 * [TV Stand](https://www.overstock.com/Home-Garden/Mid-Century-Modern-4-Drawer-TV-Stand/28560650/product.html?refccid=P4DX2JCM7FAYPBCJQYXSUSVAIA&searchidx=81&kwds=&rfmt=style%3AMid-Century%20Modern%7Ctype%3ATV%20Stands) - Currently sits behind my bed functioning as a shelf for storage
 * Items stored in the TV stand - Extra headphones, earbuds, and phone charging cord, ski goggles, wheels for clothes rack, [Back Diamond Storm Headlamp](http://amzn.to/2GdsalM), Black Diamond Climbing Harness, LA Sportiva Climbing Shoes, [Five Ten Guide Tennie Women's Approach Shoes](https://www.rei.com/product/120806/five-ten-guide-tennie-approach-shoes-womens?cm_mmc=email_tran-_-ereceipt-_-20180406-_-bt_prod1&ev36=&RMID=EReceipt_PROD&RRID=248138835&ev11=), Black Diamond Carabiner, [Artisanetes 2 Liter Bladder](https://amzn.to/2GLAYz1), poncho, humidifier instruction booklet
 * [Book Stand](https://www.amazon.com/gp/product/B07459P7BF/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) - One of two that I own, this one hangs out on the TV stand shelf for in-bed reading  
+* Bedside sun light 
 * Gifting materials - 4 rolls gift wrap, bag of smaller bags and tissue paper
 
 ##### <a name="Clothes"></a> Clothes
@@ -160,7 +161,7 @@ I got rid of the largest number of items when I cleaned out my clothes. Years of
 ##### <a name="Hanging"></a> Closet Things
 * 16 dresses (2 business, all non-long sleeve)
 * 46 tops (12 short/no-sleeve blouses, 11 not-quite-long sleeve, 7 long sleeve, 3 long sleeve base layer, 10 sweaters, 3 sweatshirts)
-* 15 over-layers (3 blazers, 5 cardigans, cardigan sweater, denim jacket, heavy coat, light coat, rain coat, rain jacket, puffer jacket)
+* 15 over-layers (3 blazers, 5 cardigans, cardigan sweater, Yale jacket, denim jacket, heavy coat, light coat, rain coat, rain jacket, puffer jacket)
 * 13 bottoms (5 pair jeans, 1 denim capri, 4 slacks, 3 business skirts)
 * Three piece suit
 * Formal dress
