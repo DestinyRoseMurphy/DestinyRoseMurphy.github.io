@@ -198,7 +198,6 @@ I got rid of the largest number of items when I cleaned out my clothes. Years of
 * Medium multi-color rug
 * Rose gold 8 GB 2020 MacBook Air with M1 Chip and charger - Named Lap Lap Clack Clack, Duchess of Processing Lane
 * Wifi Modem - Not actually on my desk currently, but it goes with these things
-* Canon PIXMA MP480 All-in-One Photo Printer and ink
 * [Acer 21.5 inch external monitor](https://www.amazon.com/gp/product/B07CVL2D2S/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 * Two USB-C adapters: [Apple brand 3 in 1](https://www.apple.com/shop/product/MUF82AM/A/usb-c-digital-av-multiport-adapter?fnode=28d01e22b73c65a7b876a7968e1acc82b5a1a7705354bfae7f48ebf0aa46937884c03aff56f19498eadf9c929896ce30b7e3ec7b7e3bdb047237eb4aa43f5433461804c2c8d79212c657eaf623d9b8804a871bb9c943fd486c1f5ef8c34d337ff0c2cb4cc5a21c9a0bdd84d25787bdf8) and [ikling 9 in 1](https://www.amazon.com/gp/product/B07TVSLDND/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 * Purple hole puncher
