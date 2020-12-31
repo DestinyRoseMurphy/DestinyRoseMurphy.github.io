@@ -27,6 +27,12 @@ With the start of my junior year I'm beginning a new series of posts. Here I'll 
 
 ## 2020
 
+#### 13 Total Works (8 fiction, 4 non-fiction, 1 memoir) - 4 for School, 9 for Me
+
+#### Favorite Work: [Misery](/details/2020-04-05-Misery)
+
+I read Misery because it was available while I was in Hermann, MO during the pandemic, and because I generally enjoy King novels. This isn't a feel-good book, but it is a masterclass in suspense and very much worth the couple of sleepless hours that it earned me. It has enough twists and turns to avoid being predictable, and it stays away from most of the body- and nightmare-horror that I find unpalatable in some of King's other works. This wasn't a great year for reading for me thanks to COVID and transferring to YLS, but I was glad to get some good reading in.
+
 - [The Orchard](/details/2020-11-28-Orchard)
 - [A Question of Freedom: A Memoir of Learning, Survival, and Coming of Age in Prison](/details/2020-11-11-Question-of-Freedom)
 - [Cycles of Constitutional Time](/details/2020-11-10-Cycles-of-Constitutional-Time)
