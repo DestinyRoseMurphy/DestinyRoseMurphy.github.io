@@ -9,10 +9,8 @@ layout: default
 
 <div class="post-header mb2">
 
-<meta property="og:title" content="{{ .Title }}{{ if ne .Title .Site.Title }} : {{ .Site.Title }}{{ end }}" />
-{{ with .Params.images }}{{ range first 6 . }}<meta property="og:image" content="favicon.ico" />
-{{ end }}
-{{ end }}
+ <meta property="og:image" content="{{ site.url }}/favicon-32.32.png">
+
 
   <h1>{{ page.title }}</h1>
   <h2>{{ page.author }}</h2>
