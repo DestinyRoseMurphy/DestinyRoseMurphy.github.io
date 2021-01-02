@@ -25,6 +25,10 @@ summary: "With the start of my junior year I'm beginning a new series of posts. 
 
 With the start of my junior year I'm beginning a new series of posts. Here I'll store my thoughts on every new thing (book, article, collection of poems, etc.) that I read and have a post's worth of thoughts on, whether academic or recreational. Please browse at your leisure if you're interested in finding something new to read, or just want to read my rants. I'll try to keep all these under a 3 minute read.
 
+## 2021
+
+- [The Sandman: Preludes & Nocturnes](/details/2021-01-02-Sandman-1)
+
 ## 2020
 
 #### 13 Total Works (8 fiction, 4 non-fiction, 1 memoir) - 4 for School, 9 for Me
