@@ -27,6 +27,7 @@ With the start of my junior year I'm beginning a new series of posts. Here I'll 
 
 ## 2021
 
+- [The Sandman: The Doll's House](/details/2021-01-04-Sandman-2)
 - [The Sandman: Preludes & Nocturnes](/details/2021-01-02-Sandman-1)
 
 ## 2020
