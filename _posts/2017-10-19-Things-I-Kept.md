@@ -25,7 +25,7 @@ summary:    "After reading Marie Kondo's The Life-Changing Magic of Tidying Up I
 
 The original inspiration for this was Marie Kondo's book *The Life-Changing Magic of Tidying Up,* which [I really enjoyed.](/details/2017-10-16-The-Life-Changing-Magic-of-Tidying-Up) Kondo's thesis is simple: anything that doesn't "spark joy" in your life should be gotten rid of. So, I purged, and everything I kept (and why I have it) is listed below. If you like something and it's underlined, click on it! You'll be sent to its online listing so you can buy it and try it out for yourself.
 
-I began this list January 11th, 2018. It's the first iteration of this post, which I'll (try to) update annually. The most recent update was on: December 24th, 2020. You'll notice an obscene amount of detail here; that's purposeful. By admitting to every item in my home I have to be willing to defend every item, or to accept that it's indefensible. If you have suggestions please give them! I keep notes on what I think I to put more thought into in my "What I Need to Improve" section, and would love to put your notes there as well.
+I began this list January 11th, 2018. It's the first iteration of this post, which I'll (try to) update annually. The most recent update was on: January 4th, 2021. You'll notice an obscene amount of detail here; that's purposeful. By admitting to every item in my home I have to be willing to defend every item, or to accept that it's indefensible. If you have suggestions please give them! I keep notes on what I think I to put more thought into in my "What I Need to Improve" section, and would love to put your notes there as well.
 
 [What I Need to Improve](#Improve) 
 
@@ -142,7 +142,7 @@ I began this list January 11th, 2018. It's the first iteration of this post, whi
 * [TV Stand](https://www.overstock.com/Home-Garden/Mid-Century-Modern-4-Drawer-TV-Stand/28560650/product.html?refccid=P4DX2JCM7FAYPBCJQYXSUSVAIA&searchidx=81&kwds=&rfmt=style%3AMid-Century%20Modern%7Ctype%3ATV%20Stands) - Currently sits behind my bed functioning as a shelf for storage
 * Items stored in the TV stand - Extra headphones, earbuds, and phone charging cord, ski goggles, wheels for clothes rack, [Back Diamond Storm Headlamp](http://amzn.to/2GdsalM), Black Diamond Climbing Harness, LA Sportiva Climbing Shoes, [Five Ten Guide Tennie Women's Approach Shoes](https://www.rei.com/product/120806/five-ten-guide-tennie-approach-shoes-womens?cm_mmc=email_tran-_-ereceipt-_-20180406-_-bt_prod1&ev36=&RMID=EReceipt_PROD&RRID=248138835&ev11=), Black Diamond Carabiner, [Artisanetes 2 Liter Bladder](https://amzn.to/2GLAYz1), poncho, humidifier instruction booklet
 * [Book Stand](https://www.amazon.com/gp/product/B07459P7BF/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) - One of two that I own, this one hangs out on the TV stand shelf for in-bed reading  
-* Bedside sun light 
+* [Bedside light therapy lamp](https://www.amazon.com/Miroco-Therapy-Adjustable-Brightness-Function/dp/B07VTV6GG4/ref=mp_s_a_1_4?dchild=1&keywords=sun+lamp&qid=1609620856&sprefix=sun+&sr=8-4)
 * Gifting materials - 4 rolls gift wrap, bag of smaller bags and tissue paper
 
 ##### <a name="Clothes"></a> Clothes
@@ -200,6 +200,7 @@ I got rid of the largest number of items when I cleaned out my clothes. Years of
 * Rose gold 8 GB 2020 MacBook Air with M1 Chip and charger - Named Lap Lap Clack Clack, Duchess of Processing Lane
 * Wifi Modem - Not actually on my desk currently, but it goes with these things
 * [Acer 21.5 inch external monitor](https://www.amazon.com/gp/product/B07CVL2D2S/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+* [UBeesize desktop ring light](https://www.amazon.com/dp/B08HVH8FPF/ref=cm_sw_r_oth_api_glc_fabc_dlT1_Yx88FbXJ2E9GH)
 * Two USB-C adapters: [Apple brand 3 in 1](https://www.apple.com/shop/product/MUF82AM/A/usb-c-digital-av-multiport-adapter?fnode=28d01e22b73c65a7b876a7968e1acc82b5a1a7705354bfae7f48ebf0aa46937884c03aff56f19498eadf9c929896ce30b7e3ec7b7e3bdb047237eb4aa43f5433461804c2c8d79212c657eaf623d9b8804a871bb9c943fd486c1f5ef8c34d337ff0c2cb4cc5a21c9a0bdd84d25787bdf8) and [ikling 9 in 1](https://www.amazon.com/gp/product/B07TVSLDND/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 * Purple hole puncher
 * Purple stapler
@@ -459,7 +460,8 @@ I count tea as a hobby, not a food, because the purpose of tea is never to nutri
 	* Calafate
 
 * Hardware
-	* [Brewville kettle w/tea scoop](http://amzn.to/2puyeiO) and [cleaner](https://www.amazon.com/gp/product/B00DJ6IF90/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) - A gift that I probably couldn't have justified buying for myself, but that I love now that I have.
+	* [Breville kettle w/tea scoop](http://amzn.to/2puyeiO) and [cleaner](https://www.amazon.com/gp/product/B00DJ6IF90/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) - A gift that I probably couldn't have justified buying for myself, but that I love now that I have.
+	* [Clay teapot, porcelain pitcher and cups from Te Company](https://tecompanytea.com/collections/tea-accessories/products/starter-teaware-brewing-set) - Brings me great joy, only really for slow, meditative tea drinking
 	* Travel tea pouch - A little hand sewn foldable pouch that allows me to travel with a few tea bags. Sometimes looks silly, but is completely worth it. 
 	* 18 rose gold tea cylinders — Opaque and roughly sealable, for maximum tea freshness; labeled with the tea's name and steeping specifications on washi tape 
 	* [Boba tea straws](https://www.amazon.com/gp/product/B07WPSWY4J/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) - Because I drink too much boba to justify all the plastic straws I was using
