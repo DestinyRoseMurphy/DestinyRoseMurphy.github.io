@@ -154,9 +154,8 @@ I got rid of the largest number of items when I cleaned out my clothes. Years of
 * 26 pairs of socks (13 ankle, 1 tall, 6 fuzzy, 2 fashion boot, 4 hiking)
 * Fashion tape, disposable pasties, envelope of safety pins, 4 pair hose/stockings, suspender belt
 * 5 pair gloves, teal balaclava, 3 beanies, rabbit fur infinity scarf
-* 17 bottoms (2 skirts, 3 non-athletic shorts, pajama shorts, 2 biking shorts, 4 yoga pants, 2 full length athletic pants, 2 leggings, 1 sweatpants)
+* 18 bottoms (2 skirts, 3 non-athletic shorts, pajama shorts, 2 biking shorts, 4 yoga pants, 2 full length athletic pants, 2 leggings, 1 sweatpants, 1 harem pants)
 * 19 tops (7 t-shirts, 1 crop-top, 5 fashion tank tops, 3 pajama/layering tank tops, 2 Hogshead shirts, pajama top)
-* 2 two piece and 1 one piece swimsuits
 
 ##### <a name="Hanging"></a> Closet Things
 * 16 dresses (2 business, all non-long sleeve)
@@ -293,8 +292,8 @@ I got rid of the largest number of items when I cleaned out my clothes. Years of
 * [Kobalt power drill](https://www.lowes.com/pd/Kobalt-24-Volt-Max-1-2-in-Brushless-Cordless-Drill-Charger-Included/1000604919) w/carrying bag, instructions, 33 extra bits, 5 twist drill bits, and drill holder
 * Plastic bag of extra wall cord hangers and screws
 * Tool bag with: level, hammer, box cutter, tape measure, wrench, needle nose pliers, wire cutters, 2 big screwdrivers, 10 extra bits, 5 tiny screwdrivers, Zinus ratchet (for putting bed together) box of picture hangers, large lock and key (for moving vans), mounting putty, bag of cork board pins, bag of command strips and hangers, extra hose seals
-* Teal box containing art supplies: box of extra precise V5 RT clicky pens, box of markers, box of extra staples, ruler, 1.5 inch paintbrush, box of chalk, 2 glue sticks, 3 rolls masking/painters tape, roll shipping tape, pencil sharpener, 2 rolls washi tape, plastic bag of extra [small clothespins](https://www.amazon.com/gp/product/B00JLDBGFA/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1), [grey twine](https://www.amazon.com/gp/product/B07J68D2GM/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1), extra roll scotch tape, extra [pink pins](https://www.amazon.com/gp/product/B07PM5LHQL/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
-* Scattered Games: Dominion, PlayStation 4, 3 controllers, The Last of Us PS4 game, Spider-Man Miles Morales PS4 game, Tombstone DVD
+* Teal box containing art supplies: 2 inch stack of colored cardstock squares, box of extra precise V5 RT clicky pens, box of markers, box of extra staples, ruler, 1.5 inch paintbrush, box of chalk, 2 glue sticks, 3 rolls masking/painters tape, roll shipping tape, pencil sharpener, 2 rolls washi tape, plastic bag of extra [small clothespins](https://www.amazon.com/gp/product/B00JLDBGFA/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1), [grey twine](https://www.amazon.com/gp/product/B07J68D2GM/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1), extra roll scotch tape, extra [pink pins](https://www.amazon.com/gp/product/B07PM5LHQL/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+* Scattered Games: Dominion, PlayStation 4, 3 controllers, The Last of Us PS4 game, Spider-Man Miles Morales PS4 game, Immortals Fenyx Rising PS4 game, Tombstone DVD
 
 ##### Sitting Space Wall Decorations
 
