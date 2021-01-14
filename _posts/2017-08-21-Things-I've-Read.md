@@ -27,6 +27,7 @@ With the start of my junior year I'm beginning a new series of posts. Here I'll 
 
 ## 2021
 
+- [Love and Quasars: An Astophysicist Reconciles Faith and Science](/details/2021-01-14-Love-Quasars)
 - [The Sandman: Season of Mists](/details/2021-01-06-Sandman-4)
 - [The Sandman: Dream Country](/details/2021-01-05-Sandman-3)
 - [The Sandman: The Doll's House](/details/2021-01-04-Sandman-2)

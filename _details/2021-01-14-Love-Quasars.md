@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Love and Quasars: An Astrophysicist Reconciles Faith and Science"
+date: 2021-1-14
+author: "By Paul Wallace"
+---
+
+A friend of mine had this book gifted to him by his parents in an (unsuccessful) attempt to get him to come to Bible study, and I found myself nearby and bored in the long January before my 2L spring semester, so I picked the thing up. It is very short, with subsections in each chapter that speed by. It is also predictably disappointing. Most of the book is spent equally divided between filler text of vaguely, questionably inspiring stories from the author's life, and descriptions of relatively basic science (plate tectonics, the existence of far-off galaxies, evolution) that the author claims do not conflict with the bible because, as he argues, when we read scientific claims in the bible we should understand that the bible's job is not to be scientific, and we should follow science's proven facts instead. In short, anything in the bible that directly conflicts with science is a metaphor, a mistake, both, or neither, but definitely not important.
+
+The purpose of the bible, if not to tell us fact claims about the "scientific world," is therefore to to tell us how to do and understand things that "science has nothing to say about." Essentially, the author appears to mean morality here, as well as a variety of vague terms like love and joy. The author's proof for the importance and reality of morality and some version of love that is outside the understanding of science is painfully weak: we humans feel that we must be important, that something unknowable must be out there, that our actions should be guided by Should's and Should Not's, and so those claims must be true. It's as circular as the day is long, and it makes no attempt not to be. 
+
+This book is for people who want to feel proud of themselves for not being creationists even though they're Christian. It does not engage with any current theological problems in any real way, it barely quotes scripture, and it reads like the mildly panicked babbling of a man attempting to convince himself that his god is real by feeling really strongly that it must be so. Also, there's not even very much cool science in it. 2/10. 
