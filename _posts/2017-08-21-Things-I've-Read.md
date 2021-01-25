@@ -27,6 +27,7 @@ With the start of my junior year of college, I began a new series of posts. Here
 
 ## 2021
 
+- [God Knows](/details/2021-01-25-God-Knows)
 - [The Sandman: A Game of You](/details/2021-01-17-Sandman-5)
 - [Love and Quasars: An Astophysicist Reconciles Faith and Science](/details/2021-01-14-Love-Quasars)
 - [The Sandman: Season of Mists](/details/2021-01-06-Sandman-4)
