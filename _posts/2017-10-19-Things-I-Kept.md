@@ -293,7 +293,7 @@ I got rid of the largest number of items when I cleaned out my clothes. Years of
 * Plastic bag of extra wall cord hangers and screws
 * Tool bag with: level, hammer, box cutter, tape measure, wrench, needle nose pliers, wire cutters, 2 big screwdrivers, 10 extra bits, 5 tiny screwdrivers, Zinus ratchet (for putting bed together) box of picture hangers, large lock and key (for moving vans), mounting putty, bag of cork board pins, bag of command strips and hangers, extra hose seals
 * Teal box containing art supplies: 2 inch stack of colored cardstock squares, box of extra precise V5 RT clicky pens, box of markers, box of extra staples, ruler, 1.5 inch paintbrush, box of chalk, 2 glue sticks, 3 rolls masking/painters tape, roll shipping tape, pencil sharpener, 2 rolls washi tape, plastic bag of extra [small clothespins](https://www.amazon.com/gp/product/B00JLDBGFA/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1), [grey twine](https://www.amazon.com/gp/product/B07J68D2GM/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1), extra roll scotch tape, extra [pink pins](https://www.amazon.com/gp/product/B07PM5LHQL/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
-* Scattered Games: Dominion, PlayStation 4, 3 controllers, The Last of Us PS4 game, Spider-Man Miles Morales PS4 game, Immortals Fenyx Rising PS4 game, Tombstone DVD
+* Scattered Games/DVD's: Dominion, PlayStation 4, 3 controllers, The Last of Us PS4 game, Spider-Man Miles Morales PS4 game, Immortals Fenyx Rising PS4 game, Tombstone DVD, Lord of the Rings trilogy Extended Edition BluRay discs
 
 ##### Sitting Space Wall Decorations
 
@@ -466,7 +466,7 @@ I count tea as a hobby, not a food, because the purpose of tea is never to nutri
 	* [Boba tea straws](https://www.amazon.com/gp/product/B07WPSWY4J/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) - Because I drink too much boba to justify all the plastic straws I was using
 	* [Cold brew tea steeper](https://www.amazon.com/gp/product/B079G49RKF/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 	* 2 one-cup steepers
-	* 5 Mugs
+	* 6 Mugs
 	* 5 Thermoses/Travel Mugs - Varying degrees of heat retention and seal-strength
 	* [Turqoise Britta water pitcher](https://www.amazon.com/Brita-Small-Metro-Pitcher-Filter/dp/B01G9ADQYG/ref=sr_1_1?dchild=1&keywords=blue+brita+water+jug&qid=1608496153&sr=8-1) and replacement filter - Tea is better with unflavored water, if you can't get the water that fed the tea plant
 
