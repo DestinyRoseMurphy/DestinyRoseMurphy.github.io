@@ -107,6 +107,7 @@ I began this list January 11th, 2018. It's the first iteration of this post, whi
 * Tiny carabiner - Only a couple inches in length, but it holds my house keys.
 * [Precise V5 RT Pilot Pen](http://amzn.to/2zpqogK) - The smoothest ink pen I've found. Good enough that I'd re-buy it if I lost it, unlike every other pen I own.
 * [Symphonized Wood Headphones](https://amzn.to/2J02Nor) - Aesthetically pleasing and they function and fit my ears. They come with a little shirt clip that really helps to keep at least one ear from slipping out while I exercise. 
+* [Audio-Technica ATH-SR30BTGY Bluetooth Wireless Over-Ear Headphones](https://www.amazon.com/gp/product/B07MPLDK8X/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
 * Headphone to phone adapter - Because Apple sucks for removing the headphone jack 
 * Headphone/Charger Splitter - For train and plane rides when charging and listening to music at the same time becomes necessary
 * Burt's Bees Beeswax Lip Balm
