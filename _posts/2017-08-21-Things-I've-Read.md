@@ -27,6 +27,7 @@ With the start of my junior year of college, I began a new series of posts. Here
 
 ## 2021
 
+- [Eating the Dinosaur](/details/2021-02-20-Eating-Dino)
 - [God Knows](/details/2021-01-25-God-Knows)
 - [The Sandman: A Game of You](/details/2021-01-17-Sandman-5)
 - [Love and Quasars: An Astophysicist Reconciles Faith and Science](/details/2021-01-14-Love-Quasars)
