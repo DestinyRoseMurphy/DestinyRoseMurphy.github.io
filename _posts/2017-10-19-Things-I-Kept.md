@@ -379,7 +379,7 @@ I don't have a natural talent for cooking, nor do I particularly enjoy it day to
 * 3 towels: 1 body towel and 2 hand towels
 * [Bath Mat](https://www.target.com/p/ultra-soft-bath-grape-lavender-21-x30-threshold-153/-/A-50316233?ref=&ref=OpsEmail_Order_280&j=7173&sfmc_sub=220351560&l=20_HTML&u=1856896&mid=7284873&jb=1240935) - Unfortunately quite a bit lighter in color than I thought, but it's better than the towel I had been using.
 * [Elephant Toothbrush Holder](http://amzn.to/2Gfp018) - This little guy is adorable and perfectly solves the fatal flaw of all toothbrush holders, which is that they retain water in the bottom and get gross. 
-* Toothpaste, Floss, and the [Quip Toothbrush,](https://www.getquip.com/)  - The Quip toothbrush has seriously improved my oral health, and the toothpaste and floss are whatever I have lying around.
+* Toothpaste, Floss, and two of the [Quip Toothbrush,](https://www.getquip.com/)  - The Quip toothbrush has seriously improved my oral health, and the toothpaste and floss are whatever I have lying around.
 * [Nubian coconut and papaya deodorant](https://www.amazon.com/gp/product/B01LCTVPP6/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) - My favorite by far, without aluminum, which [might be bad for you, but we're unsure](https://www.cancer.gov/about-cancer/causes-prevention/risk/myths/antiperspirants-fact-sheet)
 * Kotex [Tampons,](http://amzn.to/2CSIHt6) and [Pads,](http://amzn.to/2DjxAKx) - I keep them in a monogrammed little bag that brings me joy, which makes them pass the KondoMari test, but I try to use as few as I can by sleeping in [Thinx undies](https://www.shethinx.com/products/thinx-boyshort?variant=32896012231)
 * [Toilet Paper](http://amzn.to/2qUxd6N) - The nice kind, because your butt is worth it.
@@ -502,7 +502,7 @@ I picked cross-stitching back up during the COVID-19 plague and found it to be a
 During the COVID-19 plague, I started getting more interested in keeping plants. I'm not great at it, but is' nice to have something other than me alive in my apartment all the time.
 
 * [Purple pot](https://www.amazon.com/gp/product/B07QNVNVFB/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) with a [ZZ raven plant](https://barkandvineshop.com/products/zz-raven-plant?_pos=2&_sid=f39020f13&_ss=r) named Raven in it
-* [Two turquoise pots](https://www.amazon.com/gp/product/B07HCSPQ9L/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1), one with an aloe plant pup in it
+* [Two turquoise pots](https://www.amazon.com/gp/product/B07HCSPQ9L/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1), one with an aloe plant pup in it, one containing an autumn dwarf fern named Fernie Sanders
 * White pot with [tradescantia nanouk](https://barkandvineshop.com/products/tradescantia-nanouk?_pos=1&_psq=tradescantia&_ss=e&_v=1.0) named Missy in it
 * Light blue pot containing aloe mother
 * Small grey pot containing mystery broad-leafed plant
