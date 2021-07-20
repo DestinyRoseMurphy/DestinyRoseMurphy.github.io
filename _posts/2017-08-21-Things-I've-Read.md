@@ -27,6 +27,7 @@ With the start of my junior year of college, I began a new series of posts. Here
 
 ## 2021
 
+- [The City & The City](/details/2021-07-20-City-and-City)
 - [The Yiddish Policemen's Union](/details/2021-04-12-Yiddish-Police)
 - [Eating the Dinosaur](/details/2021-02-20-Eating-Dino)
 - [God Knows](/details/2021-01-25-God-Knows)
@@ -50,8 +51,8 @@ I read Misery because it was available while I was in Hermann, MO during the pan
 - [Cycles of Constitutional Time](/details/2020-11-10-Cycles-of-Constitutional-Time)
 - [Breath: The New Science of a Lost Art](/details/2020-10-21-Breath)
 - [Living Originalism](/details/2020-09-20-Living-Originalism)
--	[Fault Lines in the Constitution: The Framers, Their Fights, and the Flaws that Affect us Today](/details/2020-09-03-Fault-Lines)
-- [Harry Potter and the  Prisoner of Azkaban](/details/2020-07-18-Prisoner-of-Azkaban)
+- [Fault Lines in the Constitution: The Framers, Their Fights, and the Flaws that Affect us Today](/details/2020-09-03-Fault-Lines)
+- [Harry Potter and the Prisoner of Azkaban](/details/2020-07-18-Prisoner-of-Azkaban)
 - [Harry Potter and the Chamber of Secrets](/details/2020-07-10-Chamber-of-Secrets)
 - [Harry Potter and the Sorcerer's Stone](/details/2020-07-05-Sorcerers-Stone)
 - [Misery](/details/2020-04-05-Misery)
@@ -61,7 +62,7 @@ I read Misery because it was available while I was in Hermann, MO during the pan
 
 ## 2019
 
-#### 21 Total Works (11 Fiction novels; 6 Non-Fiction books; 2 Graphic novels;  1 Play; 1 Collection of short stories) - 7 for School, 14 for Me
+#### 21 Total Works (11 Fiction novels; 6 Non-Fiction books; 2 Graphic novels; 1 Play; 1 Collection of short stories) - 7 for School, 14 for Me
 
 #### Favorite Work: [Good Omens](/details/2019-08-16-Good-Omens)
 
@@ -97,7 +98,7 @@ I found myself reading too many things that I felt like I had to read this year,
 			<li><a href="/details/2019-01-07-Amulet-of-Samarkand">The Amulet of Samarkand</a></li>
 		</ul>
 	</div> 
-</div> 
+</div>
 
 ## 2018
 
