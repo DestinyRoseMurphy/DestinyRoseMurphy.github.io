@@ -1,57 +1,86 @@
 ---
 layout: default
 ---
+
 {% assign posts_count = (paginator.posts | size) %}
 
 <div class="home">
+  {% if paginator.previous_page %} {% else %}
+  <h1>About Me and This Page</h1>
+  <img
+    src="https://i.imgur.com/TdN8ZTR.jpg"
+    style="width: 170px; float: right; margin-left: 10px;"
+  />
 
-{% if paginator.previous_page %}
-{% else %}
-<h1>About Me and This Page</h1>
-<img src="https://i.imgur.com/TdN8ZTR.jpg" style="width: 170px; float: right; margin-left: 10px;" />
+  <p>
+    Hello world! Hello beyond as well, I suppose. That would be flattering. My
+    name is Destiny Rose Murphy. I'm
+    <span id="age" style="font-family: monospace">19</span> years old and
+    currently living in New Haven, CT, where I'm at the beginning of my 3L year
+    at Yale Law. This summer I worked for Quinn Emanuel in NYC, which I really
+    enjoyed, and this May I completed my 2L (and first) year at Yale Law, though
+    with almost entirely remote classes and a city mostly shuttered by the
+    pandemic it barely felt like a year at all. I did 1L at Georgetown Law
+    (sorta—I did most of the second semester away from the city, because, ya
+    know, plague), and for my undergraduate degree I majored in English,
+    Political Science, and Philosophy, and minored in Public Policy and
+    International Affairs at Southern Methodist University in Dallas, Texas.
+  </p>
 
-<p>Hello world! Hello beyond as well, I suppose. That would be flattering. My name is Destiny Rose Murphy. I'm <span id="age" style="font-family: monospace">19</span> years old, female, and currently living in Harlem, New York, my temporary home base for a remote summer of work for Quinn Emanuel in NYC. This May I completed my 2L year at Yale Law, though with almost entirely remote classes and a city mostly shuttered by the pandemic it barely felt like a year at all. Last year I did 1L at Georgetown Law (sorta—I did most of the second semester away from the city, because, ya know, plague), and for my undergraduate degree I majored in English, Political Science, and Philosophy, and minored in Public Policy and International Affairs at Southern Methodist University in Dallas, Texas. </p>
+  <p>
+    This summer was a mix of great and exhausting. I made new friends in New
+    York City and found out that I love living there, but I also missed out on
+    working in person, and I didn't get a lot of the traditional firm summer
+    experience. I was hoping that my 3L year would be closer to normal, but with
+    Delta on the rise it's looking like things won't be normal at all any time
+    soon, and I'm starting to lose hope for a big Yale Law or New Haven friend
+    group. So, I'm just going to focus on my professional and academic projects,
+    and I'll try to find joy in helping others as best I can through my work as
+    the first co-founder and co-president of Yale's new transfer students
+    organization, and as a co-leader of Yale's graduate student Jewish group.
+  </p>
 
-<p>During 1L I really enjoyed Georgetown's Curriculum B program, which combines the traditional first year classes with a philosophical look at the basic biases and underpinnings of the law. Last summer I worked (remotely) for Georgetown's Annual Review of Federal Criminal Procedure, as well as for the Council for Court Excellence, a DC non-profit that does justice system reform work. This summer I'm  hoping to focus on white collar criminal defense, an area of criminal law that I think is criminally (hah) undertheorized. I'm also hoping to focus on sitting in cafes, eating at restaurants, hugging acquaintances, and kissing old friends on the cheeks just because. </p>
+  <script>
+    const ageSpan = document.getElementById("age");
+    const birthday = new Date("July 23, 1997 15:11:00 GMT-500");
 
-<p> I enjoyed my Yale Law classes, but I'm really hoping a 3L year in person will be better. It's difficult to make a friend group out of Zoom school of law, and I really failed to do so this year. The professors are  incredible, and—much to my delight—the institutional culture of "make your intellectual project happen" really resonates everywhere, but projects are difficult to wholeheartedly pursue without a social network. Here's hoping for a light at the end of the tunnel. </p> 
+    const update = () => {
+      let ageInYears = (new Date() - birthday) / 1000 / 60 / 60 / 24 / 365;
+      ageSpan.innerText = ageInYears.toFixed(8);
+    };
+    setInterval(update, 100);
+  </script>
 
-<script>
-  const ageSpan = document.getElementById("age");
-  const birthday = new Date("July 23, 1997 15:11:00 GMT-500");
+  <p>
+    This blog began because I got my tonsils taken out. During recovery I
+    realized there wasn't a lot of good advice to be found online for people who
+    wanted to recover quickly and strongly. So, I decided to write an article
+    intended to help others out. Then, (partially because sometimes when I can't
+    sleep I write about things, and partially because I wanted to learn more
+    about coding), I decided to expand the blog to everything else I think
+    about. I hope you enjoy reading the stuff that I like to write, and, please,
+    reach out if you have any questions or comments.
+  </p>
 
-  const update = () => {
-    let ageInYears = (new Date() - birthday) / 1000 / 60 / 60 / 24 / 365;
-    ageSpan.innerText = ageInYears.toFixed(8);
-  }
-  setInterval(update, 100);
-</script>
+  <h1>Posts</h1>
 
-<p>This blog began because I got my tonsils taken out. During recovery I realized there wasn't a lot of good advice to be found online for people who wanted to recover quickly and strongly. So, I decided to write an article intended to help others out. Then, (partially because sometimes when I can't sleep I write about things, and partially because I wanted to learn more about coding), I decided to expand the blog to everything else I think about. I hope you enjoy reading the stuff that I like to write, and, please, reach out if you have any questions or comments.</p>
-
-<h1>Posts</h1>
-
-{% endif %}
-
-  {% if posts_count > 0 %}
-    <div class="posts">
-      {% for post in paginator.posts %}
-        <div class="post py3">
-          <p class="post-meta">{{ post.date | date: site.date_format }}</p>
-          <a href="{{ post.url | prepend: site.baseurl }}" class="post-link"><h3 class="h1 post-title">{{ post.title }}</h3></a>
-          <span class="post-summary">
-            {% if post.summary %}
-              {{ post.summary }}
-            {% else %}
-              {{ post.excerpt }}
-            {% endif %}
-          </span>
-        </div>
-      {% endfor %}
+  {% endif %} {% if posts_count > 0 %}
+  <div class="posts">
+    {% for post in paginator.posts %}
+    <div class="post py3">
+      <p class="post-meta">{{ post.date | date: site.date_format }}</p>
+      <a href="{{ post.url | prepend: site.baseurl }}" class="post-link"
+        ><h3 class="h1 post-title">{{ post.title }}</h3></a
+      >
+      <span class="post-summary">
+        {% if post.summary %} {{ post.summary }} {% else %} {{ post.excerpt }}
+        {% endif %}
+      </span>
     </div>
+    {% endfor %}
+  </div>
 
-    {% include pagination.html %}
-  {% else %}
-    <h1 class='center'>{{ site.text.index.coming_soon }}</h1>
+  {% include pagination.html %} {% else %}
+  <h1 class="center">{{ site.text.index.coming_soon }}</h1>
   {% endif %}
 </div>
