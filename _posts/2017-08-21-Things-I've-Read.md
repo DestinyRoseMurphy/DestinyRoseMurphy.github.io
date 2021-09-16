@@ -27,6 +27,7 @@ With the start of my junior year of college, I began a new series of posts. Here
 
 ## 2021
 
+- [The Sabbath: its meaning for modern man](/details/2021-09-16-Sabbath)
 - [The City & The City](/details/2021-07-20-City-and-City)
 - [The Yiddish Policemen's Union](/details/2021-04-12-Yiddish-Police)
 - [Eating the Dinosaur](/details/2021-02-20-Eating-Dino)
