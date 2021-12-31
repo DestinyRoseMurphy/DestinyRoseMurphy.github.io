@@ -27,6 +27,12 @@ With the start of my junior year of college, I began a new series of posts. Here
 
 ## 2021
 
+#### 11 Total Works (5 fiction graphic-novels, 3 fiction books, 3 non-fiction books) - All 11 for Me
+
+#### Favorite Work: [The Yiddish Policemen's Union](/details/2021-04-12-Yiddish-Police)
+
+This year I read fewer books total, but they were all for me, as opposed to some being assigned for class. I read fewer books because my class readings were mostly in the textbook, which meant I was doing tons of reading, but not reading much to write home about. Still, The Yiddish Policemen's Union, which I read right at the end of my spring semester, was absolutely wonderful, and feels like such a good book that it ought to count for several. It's a Jewish murder mystery that manages to tick all the cliched boxes of the genre without ever feeling cliched, and I wish more people would read it so I could talk with them about it.
+
 - [The Sabbath: its meaning for modern man](/details/2021-09-16-Sabbath)
 - [The City & The City](/details/2021-07-20-City-and-City)
 - [The Yiddish Policemen's Union](/details/2021-04-12-Yiddish-Police)
