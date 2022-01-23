@@ -27,6 +27,10 @@ With the start of my junior year of college, I began a new series of posts. Here
 
 ## 2021
 
+- [The Immortal Life of Henrietta Lacks](/details/2022-01-22-Immortal-Life)
+
+## 2021
+
 #### 11 Total Works (5 fiction graphic-novels, 3 fiction books, 3 non-fiction books) - All 11 for Me
 
 #### Favorite Work: [The Yiddish Policemen's Union](/details/2021-04-12-Yiddish-Police)
