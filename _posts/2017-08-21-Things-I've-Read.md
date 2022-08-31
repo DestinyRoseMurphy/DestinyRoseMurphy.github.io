@@ -25,9 +25,10 @@ summary: "With the start of my junior year I'm beginning a new series of posts. 
 
 With the start of my junior year of college, I began a new series of posts. Here, I store my thoughts on every new thing (book, article, collection of poems, etc.) that I read and have a post's worth of thoughts on, whether academic or recreational. Please browse at your leisure if you're interested in finding something new to read, or just want to read my rants. I'll try to keep all these under a 3 minute read.
 
-## 2021
+## 2022
 
 - [The Immortal Life of Henrietta Lacks](/details/2022-01-22-Immortal-Life)
+- [The Amazing Adventures of Kavalier & Clay](/details/2022-08-31-Amazing-Adventures)
 
 ## 2021
 
