@@ -27,8 +27,9 @@ With the start of my junior year of college, I began a new series of posts. Here
 
 ## 2022
 
-- [The Immortal Life of Henrietta Lacks](/details/2022-01-22-Immortal-Life)
+- [Circe](/details/2022-09-05-Circe)
 - [The Amazing Adventures of Kavalier & Clay](/details/2022-08-31-Amazing-Adventures)
+- [The Immortal Life of Henrietta Lacks](/details/2022-01-22-Immortal-Life)
 
 ## 2021
 
