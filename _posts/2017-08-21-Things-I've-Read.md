@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Things I've Read"
-date: 2017-08-21
+date: 2017-8-21
 summary: "With the start of my junior year I'm beginning a new series of posts. Here I'll store my thoughts on every new thing (book, article, collection of poems, etc.) that I read and have a post's worth of thoughts on, whether academic or recreational. Please browse at your leisure if you're interested in finding something new to read, or just want to read my rants. I'll try to keep all these under a 3 minute read."
 ---
 

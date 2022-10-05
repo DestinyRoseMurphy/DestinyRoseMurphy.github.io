@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Jewish Wedding Now"
-date: 2022-10-05
+date: 2022-10-5
 author: "By Marlon James"
 ---
 
