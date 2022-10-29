@@ -27,6 +27,7 @@ With the start of my junior year of college, I began a new series of posts. Here
 
 ## 2022
 
+- [Dune](/details/2022-10-28-Dune)
 - [The Jewish Wedding Now](/details/2022-10-05-Jewish-Wedding-Now)
 - [Black Leopard Red Wolf](/details/2022-09-20-Black-Leopard)
 - [Circe](/details/2022-09-05-Circe)
