@@ -23,9 +23,11 @@ summary: "With the start of my junior year I'm beginning a new series of posts. 
 }
 </style>
 
-With the start of my junior year of college, I began a new series of posts. Here, I store my thoughts on every new thing (book, article, collection of poems, etc.) that I read and have a post's worth of thoughts on, whether academic or recreational. Please browse at your leisure if you're interested in finding something new to read, or just want to read my rants. I'll try to keep all these under a 3 minute read.
+With the start of my junior year of college, I began a new series of posts. Here, I store my thoughts on every new thing (book, article, collection of poems, etc.) that I read and have a post's worth of thoughts on, whether academic or recreational. Please browse at your leisure if you're interested in finding something new to read, or just want to read my rants. I'll try to keep all these under a 3 minute read. Page numbers supplied by [The Story Graph](https://app.thestorygraph.com/).
 
 ## 2022
+
+#### 7 Total Works, spanning 3,583 pages (5 fiction books, 2 non-fiction books) - 1 for School (369 pages), 6 for me (3,214).
 
 - [Moon Witch Spider King](/details/2022-12-26-Moon-Witch)
 - [Dune](/details/2022-10-28-Dune)
@@ -37,7 +39,7 @@ With the start of my junior year of college, I began a new series of posts. Here
 
 ## 2021
 
-#### 11 Total Works (5 fiction graphic-novels, 3 fiction books, 3 non-fiction books) - All 11 for Me
+#### 11 Total Works, spanning 2,742 pages (5 fiction graphic-novels, 3 fiction books, 3 non-fiction books) - All 11 for Me
 
 #### Favorite Work: [The Yiddish Policemen's Union](/details/2021-04-12-Yiddish-Police)
 
