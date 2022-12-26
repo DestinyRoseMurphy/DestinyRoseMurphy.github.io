@@ -27,6 +27,7 @@ With the start of my junior year of college, I began a new series of posts. Here
 
 ## 2022
 
+- [Moon Witch Spider King](/details/2022-12-26-Moon-Witch)
 - [Dune](/details/2022-10-28-Dune)
 - [The Jewish Wedding Now](/details/2022-10-05-Jewish-Wedding-Now)
 - [Black Leopard Red Wolf](/details/2022-09-20-Black-Leopard)
