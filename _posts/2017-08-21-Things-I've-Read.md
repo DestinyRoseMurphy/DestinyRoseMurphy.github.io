@@ -25,9 +25,15 @@ summary: "With the start of my junior year I'm beginning a new series of posts. 
 
 With the start of my junior year of college, I began a new series of posts. Here, I store my thoughts on every new thing (book, article, collection of poems, etc.) that I read and have a post's worth of thoughts on, whether academic or recreational. Please browse at your leisure if you're interested in finding something new to read, or just want to read my rants. I'll try to keep all these under a 3 minute read. Page numbers supplied by [The Story Graph](https://app.thestorygraph.com/).
 
+## 2023
+
 ## 2022
 
-#### 7 Total Works, spanning 3,583 pages (5 fiction books, 2 non-fiction books) - 1 for School (369 pages), 6 for me (3,214).
+#### 7 Total Works, spanning 3,583 pages (5 fiction books, 2 non-fiction books) - 1 for School (369 pages), 6 for me (3,214)
+
+#### Favorite Work: [Black Leopard Red Wolf](/details/2022-09-20-Black-Leopard)
+
+This year I read significantly fewer books than last year, but I actually read more pages, because I read several 600+ page epics. Black Leopard Red Wolf was an unexpected gift addition to my list, and I loved it. It's not a book I'd recommend to many people, because it's violent and sexual and unapologetically difficult to read, but I found it to be very refreshing and genuine, not complicated for complicated's sake, but complicated for good reason, and thus well worth the mental energy. I felt the sequel, Moon Witch Spider King, was quite underwhelming, so now I'm stuck in limbo hoping against hope that the author rounds out strong in the trilogy and gives BLRW the companion story it deserves.
 
 - [Moon Witch Spider King](/details/2022-12-26-Moon-Witch)
 - [Dune](/details/2022-10-28-Dune)
