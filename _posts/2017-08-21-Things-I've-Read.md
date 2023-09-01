@@ -27,6 +27,8 @@ With the start of my junior year of college, I began a new series of posts. Here
 
 ## 2023
 
+
+
 ## 2022
 
 #### 7 Total Works, spanning 3,583 pages (5 fiction books, 2 non-fiction books) - 1 for School (369 pages), 6 for me (3,214)
