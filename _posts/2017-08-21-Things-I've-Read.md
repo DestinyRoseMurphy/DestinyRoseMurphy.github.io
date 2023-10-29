@@ -27,7 +27,8 @@ With the start of my junior year of college, I began a new series of posts. Here
 
 ## 2023
 
-
+- [Murder on the Orient Express](/details/2023-10-26-Murder-on-Orient)
+- [To Sleep in a Sea of Stars](/details/2023-10-22-sleep-sea-stars)
 
 ## 2022
 
