@@ -27,6 +27,7 @@ With the start of my junior year of college, I began a new series of posts. Here
 
 ## 2023
 
+- [The Song of Achilles](/details/2023-11-05-Song-Achilles)
 - [Death on the Nile](/details/2023-10-31-Death-Nile)
 - [Murder on the Orient Express](/details/2023-10-26-Murder-on-Orient)
 - [To Sleep in a Sea of Stars](/details/2023-10-22-sleep-sea-stars)

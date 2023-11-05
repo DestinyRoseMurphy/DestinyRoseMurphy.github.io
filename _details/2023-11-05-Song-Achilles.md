@@ -1,0 +1,12 @@
+---
+layout: post
+title: "The Song of Achilles"
+date: "2023-11-05"
+author: "By Madeline Miller"
+---
+
+After thoroughly enjoying Circe last year, I'd been meaning to pick up Song of Achilles. Then, this year I watched season two of Good Omens, which broke my heart a bit and got me yearning for more gay love stories. I ordered this book while in Japan, and I decided to read it upon my return to the states to complete my literary palette refresh after the long wait of To Sleep in a Sea of Stars. I thought I'd start the book and read it slowly maybe over the course of a week or so, and instead I picked it up Sunday morning and I did not set it down until I was done the same day. 
+
+I think Song of Achilles far outmatches Circe. By giving the narrator's voice to Patroclus throughout, Miller lets us see Achilles through the eyes of an unwavering lover, thereby making him a far more sympathetic and interesting hero. The slow burn flowering of their childhood love makes the inevitable sorrow and rage of Achilles immensely more heartbreaking, and along the way the book is filled with beautiful, simple prose that speaks to a romance of the ages. It is a love story, but (unlike Circe) it does not shirk away from the fact that it is also a tragedy. Indeed, especially refreshing in the context of Greek myth, our main characters know that they are in a tragedy. They remind themselves repeatedly that they are facing down a preordained tragic death, and in doing so they present to us a love that is vibrant, raw, and enduring, even in the face of certain loss. I felt that Circe took the easy way out by evading death with her transition to humanity, but in Song of Achilles Miller rolls around in the sorrow that defines this love, and life, itself. 
+
+I loved this book. I cried through the last few chapters. I find only one flaw: it feels to me like Miller wants desperately to write about Odysseus, and his outsized role in Circe and in Song of Achilles stick out from the otherwise thematically consistent plot. Odysseus once again takes up a great deal of space in this story, as he did in Circe, almost getting the last word of the tale even though he had a fairly minor role in it. I could have done without the amount of attention lavished on him, and I hope Miller will let him stay out of future books, or will rewrite the Odyssey and be done with her obsession. 
