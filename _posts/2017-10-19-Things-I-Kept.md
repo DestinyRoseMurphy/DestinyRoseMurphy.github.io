@@ -43,7 +43,7 @@ Updating this list for the first time after graduating from school has been real
 	</div> 
 
   <div class="col">
-  	<li><a href="#Sitting">Living Room</a></li>
+  	<p style="margin-bottom: 0;"><a href="#Sitting">Living Room</a></p>
   	<p style="margin-bottom: 0;"><a href="#Kitchen">Kitchen</a></p>
   	<p style="margin-bottom: 0;"><a href="#Bathroom">Bathroom</a></p>
   	<ul>
