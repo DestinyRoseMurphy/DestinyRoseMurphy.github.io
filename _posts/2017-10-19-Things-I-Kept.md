@@ -43,11 +43,11 @@ Updating this list for the first time after graduating from school has been real
 			<li><a href="#Storage">In Other Closets</a></li>
 			<li><a href="#Entry">At the Door</a></li>
 			<li><a href="#Working">Desk</a></li>
-			<li><a href="#Sitting">Living Room</a></li>
 		</ul>
 	</div> 
 
   <div class="col">
+  	<li><a href="#Sitting">Living Room</a></li>
   	<p style="margin-bottom: 0;"><a href="#Kitchen">Kitchen</a></p>
   	<p style="margin-bottom: 0;"><a href="#Bathroom">Bathroom</a></p>
   	<ul>
@@ -66,10 +66,8 @@ Updating this list for the first time after graduating from school has been real
 
 * I got my mattress in 2019, and I feel like I'm starting to notice it wearing down a bit. I should consider replacing relatively soon.
 * I haven't put a whole lot of thought or research into what goes in and around my body during bathroom time. Seeing as things like soap, toothpaste, and deodorant touch sensitive parts of me every day, I should probably do some research.
-* Specifically within the bathroom I should cement my knowledge of hair and makeup products. These things can affect my confidence a lot during the day, and I'm currently blundering through them. 
-* Should upgrade from plastic to glass for kitchen items like Tupperware and pitchers. 
+* I'm working on upgrading to all stainless steel in the kitchen, which is going well! 
 * Does the kind of soap I use for things like dishes and laundry matter? I feel like it might but don't know, so that needs researching. 
-* I've got way too many things in my desk. Really need to cull that down. 
 
 #### <a name="Sleep"></a> Bedroom
 
