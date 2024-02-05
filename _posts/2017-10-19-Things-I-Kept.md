@@ -33,17 +33,13 @@ Updating this list for the first time after graduating from school has been real
 
 <div class="row">
   <div class="col">
-		<ul>
-			<li><a href="#Sleep">Bedroom</a></li>
-			<li><a href="#Clothes">Clothes</a></li>
-				<ul style="margin-bottom: 0;">
+		<p style="margin-bottom: 0;"><a href="#Sleep">Bedroom</a></p>
+  	<p style="margin-bottom: 0;"><a href="#Clothes">Clothes</a></p>
 			<li><a href="#Drawers">In Drawers</a></li>
 			<li><a href="#Hanging">In the Clothes Closet</a></li>
-				</ul>
-			<li><a href="#Storage">In Other Closets</a></li>
-			<li><a href="#Entry">At the Door</a></li>
-			<li><a href="#Working">Desk</a></li>
-		</ul>
+  	<p style="margin-bottom: 0;"><a href="#Storage">In Other Closets</a></p>
+  	<p style="margin-bottom: 0;"><a href="#Entry">At the Door</a></p>
+  	<p style="margin-bottom: 0;"><a href="#Working">Desk</a></p>
 	</div> 
 
   <div class="col">
