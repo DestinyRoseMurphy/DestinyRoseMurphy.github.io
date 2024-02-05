@@ -41,9 +41,9 @@ Updating this list for the first time after graduating from school has been real
 			<li><a href="#Hanging">In the Clothes Closet</a></li>
 				</ul>
 			<li><a href="#Storage">In Other Closets</a></li>
+			<li><a href="#Entry">At the Door</a></li>
 			<li><a href="#Working">Desk</a></li>
 			<li><a href="#Sitting">Living Room</a></li>
-			<li><a href="#Entry">At the Door</a></li>
 		</ul>
 	</div> 
 
@@ -51,14 +51,11 @@ Updating this list for the first time after graduating from school has been real
   	<p style="margin-bottom: 0;"><a href="#Kitchen">Kitchen</a></p>
   	<p style="margin-bottom: 0;"><a href="#Bathroom">Bathroom</a></p>
   	<ul>
-			<li><a href="#Hair">Hair</a></li>
-			<li><a href="#Makeup">Makeup</a></li>
 			<li><a href="#Medicine">Medicine Cabinet</a></li>
 		</ul>
 		<p style="margin-bottom: 0;"><a href="#Hobbies">Hobbies</a></p>
 		<ul>
 			<li><a href="#Tea">Tea</a></li>
-			<li><a href="#Cross">Cross Stitching</a></li>
 			<li><a href="#Alive">Keeping Things Alive</a></li>
 		</ul>
   </div>
@@ -130,7 +127,7 @@ Last time I updated this list it was 2021, and I wrote about how I'd gotten rid 
 * Ski materials: jacket, pants, goggles, helmet, gloves balaclava, ski socks, smartwool upper and lower body layer set, insulated turtleneck 
 
 
-##### <a name="Storage"></a> In Other Closets
+#### <a name="Storage"></a> In Other Closets
 * [Vacuum](https://www.groupon.com/deals/gg-cm-shark-rocket-deluxe-pro-flex-vacuum-blue-uv330-certified-refurbished) w/ extra attachments
 * Broom and dustpan 
 * Shelves organizer
@@ -146,7 +143,7 @@ Last time I updated this list it was 2021, and I wrote about how I'd gotten rid 
 * Quinn Emanuel backpack for trips to office
 
 
-##### <a name="Entry"></a> At the Door
+#### <a name="Entry"></a> At the Door
 * Shoe organizer containing: winter boots, rain boots, 3 pair booties, house shoes, 4 pairs heels, 2 pair flip flops, hiking boots, climbing shoes, knee high boots, black Converse, lifting shoes, running shoes, four pairs flats
 * Briefcase containing: chapstick, tissues, notepad, pencil, protein bars
 * Purse containing: earplugs, wallet, chapstick, tampon, insurance cards, gift cards, cash
@@ -175,6 +172,7 @@ Last time I updated this list it was 2021, and I wrote about how I'd gotten rid 
 * Chess timer 
 * Flexible lamp 
 * Calendar for goal tracking
+* Yale zip up for throwing on before meetings
 * Coasters
 * Purple stapler
 * Pencil organizer box containing pens, pencils, sharpies, letter opener from Tanis, and a pair of scissors
@@ -263,7 +261,7 @@ I got my first kitchen all to myself in the fall semester of 2017, and I've been
 * Paper towel holder
 * Dish washing gloves
 * 5 metal mixing bowls, collapsible plastic strainer, 2 metal strainers
-* Kitchen Catch-All Drawer items - wine bottle opener, can opener,  whisk, rice paddle, zesting globe, zester, boba straw, boba straw cleaner, basting brush, garlic press
+* Kitchen Catch-All Drawer items - wine bottle opener, can opener,  whisk, rice paddle, zesting glove, zester, boba straw, boba straw cleaner, basting brush, garlic press
 * Step ladder
 * Squishy floor mat](https://www.amazon.com/gp/product/B06XCSRR5H/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) - For foot comfort during long cooking and dish cleaning
 * [Trash can](https://www.wayfair.com/school-furniture-and-supplies/pdp/wayfair-basics-plastic-13-gallon-step-on-trash-can-w000472815.html?category=1864277&placement=1&slot=0&sponsoredid=d6e4b8880135f59b1915cb0feef82380bae7456d89e96bd6628d96eecc312614&_txid=otAicF1LNPY1TQlUb3clAg%3D%3D&isB2b=0)
@@ -390,5 +388,3 @@ During the COVID-19 plague, I started getting more interested in keeping plants.
 	* Watering can
 	* Plant fertilizer 
 	* Big bag of potting soil
-
-
