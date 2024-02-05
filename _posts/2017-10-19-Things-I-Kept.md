@@ -48,10 +48,8 @@ Updating this list for the first time after graduating from school has been real
   	<p style="margin-bottom: 0;"><a href="#Bathroom">Bathroom</a></p>
 			<li><a href="#Medicine">Medicine Cabinet</a></li>
 		<p style="margin-bottom: 0;"><a href="#Hobbies">Hobbies</a></p>
-		<ul>
 			<li><a href="#Tea">Tea</a></li>
 			<li><a href="#Alive">Keeping Things Alive</a></li>
-		</ul>
   </div>
 </div>
 
