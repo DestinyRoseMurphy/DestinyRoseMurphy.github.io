@@ -46,9 +46,7 @@ Updating this list for the first time after graduating from school has been real
   	<p style="margin-bottom: 0;"><a href="#Sitting">Living Room</a></p>
   	<p style="margin-bottom: 0;"><a href="#Kitchen">Kitchen</a></p>
   	<p style="margin-bottom: 0;"><a href="#Bathroom">Bathroom</a></p>
-  	<ul>
 			<li><a href="#Medicine">Medicine Cabinet</a></li>
-		</ul>
 		<p style="margin-bottom: 0;"><a href="#Hobbies">Hobbies</a></p>
 		<ul>
 			<li><a href="#Tea">Tea</a></li>
