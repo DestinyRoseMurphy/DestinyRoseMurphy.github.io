@@ -69,7 +69,7 @@ I love Shakespeare. I read almost all the histories in college and fell in love,
 			<li>Romeo and Juliet</li>
 			<li>Timon of Athens </li>
 			<li>Julius Caesar</li>
-				<ul class="square">
+				<ul>
   				<li>2017 - Royal Shakespeare Companyasdf</li>
 				</ul>
 			<li>Macbeth</li>
