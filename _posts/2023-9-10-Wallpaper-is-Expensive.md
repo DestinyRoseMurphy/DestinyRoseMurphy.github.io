@@ -1,5 +1,5 @@
-
-layout:
+---
+layout: post
 title: "Wallpaper is Expensive; Make Your Own"
 date: 2023-9-10
 summary: "I wanted some incredibly expensive wallpaper, and couldn't afford it. So, I hand painted a replacement. It was super fun, and surprisingly easy! Here's how I did it."
