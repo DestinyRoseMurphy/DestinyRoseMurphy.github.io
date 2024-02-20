@@ -34,6 +34,9 @@ I love Shakespeare. I read almost all the histories in college and fell in love,
 			<li>Measure for Measure</li>
 			<li>The Comedy of Errors</li>
 			<li>Much Ado About Nothing</li>
+				<ul>
+  				<li>2017 - The Globe</li>
+				</ul>
 			<li>Love's Labour's Lost</li>
 			<li>A Midsummer Night's Dream</li>
 			<li>The Merchant of Venice</li>
@@ -70,7 +73,7 @@ I love Shakespeare. I read almost all the histories in college and fell in love,
 			<li>Timon of Athens </li>
 			<li>Julius Caesar</li>
 				<ul>
-  				<li>2017 - Royal Shakespeare Companyasdf</li>
+  				<li>2017 - Royal Shakespeare Company in Stratford Upon Avon</li>
 				</ul>
 			<li>Macbeth</li>
 			<li>Hamlet</li>
