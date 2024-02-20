@@ -47,7 +47,7 @@ I love Shakespeare. I read almost all the histories in college and fell in love,
 	</div> 
 
   <div class="col">
-			<p style="margin-bottom: 0;">Tragedies</p>
+			<p style="margin-bottom: font-weight: bold;">Tragedies</p>
 			<li>King John</li>
 			<li>Richard II</li>
 			<li>Henry IV, Part 1</li>
@@ -62,7 +62,7 @@ I love Shakespeare. I read almost all the histories in college and fell in love,
   </div>
 
   <div class="col">
-			<p style="margin-bottom: 0;">Histories</p>
+			<p style="margin-bottom: 0; font-weight: bold;">Histories</p>
 			<li>Troilus and Cressida </li>
 			<li>Coriolanus</li>
 			<li>Titus Andronicus</li>
