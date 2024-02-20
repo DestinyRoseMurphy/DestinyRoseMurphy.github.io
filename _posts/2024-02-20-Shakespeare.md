@@ -27,7 +27,7 @@ I love Shakespeare. I read almost all the histories in college and fell in love,
 
 <div class="row">
   <div class="col">
-			<p style="margin-bottom: 0;" "font-weight: bold;">Comedies</p>
+			<p style="margin-bottom: 0; font-weight: bold;">Comedies</p>
 			<li>The Tempest</li>
 			<li>The Two Gentlemen of Verona</li>
 			<li>The Merry Wives of Windsor</li>
