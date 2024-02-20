@@ -27,16 +27,19 @@ I love Shakespeare. I read almost all the histories in college and fell in love,
 
 <div class="row">
   <div class="col">
+			<p style="margin-bottom: 0;">Comedies</p>
 			<li>Test On Column One</li>
 			<li>Test</li>
 	</div> 
 
   <div class="col">
+			<p style="margin-bottom: 0;">Tragedies</p>
 			<li>Test on Column Two</li>
 			<li>Test</li>
   </div>
 
   <div class="col">
+			<p style="margin-bottom: 0;">Histories</p>
 			<li>Test on Column Three</li>
 			<li>Test</li>
   </div>
