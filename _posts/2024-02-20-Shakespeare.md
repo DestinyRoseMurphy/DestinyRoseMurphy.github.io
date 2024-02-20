@@ -9,8 +9,8 @@ summary: "I want to see all of Shakespeare's plays, and it's getting difficult t
 .row{
 	display: flex;
 	flex-wrap: wrap;
-	margin-right: -10px;
-  margin-left: -10px;
+	margin-right: -15px;
+  margin-left: -15px;
 }
 .col{
   flex-basis: 0;
@@ -18,8 +18,8 @@ summary: "I want to see all of Shakespeare's plays, and it's getting difficult t
   max-width: 100%;
   position: relative;
   width: 100%;
-  padding-right: 15px;
-  padding-left: 15px;
+  padding-right: 5px;
+  padding-left: 5px;
 }
 </style>
 
