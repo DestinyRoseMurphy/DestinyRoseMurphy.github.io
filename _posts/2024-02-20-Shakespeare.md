@@ -28,15 +28,15 @@ I love Shakespeare. I read almost all the histories in college and fell in love,
 <div class="row">
   <div class="col">
 			<p style="margin-bottom: 0; font-weight: bold;">Comedies</p>
+			<li>Much Ado About Nothing</li>
+				<ul>
+  				<li>2017 - The Globe</li>
+				</ul>
 			<li>The Tempest</li>
 			<li>The Two Gentlemen of Verona</li>
 			<li>The Merry Wives of Windsor</li>
 			<li>Measure for Measure</li>
 			<li>The Comedy of Errors</li>
-			<li>Much Ado About Nothing</li>
-				<ul>
-  				<li>2017 - The Globe</li>
-				</ul>
 			<li>Love's Labour's Lost</li>
 			<li>A Midsummer Night's Dream</li>
 			<li>The Merchant of Venice</li>
