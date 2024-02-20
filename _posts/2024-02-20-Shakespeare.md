@@ -35,4 +35,9 @@ I love Shakespeare. I read almost all the histories in college and fell in love,
 			<li>Test on Column Two</li>
 			<li>Test</li>
   </div>
+
+  <div class="col">
+			<li>Test on Column Three</li>
+			<li>Test</li>
+  </div>
 </div>
