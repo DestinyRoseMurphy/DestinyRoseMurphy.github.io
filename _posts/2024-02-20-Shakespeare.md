@@ -29,7 +29,7 @@ I love Shakespeare. I read almost all the histories in college and fell in love,
   <div class="col">
 			<p style="margin-bottom: 0; font-weight: bold;">Comedies</p>
 			<li>Much Ado About Nothing</li>
-				<ul>
+				<ul class="disc">
   				<li>2017 - The Globe</li>
 				</ul>
 			<li>The Tempest</li>
