@@ -66,17 +66,20 @@ I love Shakespeare. I read almost all the histories in college and fell in love,
 
   <div class="col">
 			<p style="margin-bottom: 0; font-weight: bold;">Histories</p>
+			<li>Julius Caesar</li>
+				<ul>
+  				<li>2017 - Royal Shakespeare Company in Stratford Upon Avon</li>
+				</ul>
+			<li>Hamlet</li>
+				<ul>
+  				<li>2017 - At the West End, with Andrew Scott!</li>
+				</ul>	
 			<li>Troilus and Cressida </li>
 			<li>Coriolanus</li>
 			<li>Titus Andronicus</li>
 			<li>Romeo and Juliet</li>
 			<li>Timon of Athens </li>
-			<li>Julius Caesar</li>
-				<ul>
-  				<li>2017 - Royal Shakespeare Company in Stratford Upon Avon</li>
-				</ul>
 			<li>Macbeth</li>
-			<li>Hamlet</li>
 			<li>King Lear</li>
 			<li>Othello</li>
 			<li>Antony and Cleopatra</li>
