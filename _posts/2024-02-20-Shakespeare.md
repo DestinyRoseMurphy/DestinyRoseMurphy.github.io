@@ -21,6 +21,9 @@ summary: "I want to see all of Shakespeare's plays, and it's getting difficult t
   padding-right: 5px;
   padding-left: 5px;
 }
+ul.b {
+  list-style-type: square;
+}
 </style>
 
 I love Shakespeare. I read almost all the histories in college and fell in love, and now that I'm an adult with cash and access to good theater I see as much Shakespeare on stage as I can. I dream of seeing every show Shakespeare wrote, including the bad ones, and I have now seen enough of them that I'm struggling to keep track! This post is a tracker for what shows I have seen, when, and where, so that I can know what to look for. Also, so that I can look back fondly on the good shows I have seen, and remember the shows that I hated so that I can see better productions of those. 
@@ -29,8 +32,8 @@ I love Shakespeare. I read almost all the histories in college and fell in love,
   <div class="col">
 			<p style="margin-bottom: 0; font-weight: bold;">Comedies</p>
 			<li>Much Ado About Nothing</li>
-				<ul class="disc">
-  				<li>2017 - The Globe test disc</li>
+				<ul>
+  				<li>2017 - The Globe</li>
 				</ul>
 			<li>The Tempest</li>
 			<li>The Two Gentlemen of Verona</li>
