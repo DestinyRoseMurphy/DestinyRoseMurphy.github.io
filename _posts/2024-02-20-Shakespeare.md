@@ -31,7 +31,7 @@ I love Shakespeare. I read almost all the histories in college and fell in love,
 			<li>The Tempest</li>
 			<li>The Two Gentlemen of Verona</li>
 			<li>The Merry Wives of Windsor</li>
-			<li>Measure for Measure PP</li>
+			<li>Measure for Measure</li>
 			<li>The Comedy of Errors</li>
 			<li>Much Ado About Nothing</li>
 			<li>Love's Labour's Lost</li>
@@ -41,7 +41,7 @@ I love Shakespeare. I read almost all the histories in college and fell in love,
 			<li>The Taming of the Shrew</li>
 			<li>All's Well That Ends Well</li>
 			<li>Twelfth Night</li>
-			<li>The Winter's Tale LR PP</li>
+			<li>The Winter's Tale</li>
 			<li>Pericles, Prince of Tyre</li>
 			<li>The Two Noble Kinsmen </li>
 	</div> 
