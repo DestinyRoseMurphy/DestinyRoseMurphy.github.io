@@ -9,8 +9,8 @@ summary: "I want to see all of Shakespeare's plays, and it's getting difficult t
 .row{
 	display: flex;
 	flex-wrap: wrap;
-	margin-right: -15px;
-  margin-left: -15px;
+	margin-right: -10px;
+  margin-left: -10px;
 }
 .col{
   flex-basis: 0;
@@ -27,7 +27,7 @@ I love Shakespeare. I read almost all the histories in college and fell in love,
 
 <div class="row">
   <div class="col">
-			<p style="margin-bottom: 0;">Comedies</p>
+			<p style="margin-bottom: 0;" "font-weight: bold;">Comedies</p>
 			<li>The Tempest</li>
 			<li>The Two Gentlemen of Verona</li>
 			<li>The Merry Wives of Windsor</li>
