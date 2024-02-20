@@ -69,6 +69,7 @@ I love Shakespeare. I read almost all the histories in college and fell in love,
 			<li>Romeo and Juliet</li>
 			<li>Timon of Athens </li>
 			<li>Julius Caesar</li>
+				<li>2017 - Royal Shakespeare Company</li>
 			<li>Macbeth</li>
 			<li>Hamlet</li>
 			<li>King Lear</li>
@@ -78,3 +79,4 @@ I love Shakespeare. I read almost all the histories in college and fell in love,
   </div>
 </div>
 
+Honorable Mentions (Shakespeare-Adjacent): 
