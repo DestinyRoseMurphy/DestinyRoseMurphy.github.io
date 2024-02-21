@@ -33,20 +33,37 @@ I love Shakespeare. I read almost all the histories in college and fell in love,
 			<p style="margin-bottom: 0; font-weight: bold;">Comedies</p>
 			<li>Much Ado About Nothing</li>
 				<ul>
-  				<li>2017 - The Globe</li>
+  				<li>2017 - The Globe (my first every live Shakespeare!)</li>
+				</ul>
+			<li>The Taming of the Shrew</li>
+				<ul>
+  				<li>2018 - Dallas Shakespeare in the Park (terrible)</li>
+				</ul>
+			<li>The Comedy of Errors</li>
+				<ul>
+  				<li>2018 - Dallas Shakespeare in the Park (terrible)</li>
+				</ul>
+			<li>The Merchant of Venice</li>
+				<ul>
+  				<li>July 31, 2018 - Utah Shakespeare Festival (fantastic)</li>
+				</ul>
+			<li>The Merry Wives of Windsor</li>
+				<ul>
+  				<li>Aug. 1, 2018 - Utah Shakespeare Festival (fun)</li>
+  				<li>July 10, 2021 - NYC Shakespeare in the Park (cut out a whole wife!)</li>
+				</ul>
+			<li>Twelfth Night</li>
+				<ul>
+  				<li>June 17, 2019 - Drunk Shakespeare at The Wild Detectives (my favorite version of the fool I've ever seen)</li>
+  				<li>July 10, 2019 - Utah Shakespeare Festival (fun)</li>
 				</ul>
 			<li>The Tempest</li>
 			<li>The Two Gentlemen of Verona</li>
-			<li>The Merry Wives of Windsor</li>
 			<li>Measure for Measure</li>
-			<li>The Comedy of Errors</li>
 			<li>Love's Labour's Lost</li>
 			<li>A Midsummer Night's Dream</li>
-			<li>The Merchant of Venice</li>
 			<li>As You Like It</li>
-			<li>The Taming of the Shrew</li>
 			<li>All's Well That Ends Well</li>
-			<li>Twelfth Night</li>
 			<li>The Winter's Tale</li>
 			<li>Pericles, Prince of Tyre</li>
 			<li>The Two Noble Kinsmen </li>
@@ -54,15 +71,30 @@ I love Shakespeare. I read almost all the histories in college and fell in love,
 
   <div class="col">
 			<p style="margin-bottom: 0; font-weight: bold;">Tragedies</p>
+			<li>Henry VI, Part 1</li>
+				<ul>
+  				<li>Aug. 2, 2018 - Utah Shakespeare Festival (solid production but this play is so bad)</li>
+				</ul>
+			<li>Henry VI, Part 2</li>
+				<ul>
+  				<li>July 8, 2019 - Utah Shakespeare Festival (solid production but this play is so bad)</li>
+				</ul>
+			<li>Henry VI, Part 3</li>
+				<ul>
+  				<li>July 8, 2019 - Utah Shakespeare Festival (solid production but this play is so bad)</li>
+				</ul>
+			<li>Henry IV, Part 1</li>
+				<ul>
+  				<li>Oct. 6, 2019 - DC Shakespeare Theater (acceptable, but not inspired)</li>
+				</ul>
+			<li>Richard III</li>
+				<ul>
+  				<li>July 15, 2022 - NYC Shakespeare in the Park (a very fun reversal of expectations about disability, but the lambast by Richard's mother was done in ASL without an interpreter, and I think it really took away from what the production was trying to accomplish)</li>
+				</ul>
 			<li>King John</li>
 			<li>Richard II</li>
-			<li>Henry IV, Part 1</li>
-			<li>Henry IV, Part 2</li>
 			<li>Henry V</li>
-			<li>Henry VI, Part 1</li>
-			<li>Henry VI, Part 2</li>
-			<li>Henry VI, Part 3</li>
-			<li>Richard III</li>
+			<li>Henry IV, Part 2</li>
 			<li>Henry VIII</li>
 			<li>Edward III </li>
   </div>
@@ -75,19 +107,27 @@ I love Shakespeare. I read almost all the histories in college and fell in love,
 				</ul>
 			<li>Hamlet</li>
 				<ul>
-  				<li>2017 - At the West End, with Andrew Scott!</li>
+  				<li>2017 - At the West End (with Andrew Scott!)</li>
+  				<li>July 9, 2019 - Utah Shakespeare Festival (the strongest Hamlet actor I've seen so far)</li>
+  				<li>July 8, 2023 - NYC Shakespeare in the Park (great Polonius, bad everything else)</li>
+				</ul>	
+			<li>Othello</li>
+				<ul>
+  				<li>Aug. 1, 2018 - Utah Shakespeare Festival (acceptable, but not inspired)</li>
+				</ul>
+			<li>Macbeth</li>
+				<ul>
+  				<li>July 9, 2019 - Utah Shakespeare Festival (not spooky enough)</li>
 				</ul>	
 			<li>Troilus and Cressida </li>
 			<li>Coriolanus</li>
 			<li>Titus Andronicus</li>
 			<li>Romeo and Juliet</li>
 			<li>Timon of Athens </li>
-			<li>Macbeth</li>
 			<li>King Lear</li>
-			<li>Othello</li>
 			<li>Antony and Cleopatra</li>
 			<li>Cymbeline </li>
   </div>
 </div>
 
-Honorable Mentions (Shakespeare-Adjacent): 
+Honorable Mentions (Shakespeare-Adjacent): All the Devils Are Here (overview of Shakespearean villains; delightful), The Book of Will (not memorable), Sleep No More (sort of Macbeth but barely), Drunk Shakespeare (a version that did not adhere to the text, but was nevertheless a fun telling of Macbeth), The Tempest (interpretive dance version).
