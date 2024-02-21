@@ -77,11 +77,11 @@ I love Shakespeare. I read almost all the histories in college and fell in love,
 				</ul>
 			<li>Henry VI, Part 2</li>
 				<ul>
-  				<li>July 8, 2019 - Utah Shakespeare Festival (solid production but this play is so bad)</li>
+  				<li>July 8, 2019 - Utah Shakespeare Festival (same)</li>
 				</ul>
 			<li>Henry VI, Part 3</li>
 				<ul>
-  				<li>July 8, 2019 - Utah Shakespeare Festival (solid production but this play is so bad)</li>
+  				<li>July 8, 2019 - Utah Shakespeare Festival (same)</li>
 				</ul>
 			<li>Henry IV, Part 1</li>
 				<ul>
@@ -89,7 +89,7 @@ I love Shakespeare. I read almost all the histories in college and fell in love,
 				</ul>
 			<li>Richard III</li>
 				<ul>
-  				<li>July 15, 2022 - NYC Shakespeare in the Park (a very fun reversal of expectations about disability, but the lambast by Richard's mother was done in ASL without an interpreter, and I think it really took away from what the production was trying to accomplish)</li>
+  				<li>July 15, 2022 - NYC Shakespeare in the Park (a cool reversal of expectations about disability, but the lambast by Richard's mother was done in ASL without an interpreter, and I think it really took away from what the production was trying to accomplish)</li>
 				</ul>
 			<li>King John</li>
 			<li>Richard II</li>
@@ -107,7 +107,7 @@ I love Shakespeare. I read almost all the histories in college and fell in love,
 				</ul>
 			<li>Hamlet</li>
 				<ul>
-  				<li>2017 - At the West End (with Andrew Scott!)</li>
+  				<li>2017 - In London (with Andrew Scott!)</li>
   				<li>July 9, 2019 - Utah Shakespeare Festival (the strongest Hamlet actor I've seen so far)</li>
   				<li>July 8, 2023 - NYC Shakespeare in the Park (great Polonius, bad everything else)</li>
 				</ul>	
@@ -129,5 +129,7 @@ I love Shakespeare. I read almost all the histories in college and fell in love,
 			<li>Cymbeline </li>
   </div>
 </div>
+
+
 
 Honorable Mentions (Shakespeare-Adjacent): All the Devils Are Here (overview of Shakespearean villains; delightful), The Book of Will (not memorable), Sleep No More (sort of Macbeth but barely), Drunk Shakespeare (a version that did not adhere to the text, but was nevertheless a fun telling of Macbeth), The Tempest (interpretive dance version).
