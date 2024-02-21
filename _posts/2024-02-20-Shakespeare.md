@@ -30,7 +30,7 @@ I love Shakespeare. I read almost all the histories in college and fell in love,
 
 <div class="row">
   <div class="col">
-			<p style="margin-bottom: 0; font-weight: bold;">Comedies</p>
+			<p style="margin-bottom: 0; font-weight: bold;">Comedies: 6/16</p>
 			<li>Much Ado About Nothing</li>
 				<ul>
   				<li>2017 - The Globe (my first every live Shakespeare!)</li>
@@ -70,7 +70,7 @@ I love Shakespeare. I read almost all the histories in college and fell in love,
 	</div> 
 
   <div class="col">
-			<p style="margin-bottom: 0; font-weight: bold;">Tragedies</p>
+			<p style="margin-bottom: 0; font-weight: bold;">Histories: 5/11</p>
 			<li>Henry VI, Part 1</li>
 				<ul>
   				<li>Aug. 2, 2018 - Utah Shakespeare Festival (solid production but this play is so bad)</li>
@@ -100,7 +100,7 @@ I love Shakespeare. I read almost all the histories in college and fell in love,
   </div>
 
   <div class="col">
-			<p style="margin-bottom: 0; font-weight: bold;">Histories</p>
+			<p style="margin-bottom: 0; font-weight: bold;">Tragedies: 4/12</p>
 			<li>Julius Caesar</li>
 				<ul>
   				<li>2017 - Royal Shakespeare Company in Stratford Upon Avon</li>
