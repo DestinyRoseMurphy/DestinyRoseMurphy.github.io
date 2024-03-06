@@ -106,7 +106,7 @@ I love Shakespeare. I read almost all the histories in college and fell in love,
 			<p style="margin-bottom: 0; font-weight: bold;">Tragedies: 4/12</p>
 			<li>Julius Caesar</li>
 				<ul>
-  				<li>2017 - Royal Shakespeare Company in Stratford Upon Avon</li>
+  				<li>2017 - Royal Shakespeare Company in Stratford Upon Avon (stunning)</li>
 				</ul>
 			<li>Hamlet</li>
 				<ul>
