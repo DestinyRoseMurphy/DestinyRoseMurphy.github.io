@@ -30,7 +30,7 @@ I love Shakespeare. I read almost all the histories in college and fell in love,
 
 <div class="row">
   <div class="col">
-			<p style="margin-bottom: 0; font-weight: bold;">Comedies: 7/16</p>
+			<p style="margin-bottom: 0; font-weight: bold;">Comedies: 8/16</p>
 			<li>Much Ado About Nothing</li>
 				<ul>
   				<li>2017 - The Globe (my first every live Shakespeare!)</li>
@@ -52,6 +52,10 @@ I love Shakespeare. I read almost all the histories in college and fell in love,
   				<li>Aug. 1, 2018 - Utah Shakespeare Festival (fun)</li>
   				<li>July 10, 2021 - NYC Shakespeare in the Park (cut out a whole wife!)</li>
 				</ul>
+			<li>As You Like It</li>
+				<ul>
+  				<li>March 1, 2019 - SMU Meadows (high quality student production, but still clearly students)</li>
+				</ul>
 			<li>Twelfth Night</li>
 				<ul>
   				<li>June 17, 2019 - Drunk Shakespeare at The Wild Detectives (my favorite version of the fool I've ever seen)</li>
@@ -66,7 +70,6 @@ I love Shakespeare. I read almost all the histories in college and fell in love,
 			<li>Measure for Measure</li>
 			<li>Love's Labour's Lost</li>
 			<li>A Midsummer Night's Dream</li>
-			<li>As You Like It</li>
 			<li>All's Well That Ends Well</li>
 			<li>The Winter's Tale</li>
 			<li>The Two Noble Kinsmen </li>
