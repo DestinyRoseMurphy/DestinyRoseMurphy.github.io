@@ -133,4 +133,4 @@ I love Shakespeare. I read almost all the histories in college and fell in love,
   </div>
 </div>
 
-<p style="padding-top: 1cm;">Honorable Mentions (Shakespeare-Adjacent): All the Devils Are Here (overview of Shakespearean villains; delightful), The Book of Will (not memorable), Sleep No More (sort of Macbeth but barely), Drunk Shakespeare (a version that did not adhere to the text, but was nevertheless a fun telling of Macbeth), The Tempest (interpretive dance version-terrible).</p>
+<p style="padding-top: 1cm;">Honorable Mentions (Shakespeare-Adjacent): All the Devils Are Here (overview of Shakespearean villains; delightful), The Book of Will (not memorable), Sleep No More (sort of Macbeth but barely; cool spectacle), Drunk Shakespeare (a version that did not adhere to the text, but was nevertheless a fun telling of Macbeth), The Tempest (interpretive dance version; terrible).</p>
