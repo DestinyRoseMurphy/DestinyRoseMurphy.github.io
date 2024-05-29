@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Carnal Israel"
-date: "2023-02-22"
+date: "2024-02-22"
 author: "By Daniel Boyarin"
 ---
 
