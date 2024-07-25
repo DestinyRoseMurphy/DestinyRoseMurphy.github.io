@@ -27,6 +27,7 @@ With the start of my junior year of college, I began a new series of posts. Here
 
 ## 2024
 
+ - [The Maltese Falcon](/details/2024-07-24-Maltese-Falcon)
  - [Attached](/details/2024-06-16-Attached)
  - [The Starless Sea](/details/2024-05-28-starless-sea)
  - [Carnal Israel: Reading Sex in Talmudic Culture](/details/2024-02-22-Carnal-Israel)
