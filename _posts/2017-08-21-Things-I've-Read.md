@@ -27,10 +27,11 @@ With the start of my junior year of college, I began a new series of posts. Here
 
 ## 2024
 
- - [The Maltese Falcon](/details/2024-07-24-Maltese-Falcon)
- - [Attached](/details/2024-06-16-Attached)
- - [The Starless Sea](/details/2024-05-28-starless-sea)
- - [Carnal Israel: Reading Sex in Talmudic Culture](/details/2024-02-22-Carnal-Israel)
+- [The Thin Man](/details/2024-08-06-Thin-Man)
+- [The Maltese Falcon](/details/2024-07-24-Maltese-Falcon)
+- [Attached](/details/2024-06-16-Attached)
+- [The Starless Sea](/details/2024-05-28-starless-sea)
+- [Carnal Israel: Reading Sex in Talmudic Culture](/details/2024-02-22-Carnal-Israel)
 
 ## 2023
 
@@ -38,7 +39,7 @@ With the start of my junior year of college, I began a new series of posts. Here
 
 #### Favorite Work: [The Song of Achilles](/details/2023-11-05-Song-Achilles)
 
-This year I read the least I've read for a long time! This was my first full time year working, so I had a lot of adjusting to do, not to mention a move in the middle of the year. The first book I read was also super long, and I never got crazy into it, so I felt a bit stuck in a reading rut with it for most of the year. The two Poirot novels I read were a delight though, and Song of Achilles is now one of my favorite books ever. It's a perfect genre tragedy, seeped in delicate and genuine sexuality that drips off the page like honey. Madeline Miller needs to take more of my money. 
+This year I read the least I've read for a long time! This was my first full time year working, so I had a lot of adjusting to do, not to mention a move in the middle of the year. The first book I read was also super long, and I never got crazy into it, so I felt a bit stuck in a reading rut with it for most of the year. The two Poirot novels I read were a delight though, and Song of Achilles is now one of my favorite books ever. It's a perfect genre tragedy, seeped in delicate and genuine sexuality that drips off the page like honey. Madeline Miller needs to take more of my money.
 
 - [The Song of Achilles](/details/2023-11-05-Song-Achilles)
 - [Death on the Nile](/details/2023-10-31-Death-Nile)
