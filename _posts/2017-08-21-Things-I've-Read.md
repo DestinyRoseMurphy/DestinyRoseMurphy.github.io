@@ -27,6 +27,7 @@ With the start of my junior year of college, I began a new series of posts. Here
 
 ## 2024
 
+- [The Fellowship of the Ring](/details/2024-11-09-Fellowship)
 - [Zorba the Greek: The Saint's Life of Alexis Zorba](/details/2024-10-21-Zorba)
 - [The Thin Man](/details/2024-08-06-Thin-Man)
 - [The Maltese Falcon](/details/2024-07-24-Maltese-Falcon)
