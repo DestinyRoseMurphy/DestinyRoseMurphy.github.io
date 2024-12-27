@@ -27,6 +27,12 @@ With the start of my junior year of college, I began a new series of posts. Here
 
 ## 2024
 
+#### 8 Total Works, spanning 2,619 pages (6 fiction, 2 non-fiction)
+
+#### Favorite Work: [Carnal Israel: Reading Sex in Talmudic Culture](/details/2024-02-22-Carnal-Israel)
+
+This year I was glad to find my stride again with making room for reading for pleasure in my work-heavy life. Also, this is the first year that my favorite book is not fiction! Carnal Israel had been recommended to me several times over as a great piece of Jewish scholarship, and although it was dense (and I found myself having to look up new words left and right) I really loved it. Boyarin's commitment to working with Jewish texts to make meaning fit for a modern world is commendable, and I look forward to reading--and I hope talking--about much more of his work, probably at roughly a pace of once a year with lots of refreshing fiction to rest the mental muscles between. The Thin Man is a close runner-up this year, but although it was an absolutely delicious romp of a detective story I just don't think I'll remember it as long as I will Carnal Israel.
+
 - [The Two Towers](/details/2024-12-26-two-towers)
 - [The Fellowship of the Ring](/details/2024-11-09-Fellowship)
 - [Zorba the Greek: The Saint's Life of Alexis Zorba](/details/2024-10-21-Zorba)
