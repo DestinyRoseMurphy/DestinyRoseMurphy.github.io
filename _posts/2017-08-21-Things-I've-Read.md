@@ -27,7 +27,7 @@ With the start of my junior year of college, I began a new series of posts. Here
 
 ## 2024
 
-- [The Two Towers](/details/2024-12-26-Two-Towers)
+- [The Two Towers](/details/2024-12-26-two-towers)
 - [The Fellowship of the Ring](/details/2024-11-09-Fellowship)
 - [Zorba the Greek: The Saint's Life of Alexis Zorba](/details/2024-10-21-Zorba)
 - [The Thin Man](/details/2024-08-06-Thin-Man)
