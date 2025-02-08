@@ -33,7 +33,7 @@ I love Shakespeare. I read almost all the histories in college and fell in love,
 			<p style="margin-bottom: 0; font-weight: bold;">Comedies: 8/16</p>
 			<li>Much Ado About Nothing</li>
 				<ul>
-  				<li>2017 - The Globe (my first every live Shakespeare!)</li>
+  				<li>2017 - The Globe (my first ever live Shakespeare!)</li>
 				</ul>
 			<li>The Taming of the Shrew</li>
 				<ul>
