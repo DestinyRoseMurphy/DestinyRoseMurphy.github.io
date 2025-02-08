@@ -26,7 +26,7 @@ ul.b {
 }
 </style>
 
-I love Shakespeare. I read almost all the histories in college and fell in love, and now that I'm an adult with cash and access to good theater I see as much Shakespeare on stage as I can. I dream of seeing every show Shakespeare wrote, including the bad ones, and I have now seen enough of them that I'm struggling to keep track! This post is a tracker for what shows I have seen, when, and where, so that I can know what to look for. Also, so that I can look back fondly on the good shows I have seen, and remember the shows that I hated so that I can see better productions of those. 
+I love Shakespeare. I read almost all the histories in college and fell in love, and now that I'm an adult with cash and access to good theater I see as much Shakespeare on stage as I can. I dream of seeing every show Shakespeare wrote, including the bad ones, and I have now seen enough of them that I'm struggling to keep track! This post is a tracker for what shows I have seen, when, and where, so that I can know what to look for. Also, so that I can look back fondly on the good shows I have seen, and remember the shows that I hated so that I can see better productions of those.
 
 <div class="row">
   <div class="col">
@@ -73,7 +73,7 @@ I love Shakespeare. I read almost all the histories in college and fell in love,
 			<li>All's Well That Ends Well</li>
 			<li>The Winter's Tale</li>
 			<li>The Two Noble Kinsmen </li>
-	</div> 
+	</div>
 
   <div class="col">
 			<p style="margin-bottom: 0; font-weight: bold;">Histories: 5/11</p>
@@ -106,7 +106,7 @@ I love Shakespeare. I read almost all the histories in college and fell in love,
   </div>
 
   <div class="col">
-			<p style="margin-bottom: 0; font-weight: bold;">Tragedies: 4/12</p>
+			<p style="margin-bottom: 0; font-weight: bold;">Tragedies: 5/12</p>
 			<li>Julius Caesar</li>
 				<ul>
   				<li>2017 - Royal Shakespeare Company in Stratford Upon Avon (stunning)</li>
@@ -125,10 +125,13 @@ I love Shakespeare. I read almost all the histories in college and fell in love,
 				<ul>
   				<li>July 9, 2019 - Utah Shakespeare Festival (not spooky enough)</li>
 				</ul>	
+			<li>Romeo and Juliet</li>
+<				<ul>
+  				<li>Feb 7, 2024 - Circe in the Square (incredible Romeo and person playing Mercutio + Friar, but they added pop songs at several points including cuing the audience to sing We Are Young in the emotion build of Act 2 and it was an awful choice; also cut the death of Paris wtf! Juliet was just not believable, and having one person play Nurse and Tybalt didn't land</li>
+				</ul>	
 			<li>Troilus and Cressida </li>
 			<li>Coriolanus</li>
 			<li>Titus Andronicus</li>
-			<li>Romeo and Juliet</li>
 			<li>Timon of Athens </li>
 			<li>King Lear</li>
 			<li>Antony and Cleopatra</li>
