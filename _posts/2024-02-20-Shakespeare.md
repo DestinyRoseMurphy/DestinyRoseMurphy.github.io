@@ -127,7 +127,7 @@ I love Shakespeare. I read almost all the histories in college and fell in love,
 				</ul>	
 			<li>Romeo and Juliet</li>
 				<ul>
-  				<li>Feb 7, 2024 - Circe in the Square (incredible Romeo and person playing Mercutio + Friar, but they added pop songs at several points including cuing the audience to sing We Are Young in the emotion build of Act 2 and it was an awful choice; also cut the death of Paris wtf! Juliet was just not believable, and having one person play Nurse and Tybalt didn't land</li>
+  				<li>Feb 7, 2024 - Circle in the Square (incredible Romeo and person playing Mercutio + Friar, but they added pop songs at several points including cuing the audience to sing We Are Young in the emotion build of Act 2 and it was an awful choice; also cut the death of Paris wtf! Juliet was just not believable, and having one person play Nurse and Tybalt didn't land</li>
 				</ul>	
 			<li>Troilus and Cressida </li>
 			<li>Coriolanus</li>
