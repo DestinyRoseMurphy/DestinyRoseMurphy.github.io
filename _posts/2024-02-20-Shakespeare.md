@@ -69,13 +69,14 @@ I love Shakespeare. I read almost all the histories in college and fell in love,
 				<ul>
 					<li>July 2, 2025 - Bridge Theater in London (fun modern immersive production! It swapped Oberon and Titania so that Oberon goes for Bottom, and it made Theseus warlike in the beginning which I liked but it softened him by the end which felt like a cowardly read)</li>
 				</ul>
-			<li>The Tempest</li>
-			<li>The Two Gentlemen of Verona</li>
-			<li>Measure for Measure</li>
-			<li>Love's Labour's Lost</li>
-			<li>All's Well That Ends Well</li>
-			<li>The Winter's Tale</li>
-			<li>The Two Noble Kinsmen </li>
+			<li>Not Yet Seen</li>
+			<ul>The Tempest</ul>
+			<ul>The Two Gentlemen of Verona</ul>
+			<ul>Measure for Measure</ul>
+			<ul>Love's Labour's Lost</ul>
+			<ul>All's Well That Ends Well</ul>
+			<ul>The Winter's Tale</ul>
+			<ul>The Two Noble Kinsmen </ul>
 	</div>
 
   <div class="col">
