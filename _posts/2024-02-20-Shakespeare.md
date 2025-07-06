@@ -30,7 +30,7 @@ I love Shakespeare. I read almost all the histories in college and fell in love,
 
 <div class="row">
   <div class="col">
-			<p style="margin-bottom: 0; font-weight: bold;">Comedies: 8/16</p>
+			<p style="margin-bottom: 0; font-weight: bold;">Comedies: 9/16</p>
 			<li>Much Ado About Nothing</li>
 				<ul>
   				<li>2017 - The Globe (my first ever live Shakespeare!)</li>
@@ -65,11 +65,14 @@ I love Shakespeare. I read almost all the histories in college and fell in love,
 				<ul>
 					<li>March 5, 2024 - Fiasco Theater (great production, awful play)</li>
 				</ul>
+			<li>A Midsummer Night's Dream</li>
+				<ul>
+					<li>July 2, 2025 - Bridge Theater in London (fun modern immersive production! It swapped Oberon and Titania so that Oberon goes for Bottom, and it made Theseus warlike in the beginning which I liked but it softened him by the end which felt like a cowardly read)</li>
+				</ul>
 			<li>The Tempest</li>
 			<li>The Two Gentlemen of Verona</li>
 			<li>Measure for Measure</li>
 			<li>Love's Labour's Lost</li>
-			<li>A Midsummer Night's Dream</li>
 			<li>All's Well That Ends Well</li>
 			<li>The Winter's Tale</li>
 			<li>The Two Noble Kinsmen </li>
