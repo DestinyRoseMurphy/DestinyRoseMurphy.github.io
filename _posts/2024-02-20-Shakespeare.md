@@ -70,13 +70,13 @@ I love Shakespeare. I read almost all the histories in college and fell in love,
 					<li>July 2, 2025 - Bridge Theater in London (fun modern immersive production! It swapped Oberon and Titania so that Oberon goes for Bottom, and it made Theseus warlike in the beginning which I liked but it softened him by the end which felt like a cowardly read)</li>
 				</ul>
 			<li>Not Yet Seen</li>
-			<ul>The Tempest</ul>
-			<ul>The Two Gentlemen of Verona</ul>
-			<ul>Measure for Measure</ul>
-			<ul>Love's Labour's Lost</ul>
-			<ul>All's Well That Ends Well</ul>
-			<ul>The Winter's Tale</ul>
-			<ul>The Two Noble Kinsmen </ul>
+				<ul>The Tempest</ul>
+				<ul>The Two Gentlemen of Verona</ul>
+				<ul>Measure for Measure</ul>
+				<ul>Love's Labour's Lost</ul>
+				<ul>All's Well That Ends Well</ul>
+				<ul>The Winter's Tale</ul>
+				<ul>The Two Noble Kinsmen </ul>
 	</div>
 
   <div class="col">
@@ -101,12 +101,13 @@ I love Shakespeare. I read almost all the histories in college and fell in love,
 				<ul>
   				<li>July 15, 2022 - NYC Shakespeare in the Park (a cool reversal of expectations about disability, but the lambast by Richard's mother was done in ASL without an interpreter, and I think it really took away from what the production was trying to accomplish)</li>
 				</ul>
-			<li>King John</li>
-			<li>Richard II</li>
-			<li>Henry V</li>
-			<li>Henry IV, Part 2</li>
-			<li>Henry VIII</li>
-			<li>Edward III </li>
+			<li>Not Yet Seen</li>
+				<ul>King John</ul>
+				<ul>Richard II</ul>
+				<ul>Henry V</ul>
+				<ul>Henry IV, Part 2</ul>
+				<ul>Henry VIII</ul>
+				<ul>Edward III </ul>
   </div>
 
   <div class="col">
@@ -133,13 +134,14 @@ I love Shakespeare. I read almost all the histories in college and fell in love,
 				<ul>
   				<li>Feb 7, 2024 - Circle in the Square (incredible Romeo and person playing Mercutio + Friar, but they added pop songs at several points including cuing the audience to sing We Are Young in the emotion build of Act 2 and it was an awful choice; also cut the death of Paris wtf! Juliet was just not believable, and having one person play Nurse and Tybalt didn't land</li>
 				</ul>	
-			<li>Troilus and Cressida </li>
-			<li>Coriolanus</li>
-			<li>Titus Andronicus</li>
-			<li>Timon of Athens </li>
-			<li>King Lear</li>
-			<li>Antony and Cleopatra</li>
-			<li>Cymbeline </li>
+			<li>Not Yet Seen</li>
+				<ul>Troilus and Cressida </ul>
+				<ul>Coriolanus</ul>
+				<ul>Titus Andronicus</ul>
+				<ul>Timon of Athens </ul>
+				<ul>King Lear</ul>
+				<ul>Antony and Cleopatra</ul>
+				<ul>Cymbeline </ul>
   </div>
 </div>
 
