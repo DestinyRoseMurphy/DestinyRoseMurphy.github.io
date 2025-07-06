@@ -101,7 +101,7 @@ I love Shakespeare. I read almost all the histories in college and fell in love,
 				<ul>
   				<li>July 15, 2022 - NYC Shakespeare in the Park (a cool reversal of expectations about disability, but the lambast by Richard's mother was done in ASL without an interpreter, and I think it really took away from what the production was trying to accomplish)</li>
 				</ul>
-			<li>Not Yet Seen</li>
+			<li><u>Not Yet Seen</u></li>
 				<ul>King John</ul>
 				<ul>Richard II</ul>
 				<ul>Henry V</ul>
