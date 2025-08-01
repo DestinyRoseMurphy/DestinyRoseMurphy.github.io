@@ -27,6 +27,7 @@ With the start of my junior year of college, I began a new series of posts. Here
 
 ## 2025
 
+- [The Master & Margarita](/details/2025-07-31-master-marg)
 - [The Return of the King](/details/2025-06-27-return-king)
 
 ## 2024
