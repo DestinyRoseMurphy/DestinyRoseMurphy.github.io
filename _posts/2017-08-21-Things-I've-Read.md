@@ -27,6 +27,7 @@ With the start of my junior year of college, I began a new series of posts. Here
 
 ## 2025
 
+- [Mistborn](/2025-12-03-Mistborn)
 - [Red Harvest](/details/2025-09-14-red-harvest)
 - [The Behavior Gap](/details/2025-09-10-behavior-gap)
 - [The Master & Margarita](/details/2025-07-31-master-marg)
