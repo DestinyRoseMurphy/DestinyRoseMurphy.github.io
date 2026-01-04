@@ -27,6 +27,12 @@ With the start of my junior year of college, I began a new series of posts. Here
 
 ## 2025
 
+#### 5 Total Works, spanning 1,824 pages (4 fiction, 1 non-fiction)
+
+#### Favorite Work: [The Master & Margarita](/details/2025-07-31-master-marg)
+
+After a banner reading year in 2024, my goal in 2025 was just to read 2,000 pages, and I just about got there (I am currently about 150 pages into the Mistborn sequel); starting the year with Return of the King made things difficult, as I found the book to be a pretty big disappointment. This year's clear winner was a fantastic palette cleanser off Tolkien, The Master & Margarita, which was a surprise contender as it was a gift from my mom. Just like her gift in 2022, [Black Leopard Red Wolf](/details/2022-09-20-Black-Leopard), The Master & Margarita is reeling with striking imagery in a lush world. And, to my surprise, it has an approachableness that I think Russian literature often lacks. It's not a perfect book, but I'm glad to have read this classic that deserves its place in the canon.
+
 - [Mistborn](/details/2025-12-03-Mistborn)
 - [Red Harvest](/details/2025-09-14-red-harvest)
 - [The Behavior Gap](/details/2025-09-10-behavior-gap)
