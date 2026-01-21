@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mistborn"
+title: "The Well of Ascension"
 date: "2026-01-20"
 author: "By Brandon Sanderson"
 ---
