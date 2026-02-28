@@ -114,7 +114,7 @@ I love Shakespeare. I read almost all the histories in college and fell in love,
   </div>
 
   <div class="col">
-			<p style="margin-bottom: 0; font-weight: bold;">Tragedies: 5/12</p>
+			<p style="margin-bottom: 0; font-weight: bold;">Tragedies: 6/12</p>
 			<li>Julius Caesar</li>
 				<ul>
   				<li>2017 - Royal Shakespeare Company in Stratford Upon Avon (stunning)</li>
@@ -137,9 +137,12 @@ I love Shakespeare. I read almost all the histories in college and fell in love,
 				<ul>
   				<li>Feb 7, 2024 - Circle in the Square (incredible Romeo and person playing Mercutio + Friar, but they added pop songs at several points including cuing the audience to sing We Are Young in the emotion build of Act 2 and it was an awful choice; also cut the death of Paris wtf! Juliet was just not believable, and having one person play Nurse and Tybalt didn't land)</li>
 				</ul>	
+				<li>Coriolanus</li>
+				<ul>
+  				<li>February 28, 2026 - Theater for a New Audience (so disappointing. They gender swapped Aufidius, gave the characters guns instead of swords, and vaguely modernized enough of the clothing to pull all the homoeroticism right out, thus making the play soulless. The production was supplemented with three jumbotrons playing slight-lag thermal vision drone footage of the whole production for absolutely zero reason)</li>
+				</ul>	
 			<li><u>Not Yet Seen</u></li>
 				<ul>Troilus and Cressida </ul>
-				<ul>Coriolanus</ul>
 				<ul>Titus Andronicus</ul>
 				<ul>Timon of Athens </ul>
 				<ul>King Lear</ul>
