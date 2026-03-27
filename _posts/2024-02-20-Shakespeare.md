@@ -114,7 +114,7 @@ I love Shakespeare. I read almost all the histories in college and fell in love,
   </div>
 
   <div class="col">
-			<p style="margin-bottom: 0; font-weight: bold;">Tragedies: 6/12</p>
+			<p style="margin-bottom: 0; font-weight: bold;">Tragedies: 7/13</p>
 			<li>Julius Caesar</li>
 				<ul>
   				<li>2017 - Royal Shakespeare Company in Stratford Upon Avon (stunning)</li>
@@ -141,9 +141,12 @@ I love Shakespeare. I read almost all the histories in college and fell in love,
 				<ul>
   				<li>February 28, 2026 - Theater for a New Audience (so disappointing. They gender swapped Aufidius, gave the characters guns instead of swords, and vaguely modernized enough of the clothing to pull all the homoeroticism right out, thus making the play soulless. The production was supplemented with three jumbotrons playing slight-lag thermal vision drone footage of the whole production for absolutely zero reason)</li>
 				</ul>	
-			<li><u>Not Yet Seen</u></li>
+				<li>Titus Andronicus</li>
+				<ul>
+					<li>March 26, 2026 - Red Bull Theater (absolutely wonderful production. Aaron the Moor was played by the same guy that did Coriolanus the month prior and I just don't love him, but everything else was entirely perfect)</li>
+				</ul>
+				<li><u>NNot Yet Seen</li></u>N
 				<ul>Troilus and Cressida </ul>
-				<ul>Titus Andronicus</ul>
 				<ul>Timon of Athens </ul>
 				<ul>King Lear</ul>
 				<ul>Antony and Cleopatra</ul>
