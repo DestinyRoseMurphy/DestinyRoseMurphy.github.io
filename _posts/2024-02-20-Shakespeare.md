@@ -145,7 +145,7 @@ I love Shakespeare. I read almost all the histories in college and fell in love,
 				<ul>
 					<li>March 26, 2026 - Red Bull Theater (absolutely wonderful production. Aaron the Moor was played by the same guy that did Coriolanus the month prior and I just don't love him, but everything else was entirely perfect)</li>
 				</ul>
-				<li><u>NNot Yet Seen</li></u>N
+				<li><u>Not Yet Seen</u></li>
 				<ul>Troilus and Cressida </ul>
 				<ul>Timon of Athens </ul>
 				<ul>King Lear</ul>
