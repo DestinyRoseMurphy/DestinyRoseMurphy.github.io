@@ -135,7 +135,8 @@ I love Shakespeare. I read almost all the histories in college and fell in love,
 				</ul>	
 			<li>Romeo and Juliet</li>
 				<ul>
-  				<li>Feb 7, 2024 - Circle in the Square (incredible Romeo and person playing Mercutio + Friar, but they added pop songs at several points including cuing the audience to sing We Are Young in the emotion build of Act 2 and it was an awful choice; also cut the death of Paris wtf! Juliet was just not believable, and having one person play Nurse and Tybalt didn't land)</li>
+  				<li>Feb. 7, 2024 - Circle in the Square (incredible Romeo and person playing Mercutio + Friar, but they added pop songs at several points including cuing the audience to sing We Are Young in the emotion build of Act 2 and it was an awful choice; also cut the death of Paris wtf! Juliet was just not believable, and having one person play Nurse and Tybalt didn't land)</li>
+  				<li>May 29, 2026 - Shakespeare in the Park (Another great Romeo, and a fantastic Mercutio, but they put truly so much of this play in Spanish and it made me so sad. Also another show that cuts Paris' death! Let me see the man die!)</li>
 				</ul>	
 			<li>Coriolanus</li>
 				<ul>
