@@ -27,6 +27,7 @@ With the start of my junior year of college, I began a new series of posts. Here
 
 ## 2026
 
+- [Her Body And Other Parties](/deatils/2026-09-18-her-body-and)
 - [The Hero of Ages](/details/2026-07-15-hero-ages)
 - [The Well of Ascension](/details/2026-01-20-well-ascension)
 
